@@ -1,0 +1,22 @@
+# xuma_spelling_pseudo.dict.yaml
+
+# 伪词典，不能用于打字，仅用于配合 lua_filter 实现三重注解功能。
+# 修改过部分简码。
+
+# 不要修改本词典。
+
+# Vim syn-match command for highlight (yamlFlowCollection matches '[]' areas):
+#   syntax match CommaInComment /,/ containedin=yamlFlowCollection nextgroup=XumaInComment
+#   syntax match XumaInComment /\v[[:alpha:].]+,/me=e-1
+#   highlight link CommaInComment Delimiter
+#   highlight link XumaInComment PreProc
+
+---
+name: "leopard_spelling_pseudo"
+version: "2021.03.31"
+sort: by_weight
+columns:
+  - text
+  - code
+...
+

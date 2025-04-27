@@ -1,0 +1,15 @@
+.DS_Store
+.vscode
+*.gram
+/assets/gendict/target
+/deploy/generator
+/schemas/hao/build
+/schemas/hao/installation.yaml
+/schemas/hao/user.yaml
+/schemas/hao/sync
+/schemas/hao/hao.smart
+/schemas/hao/*.userdb
+/schemas/hao/*.userdb.bak
+/schemas/hao/dicts/*.userdb
+/schemas/hao/weasel.custom.yaml
+/schemas/releases
