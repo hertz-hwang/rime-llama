@@ -5909,10 +5909,10 @@ encoder:
 𬂩	asv	0.000001
 梌	asz	0.000001
 欛	atgm	0.000001
+櫺	ati	0.000001
+欞	atis	0.000001
 𫑡	atj	0.000001
 柃	atn	0.000001
-櫺	atri	0.000001
-欞	atrs	0.000001
 檑	ats	0.000001
 桴	aty	0.000001
 槱	atyv	0.000001
@@ -9478,6 +9478,8 @@ encoder:
 𤙖	til	0.000001
 㧱	tipc	0.000001
 釦	tiq	0.000001
+靈	tir	0.000001
+酃	tirt	0.000001
 弇	tiwh	0.000001
 酦	tiwo	0.000001
 鎂	tix	0.000001
@@ -9545,8 +9547,6 @@ encoder:
 醐	tqm	0.000001
 酤	tqmf	0.000001
 陬	tqw	0.000001
-靈	tri	0.000001
-酃	trit	0.000001
 鄠	trp	0.000001
 雩	trpv	0.000001
 覓	tsc	0.000001
@@ -9560,6 +9560,7 @@ encoder:
 醄	tsus	0.000001
 𱉻	tsw	0.000001
 酴	tszp	0.000001
+醽	tti	0.000001
 酹	ttl	0.000001
 隃	ttm	0.000001
 鈴	ttnd	0.000001
@@ -9567,7 +9568,6 @@ encoder:
 銀	ttp	0.000001
 陰	ttpp	0.000001
 鉤	ttq	0.000001
-醽	ttr	0.000001
 𨰻	tttt	0.000001
 陑	tua	0.000001
 爭	tuak	0.000001
@@ -10393,12 +10393,12 @@ encoder:
 烜	ytf	0.000001
 熻	yti	0.000001
 𬌗	ytiq	0.000001
+爧	ytis	0.000001
 罒	ytk	0.000001
 煺	ytl	0.000001
 齡	ytn	0.000001
 齣	ytq	0.000001
 竘	ytqf	0.000001
-爧	ytr	0.000001
 㸌	ytv	0.000001
 罦	yty	0.000001
 爝	ytyl	0.000001
@@ -11372,6 +11372,7 @@ encoder:
 𨗷	afil	0.000000
 楇	afiq	0.000000
 𨵧	afiq	0.000000
+㮺	afir	0.000000
 楅	afis	0.000000
 𨵩	afis	0.000000
 𣓊	afiu	0.000000
@@ -11423,7 +11424,6 @@ encoder:
 𪵦	afqp	0.000000
 𰘮	afra	0.000000
 𪴊	afre	0.000000
-㮺	afri	0.000000
 闙	afri	0.000000
 㯾	afrl	0.000000
 𨘨	afrl	0.000000
@@ -11897,6 +11897,7 @@ encoder:
 𬄿	aiqw	0.000000
 橾	aira	0.000000
 𨶴	airb	0.000000
+楍	airu	0.000000
 闆	airu	0.000000
 𣖎	airu	0.000000
 闝	airy	0.000000
@@ -12960,7 +12961,6 @@ encoder:
 柡	arhg	0.000000
 桟	arie	0.000000
 𨴛	arip	0.000000
-楍	ariq	0.000000
 𪲶	ariq	0.000000
 𬄊	arjb	0.000000
 闍	arje	0.000000
@@ -13265,7 +13265,7 @@ encoder:
 橢	atgm	0.000000
 𣛞	athg	0.000000
 𱂓	athi	0.000000
-㯓	ati	0.000000
+㯓	atie	0.000000
 闟	atie	0.000000
 梄	atif	0.000000
 𱤵	atii	0.000000
@@ -13276,6 +13276,7 @@ encoder:
 𣠄	atir	0.000000
 𨷰	atir	0.000000
 検	atis	0.000000
+𩑊	atis	0.000000
 𱤍	atis	0.000000
 椧	atiw	0.000000
 𭫃	atiw	0.000000
@@ -13323,7 +13324,6 @@ encoder:
 𩐝	atqf	0.000000
 𪓞	atqf	0.000000
 𣔔	atrk	0.000000
-𩑊	atrs	0.000000
 𣕌	atry	0.000000
 㯒	atsc	0.000000
 樰	atsi	0.000000
@@ -16311,6 +16311,7 @@ encoder:
 𩰂	btir	0.000000
 𩵁	btir	0.000000
 墖	btis	0.000000
+𱘟	btis	0.000000
 𩔩	btiw	0.000000
 𨙭	btjk	0.000000
 𨙷	btjk	0.000000
@@ -16352,7 +16353,6 @@ encoder:
 坸	btq	0.000000
 𡊦	btqf	0.000000
 𱗫	btr	0.000000
-𱘟	btrs	0.000000
 𡒘	bts	0.000000
 𡐅	btsi	0.000000
 𪤠	btsl	0.000000
@@ -17512,6 +17512,7 @@ encoder:
 𮭲	ciqf	0.000000
 𲈞	cir	0.000000
 𠄤	cirl	0.000000
+𪋓	ciru	0.000000
 𨛔	cit	0.000000
 䦅	civ	0.000000
 𰽨	civy	0.000000
@@ -18083,7 +18084,6 @@ encoder:
 𭾩	crg	0.000000
 麆	crhf	0.000000
 𢉺	crhf	0.000000
-𪋓	criq	0.000000
 𪋏	crje	0.000000
 𪋑	crje	0.000000
 𭥬	crje	0.000000
@@ -18301,6 +18301,8 @@ encoder:
 𲈀	cth	0.000000
 𰃣	ctiq	0.000000
 𱍛	ctiq	0.000000
+麢	ctir	0.000000
+𪋶	ctir	0.000000
 𬭏	ctje	0.000000
 郋	ctjk	0.000000
 𨚀	ctjk	0.000000
@@ -18321,8 +18323,6 @@ encoder:
 𮍘	ctq	0.000000
 𰽭	ctqf	0.000000
 𮸣	ctqn	0.000000
-麢	ctr	0.000000
-𪋶	ctri	0.000000
 䴫	ctt	0.000000
 𪋪	cttn	0.000000
 𪋯	ctu	0.000000
@@ -20322,7 +20322,6 @@ encoder:
 𮵜	dkq	0.000000
 𮱥	dkr	0.000000
 𮵘	dkrl	0.000000
-𥜫	dkrs	0.000000
 𤾵	dkrw	0.000000
 𤼽	dksk	0.000000
 𮷌	dksk	0.000000
@@ -21474,7 +21473,8 @@ encoder:
 𡸃	dthf	0.000000
 𫎨	dthf	0.000000
 𠝀	dthk	0.000000
-嶖	dti	0.000000
+𠣋	dti	0.000000
+嶖	dtie	0.000000
 𡷾	dtif	0.000000
 𥙫	dtif	0.000000
 𪩞	dtii	0.000000
@@ -21482,7 +21482,13 @@ encoder:
 峇	dtiq	0.000000
 祫	dtiq	0.000000
 𬎴	dtiq	0.000000
+𤾻	dtir	0.000000
+𥜧	dtir	0.000000
+䄥	dtis	0.000000
 𡸴	dtis	0.000000
+𡿡	dtis	0.000000
+𤿅	dtis	0.000000
+𥜫	dtis	0.000000
 𡹮	dtiw	0.000000
 𥚫	dtiw	0.000000
 𮱮	dtiw	0.000000
@@ -21556,14 +21562,8 @@ encoder:
 𫎧	dtqf	0.000000
 𫞮	dtqf	0.000000
 𨖏	dtql	0.000000
-𠣋	dtr	0.000000
-𪩁	dtrh	0.000000
-𤾻	dtri	0.000000
-𥜧	dtri	0.000000
+𪩁	dtr	0.000000
 嶀	dtrp	0.000000
-䄥	dtrs	0.000000
-𡿡	dtrs	0.000000
-𤿅	dtrs	0.000000
 𥛟	dts	0.000000
 𫶘	dtsl	0.000000
 㟎	dtsm	0.000000
@@ -23251,6 +23251,7 @@ encoder:
 𫚫	eira	0.000000
 甌	eirf	0.000000
 𫧜	eirh	0.000000
+𱑍	eiri	0.000000
 𱟟	eiri	0.000000
 剾	eirk	0.000000
 𡬿	eirl	0.000000
@@ -24069,8 +24070,7 @@ encoder:
 𮀀	erhf	0.000000
 𭔈	erhs	0.000000
 𫳲	erht	0.000000
-𱑍	eri	0.000000
-𭓮	erip	0.000000
+𭓮	eri	0.000000
 𦑥	erje	0.000000
 𰶠	erjt	0.000000
 𫦄	erk	0.000000
@@ -30422,7 +30422,10 @@ encoder:
 鞈	gtiq	0.000000
 𢈈	gtiq	0.000000
 𢊴	gtir	0.000000
+𥌼	gtir	0.000000
 験	gtis	0.000000
+𢌔	gtis	0.000000
+𤫩	gtis	0.000000
 𥇥	gtis	0.000000
 𩌼	gtis	0.000000
 𩥾	gtis	0.000000
@@ -30505,9 +30508,6 @@ encoder:
 駒	gtqf	0.000000
 𩉿	gtqf	0.000000
 廄	gtqi	0.000000
-𥌼	gtri	0.000000
-𢌔	gtrs	0.000000
-𤫩	gtrs	0.000000
 𥊥	gtrw	0.000000
 𭺈	gtry	0.000000
 𮧭	gtry	0.000000
@@ -35675,8 +35675,11 @@ encoder:
 𦅩	htij	0.000000
 𭊼	htil	0.000000
 𭱔	htil	0.000000
+𤅫	htin	0.000000
 𱁰	htip	0.000000
+𤃩	htir	0.000000
 𭲠	htir	0.000000
+𤅷	htis	0.000000
 𱨎	htiv	0.000000
 𱨨	htiv	0.000000
 𢍡	htiw	0.000000
@@ -35774,10 +35777,7 @@ encoder:
 𣿿	htqj	0.000000
 𣹄	htql	0.000000
 𤂪	htqn	0.000000
-𤃩	htr	0.000000
-𤅫	htrn	0.000000
-𰝋	htrn	0.000000
-𤅷	htrs	0.000000
+𰝋	htr	0.000000
 𤀍	htsb	0.000000
 䌐	htsc	0.000000
 漞	htsc	0.000000
@@ -38551,6 +38551,7 @@ encoder:
 㖪	iiif	0.000000
 𦎘	iiif	0.000000
 𩎹	iiif	0.000000
+𠄷	iiim	0.000000
 𰈪	iiin	0.000000
 嚶	iiis	0.000000
 𭍕	iiit	0.000000
@@ -39950,12 +39951,14 @@ encoder:
 𱍠	irf	0.000000
 𠱼	irfp	0.000000
 𠵛	irfp	0.000000
+𠻰	irfq	0.000000
 𮬋	irfx	0.000000
 𡄃	irg	0.000000
 𠵀	irgl	0.000000
 𰈶	irgl	0.000000
 𰈮	irgo	0.000000
 𡅝	irgw	0.000000
+𭊲	irhh	0.000000
 𧵸	iri	0.000000
 賎	irie	0.000000
 咾	irip	0.000000
@@ -39986,10 +39989,15 @@ encoder:
 㕗	iron	0.000000
 𡅾	iroo	0.000000
 𦏇	iroo	0.000000
+𠼛	iroq	0.000000
 㘙	iror	0.000000
+𡅴	iror	0.000000
+𡆉	iror	0.000000
 𦍴	irot	0.000000
 䍯	irow	0.000000
 𠱓	irow	0.000000
+𡅔	irow	0.000000
+𡅮	irow	0.000000
 𧵥	irow	0.000000
 𩜻	iroz	0.000000
 𭊉	irp	0.000000
@@ -40011,6 +40019,7 @@ encoder:
 㗁	irrp	0.000000
 𱔜	irrt	0.000000
 𠻝	irsb	0.000000
+𡀓	irsb	0.000000
 嘽	irsg	0.000000
 𩏥	irsg	0.000000
 𬏕	irsg	0.000000
@@ -40022,7 +40031,9 @@ encoder:
 䍵	iru	0.000000
 𧶄	irua	0.000000
 𱓂	irue	0.000000
+𠱠	iruf	0.000000
 𰈬	irv	0.000000
+𧮥	irvm	0.000000
 㖆	irwf	0.000000
 𠵬	irwi	0.000000
 𮹖	irwl	0.000000
@@ -40257,6 +40268,8 @@ encoder:
 𭌸	itil	0.000000
 韐	itiq	0.000000
 𫎖	itiq	0.000000
+𦏪	itir	0.000000
+𦏰	itis	0.000000
 𦏮	itiv	0.000000
 啽	itiw	0.000000
 𠵴	itiw	0.000000
@@ -40331,9 +40344,7 @@ encoder:
 𡅈	itqp	0.000000
 𠴉	itr	0.000000
 唨	itrh	0.000000
-𦏪	itri	0.000000
 𠻢	itrp	0.000000
-𦏰	itrs	0.000000
 𠽏	itrw	0.000000
 𢿩	itry	0.000000
 𫬚	itry	0.000000
@@ -42236,6 +42247,7 @@ encoder:
 𢦱	jfie	0.000000
 𰲳	jfie	0.000000
 𢔔	jfif	0.000000
+𧕁	jfif	0.000000
 𮝣	jfii	0.000000
 𨏟	jfij	0.000000
 𫋖	jfik	0.000000
@@ -42336,7 +42348,6 @@ encoder:
 𪌇	jfqp	0.000000
 𫊨	jfqp	0.000000
 𬀼	jfra	0.000000
-𧕁	jfrf	0.000000
 㬖	jfri	0.000000
 𣉿	jfrj	0.000000
 𨎝	jfrj	0.000000
@@ -44872,7 +44883,11 @@ encoder:
 𣆗	jtiq	0.000000
 𫡥	jtiq	0.000000
 𮯚	jtiq	0.000000
+䡼	jtir	0.000000
 𧕅	jtir	0.000000
+䡿	jtis	0.000000
+𣌟	jtis	0.000000
+𧖜	jtis	0.000000
 𣉂	jtiw	0.000000
 𧍬	jtiw	0.000000
 𲆮	jtjc	0.000000
@@ -44963,10 +44978,6 @@ encoder:
 蚼	jtqf	0.000000
 軥	jtqf	0.000000
 𣊤	jtqn	0.000000
-䡼	jtr	0.000000
-䡿	jtrs	0.000000
-𣌟	jtrs	0.000000
-𧖜	jtrs	0.000000
 𧐎	jtsc	0.000000
 𧏭	jtsd	0.000000
 轌	jtsi	0.000000
@@ -47911,7 +47922,9 @@ encoder:
 𠌧	ktip	0.000000
 佮	ktiq	0.000000
 𰇮	ktiq	0.000000
+𧲙	ktir	0.000000
 倹	ktis	0.000000
+𰶰	ktis	0.000000
 𠊈	ktiw	0.000000
 𰁭	ktj	0.000000
 𨛤	ktjk	0.000000
@@ -47954,8 +47967,6 @@ encoder:
 仱	ktpv	0.000000
 𫢥	ktpx	0.000000
 豞	ktqf	0.000000
-𧲙	ktr	0.000000
-𰶰	ktrs	0.000000
 𧱻	kts	0.000000
 俀	ktsm	0.000000
 𠍖	ktso	0.000000
@@ -50876,6 +50887,11 @@ encoder:
 𤝰	ltiq	0.000000
 𧳇	ltiq	0.000000
 𨉫	ltiq	0.000000
+𤣍	ltir	0.000000
+𦫃	ltir	0.000000
+𤜙	ltis	0.000000
+𤣤	ltis	0.000000
+𦫊	ltis	0.000000
 𨉟	ltiw	0.000000
 郍	ltjk	0.000000
 𤜡	ltjk	0.000000
@@ -50951,12 +50967,7 @@ encoder:
 𨈳	ltqf	0.000000
 𥖞	ltqq	0.000000
 𠘓	ltr	0.000000
-𤣍	ltri	0.000000
-𦫃	ltri	0.000000
 𬍌	ltrl	0.000000
-𤜙	ltrs	0.000000
-𤣤	ltrs	0.000000
-𦫊	ltrs	0.000000
 𠘜	ltry	0.000000
 艝	lts	0.000000
 𰄈	ltsi	0.000000
@@ -55423,6 +55434,7 @@ encoder:
 粭	mtiq	0.000000
 䏩	mtiq	0.000000
 詥	mtiq	0.000000
+𥾂	mtis	0.000000
 𦝡	mtiw	0.000000
 𧩸	mtiw	0.000000
 𦟊	mtjc	0.000000
@@ -55493,7 +55505,6 @@ encoder:
 𡱈	mtqf	0.000000
 𭩒	mtqn	0.000000
 謣	mtr	0.000000
-𥾂	mtrs	0.000000
 𦡕	mts	0.000000
 膤	mtsi	0.000000
 𫟀	mtsi	0.000000
@@ -58568,6 +58579,10 @@ encoder:
 𨟲	ntif	0.000000
 𨟻	ntif	0.000000
 𱞙	ntif	0.000000
+𤖥	ntio	0.000000
+𰒡	ntir	0.000000
+㦭	ntis	0.000000
+𤖦	ntis	0.000000
 𢜰	ntiw	0.000000
 𭝕	ntiw	0.000000
 㦕	ntjd	0.000000
@@ -58616,10 +58631,6 @@ encoder:
 𢎅	ntqf	0.000000
 𤖵	ntqf	0.000000
 𢤟	ntqn	0.000000
-𰒡	ntr	0.000000
-𤖥	ntro	0.000000
-㦭	ntrs	0.000000
-𤖦	ntrs	0.000000
 𪭃	nts	0.000000
 𰒅	ntsi	0.000000
 𢚶	ntsm	0.000000
@@ -61738,6 +61749,8 @@ encoder:
 㢵	otiq	0.000000
 餄	otiq	0.000000
 𣭝	otiq	0.000000
+𧟙	otis	0.000000
+𩟽	otis	0.000000
 𠪦	otiu	0.000000
 邤	otjk	0.000000
 𣬤	otjk	0.000000
@@ -61815,8 +61828,6 @@ encoder:
 𧙎	otqf	0.000000
 𪵙	otqf	0.000000
 𠪔	otqw	0.000000
-𧟙	otr	0.000000
-𩟽	otrs	0.000000
 𮎘	ots	0.000000
 𣰑	otsl	0.000000
 餒	otsm	0.000000
@@ -64871,7 +64882,10 @@ encoder:
 拾	ptiq	0.000000
 𧮵	ptiq	0.000000
 𭠫	ptiq	0.000000
+𢹝	ptir	0.000000
 𢮦	ptis	0.000000
+𢺰	ptis	0.000000
+𧯙	ptis	0.000000
 掵	ptiw	0.000000
 揜	ptiw	0.000000
 𢲭	ptjc	0.000000
@@ -64927,9 +64941,6 @@ encoder:
 𢭫	ptra	0.000000
 𪮀	ptra	0.000000
 𫽖	ptrh	0.000000
-𢹝	ptri	0.000000
-𢺰	ptrs	0.000000
-𧯙	ptrs	0.000000
 𢶉	ptsd	0.000000
 𢳬	ptsi	0.000000
 𪞵	ptsi	0.000000
@@ -68280,6 +68291,7 @@ encoder:
 𪡪	qtiq	0.000000
 𱂆	qtiq	0.000000
 𧾮	qtir	0.000000
+𥘃	qtis	0.000000
 𱥐	qtiw	0.000000
 𱴶	qtjd	0.000000
 䂙	qtjk	0.000000
@@ -68354,7 +68366,6 @@ encoder:
 𪿕	qtqf	0.000000
 𮁉	qtr	0.000000
 𱴭	qtrp	0.000000
-𥘃	qtrs	0.000000
 𧽨	qtsc	0.000000
 㱣	qtsm	0.000000
 𲃍	qtsm	0.000000
@@ -69435,11 +69446,9 @@ encoder:
 ⺹	rifc	0.000000
 ⽼	rifp	0.000000
 老	rifp	0.000000
-𠻰	rifq	0.000000
 𨞍	rift	0.000000
 𣣬	rify	0.000000
-𭊲	rih	0.000000
-𫅳	rihs	0.000000
+𫅳	rih	0.000000
 𣌺	riht	0.000000
 𰬟	rii	0.000000
 𮋞	rij	0.000000
@@ -69448,27 +69457,18 @@ encoder:
 𠁩	rikr	0.000000
 𰇪	riks	0.000000
 𰫿	riks	0.000000
-𠄷	rimd	0.000000
 𭜦	rin	0.000000
 𬘷	rinv	0.000000
-𠼛	rio	0.000000
-𡅴	rior	0.000000
-𡆉	rior	0.000000
-𡅔	riow	0.000000
-𡅮	riow	0.000000
 ⺰	ripf	0.000000
 㖈	riqf	0.000000
 䎛	riqf	0.000000
 耉	riqf	0.000000
-𠱠	riqf	0.000000
 𦒵	riqf	0.000000
 𮚰	riri	0.000000
 𠾅	riru	0.000000
-𡀓	risb	0.000000
 𮠂	rit	0.000000
 𪃓	ritl	0.000000
 𬘣	riu	0.000000
-𧮥	rivm	0.000000
 𦒺	riw	0.000000
 𱺩	rix	0.000000
 𧶯	rixv	0.000000
@@ -72362,7 +72362,6 @@ encoder:
 𤱌	srhf	0.000000
 𢑙	srhg	0.000000
 媍	sric	0.000000
-⿕	sriq	0.000000
 媎	srj	0.000000
 𠣚	srje	0.000000
 𠣰	srje	0.000000
@@ -72835,6 +72834,7 @@ encoder:
 𭇥	stiq	0.000000
 𱓃	stiq	0.000000
 𲎨	stiq	0.000000
+𫲚	stir	0.000000
 𮯈	stis	0.000000
 𫱓	stj	0.000000
 邚	stjk	0.000000
@@ -72886,7 +72886,6 @@ encoder:
 𪚶	stqf	0.000000
 𰴏	stqf	0.000000
 匓	stqi	0.000000
-𫲚	stri	0.000000
 𡠭	sts	0.000000
 𡢽	stsl	0.000000
 𫱳	stsl	0.000000
@@ -73426,6 +73425,7 @@ encoder:
 𥁨	sybk	0.000000
 𪗖	sybk	0.000000
 𡣱	sybo	0.000000
+⿕	sycf	0.000000
 𠎤	sycf	0.000000
 覎	sydf	0.000000
 𡥔	sydf	0.000000
@@ -75242,25 +75242,55 @@ encoder:
 鍓	tiqg	0.000000
 霵	tiqi	0.000000
 𨻟	tiqn	0.000000
-鐰	tir	0.000000
+鐰	tira	0.000000
 𩇄	tira	0.000000
+䰱	tirb	0.000000
+𩇎	tirb	0.000000
 𩵀	tirb	0.000000
 𩵂	tirb	0.000000
+𱆢	tirb	0.000000
 𩆕	tird	0.000000
+𬰑	tird	0.000000
+𨟮	tire	0.000000
+𤮮	tirf	0.000000
+𤮸	tirf	0.000000
+𤮹	tirf	0.000000
+𤫊	tirg	0.000000
+龗	tiri	0.000000
 𩆚	tirj	0.000000
 𬠹	tirj	0.000000
+𠠢	tirk	0.000000
+𠠱	tirk	0.000000
+𤴤	tirk	0.000000
 𩆒	tirl	0.000000
 𩆖	tirn	0.000000
+𩆼	tirn	0.000000
+𫻝	tirn	0.000000
 𩆜	tiro	0.000000
 𩇃	tiro	0.000000
 𨬱	tirp	0.000000
+㪮	tirr	0.000000
+䚖	tirs	0.000000
+孁	tirs	0.000000
+靈	tirs	0.000000
 𧢥	tirs	0.000000
+𧢱	tirs	0.000000
+𩆞	tirs	0.000000
+𪛈	tirs	0.000000
+𲊎	tirs	0.000000
+䴒	tirt	0.000000
+𨟯	tirt	0.000000
 𪈝	tirt	0.000000
+𰼂	tirt	0.000000
+霝	tiru	0.000000
+𦉣	tiru	0.000000
 𨩗	tiru	0.000000
 𲆳	tiru	0.000000
 𩖊	tirw	0.000000
-敆	tiry	0.000000
 㪉	tiry	0.000000
+敆	tiry	0.000000
+𬋣	tiry	0.000000
+𩆻	tirz	0.000000
 𥂜	tis	0.000000
 㰸	tisf	0.000000
 鈾	tisf	0.000000
@@ -76771,40 +76801,10 @@ encoder:
 鉏	trhf	0.000000
 𤔈	trhf	0.000000
 銢	trhg	0.000000
-䰱	trib	0.000000
-𩇎	trib	0.000000
-𱆢	trib	0.000000
-𬰑	trid	0.000000
-銭	trie	0.000000
-𨟮	trie	0.000000
-𤮮	trif	0.000000
-𤮸	trif	0.000000
-𤮹	trif	0.000000
-𤫊	trig	0.000000
-龗	trii	0.000000
-𠠢	trik	0.000000
-𠠱	trik	0.000000
-𤴤	trik	0.000000
-𩆼	trin	0.000000
-𫻝	trin	0.000000
+銭	tri	0.000000
 銠	trip	0.000000
 𨠬	trip	0.000000
-霝	triq	0.000000
 𮦊	triq	0.000000
-㪮	trir	0.000000
-䚖	tris	0.000000
-孁	tris	0.000000
-靈	tris	0.000000
-𧢱	tris	0.000000
-𩆞	tris	0.000000
-𪛈	tris	0.000000
-𲊎	tris	0.000000
-䴒	trit	0.000000
-𨟯	trit	0.000000
-𰼂	trit	0.000000
-𦉣	triu	0.000000
-𬋣	triy	0.000000
-𩆻	triz	0.000000
 醏	trj	0.000000
 鍺	trje	0.000000
 陼	trje	0.000000
@@ -77203,18 +77203,20 @@ encoder:
 𫑷	tthf	0.000000
 𰼳	tthf	0.000000
 𦆩	tthh	0.000000
-𨢴	tti	0.000000
+𨢴	ttib	0.000000
 𨫸	ttib	0.000000
 𩰙	ttie	0.000000
 𬪪	ttif	0.000000
 𫓂	ttij	0.000000
 鎿	ttip	0.000000
-鉿	ttiq	0.000000
 䨐	ttiq	0.000000
+鉿	ttiq	0.000000
 𲆪	ttiq	0.000000
 𨤀	ttir	0.000000
 𨯻	ttir	0.000000
 険	ttis	0.000000
+𨤍	ttis	0.000000
+𨽲	ttis	0.000000
 𲊌	ttiv	0.000000
 𬫦	ttiw	0.000000
 鐊	ttj	0.000000
@@ -77315,10 +77317,8 @@ encoder:
 𠣪	ttqf	0.000000
 𪀊	ttqf	0.000000
 𨯂	ttqn	0.000000
-𨼶	ttrn	0.000000
+𨼶	ttr	0.000000
 𨬆	ttrp	0.000000
-𨤍	ttrs	0.000000
-𨽲	ttrs	0.000000
 𭬚	tts	0.000000
 𧡳	ttsc	0.000000
 䥤	ttsd	0.000000
@@ -80897,6 +80897,7 @@ encoder:
 跲	utiq	0.000000
 𡇞	utiq	0.000000
 𪑇	utiq	0.000000
+𦉢	utir	0.000000
 黭	utiw	0.000000
 𡇳	utiw	0.000000
 𰸡	utiw	0.000000
@@ -80971,7 +80972,6 @@ encoder:
 𢂁	utqf	0.000000
 𫌩	utqf	0.000000
 𨂀	utr	0.000000
-𦉢	utri	0.000000
 𦉏	utrp	0.000000
 𨄽	utrw	0.000000
 𪒐	uts	0.000000
@@ -84949,6 +84949,7 @@ encoder:
 𦾆	wirp	0.000000
 𧅧	wirt	0.000000
 䓵	wiru	0.000000
+𦻸	wirx	0.000000
 𦮶	wis	0.000000
 苖	wisf	0.000000
 𦥪	wisf	0.000000
@@ -86507,7 +86508,6 @@ encoder:
 𠅸	wrip	0.000000
 𦓄	wrip	0.000000
 𬴖	wrip	0.000000
-𦻸	wrix	0.000000
 著	wrje	0.000000
 著	wrje	0.000000
 𧄪	wrjj	0.000000
@@ -86946,6 +86946,8 @@ encoder:
 𣯈	wtio	0.000000
 荅	wtiq	0.000000
 𪯤	wtiq	0.000000
+蘦	wtir	0.000000
+䖅	wtis	0.000000
 𩁮	wtiv	0.000000
 葊	wtiw	0.000000
 𦷼	wtiw	0.000000
@@ -87023,7 +87025,6 @@ encoder:
 𦰟	wtra	0.000000
 𱘄	wtrb	0.000000
 𦯓	wtrh	0.000000
-蘦	wtri	0.000000
 𭋆	wtri	0.000000
 蟼	wtrj	0.000000
 𧁠	wtrj	0.000000
@@ -87032,7 +87033,6 @@ encoder:
 𢐧	wtro	0.000000
 𩱢	wtrp	0.000000
 𬝷	wtrp	0.000000
-䖅	wtrs	0.000000
 𫄿	wtru	0.000000
 𭘷	wtru	0.000000
 㢣	wtrw	0.000000
@@ -90589,6 +90589,7 @@ encoder:
 𮠙	xtif	0.000000
 鮯	xtiq	0.000000
 㾑	xtiq	0.000000
+𱇉	xtir	0.000000
 𩸍	xtiw	0.000000
 𤺹	xtjb	0.000000
 䣊	xtjk	0.000000
@@ -90634,7 +90635,6 @@ encoder:
 𬏰	xtpx	0.000000
 痀	xtqf	0.000000
 鮈	xtqf	0.000000
-𱇉	xtri	0.000000
 𱱲	xtsb	0.000000
 𪽹	xtsf	0.000000
 鱈	xtsi	0.000000
@@ -97735,9 +97735,9 @@ encoder:
 瓾	zsfn	0.000000
 𥯜	zsfo	0.000000
 𥴂	zsfp	0.000000
-𡴩	zsgi	0.000000
 𥝺	zsgl	0.000000
 𥭆	zsgl	0.000000
+𡴩	zsgr	0.000000
 𥮈	zsgw	0.000000
 𱶖	zsgw	0.000000
 𥡏	zsgy	0.000000
@@ -98149,6 +98149,9 @@ encoder:
 𤡿	ztil	0.000000
 䆟	ztiq	0.000000
 秴	ztiq	0.000000
+䉹	ztis	0.000000
+𥤞	ztis	0.000000
+𥩔	ztis	0.000000
 𥱣	ztis	0.000000
 𮃍	ztis	0.000000
 𥮡	ztiw	0.000000
@@ -98206,9 +98209,6 @@ encoder:
 𰪥	ztqk	0.000000
 𬓴	ztql	0.000000
 𥟝	ztr	0.000000
-䉹	ztrs	0.000000
-𥤞	ztrs	0.000000
-𥩔	ztrs	0.000000
 𮆸	ztru	0.000000
 𢾫	ztry	0.000000
 𥵏	ztsg	0.000000
@@ -98632,8 +98632,8 @@ encoder:
 䉣	zwsy	0.000000
 𰩛	zwsy	0.000000
 䅷	zwsz	0.000000
-𥤜	zwt	0.000000
-𥰄	zwtq	0.000000
+𥰄	zwt	0.000000
+𥤜	zwtr	0.000000
 𱸘	zwu	0.000000
 𥠏	zwuc	0.000000
 𥠣	zwue	0.000000
@@ -99999,6 +99999,7 @@ encoder:
 𨗷	afil
 楇	afiq
 𨵧	afiq
+㮺	afir
 楅	afis
 𨵩	afis
 𣓊	afiu
@@ -100056,7 +100057,6 @@ encoder:
 𪵦	afqp
 𰘮	afra
 𪴊	afre
-㮺	afri
 闙	afri
 槽	afrj
 㯾	afrl
@@ -100595,6 +100595,7 @@ encoder:
 橾	aira
 𨶴	airb
 榀	airu
+楍	airu
 闆	airu
 𣖎	airu
 闝	airy
@@ -101794,7 +101795,6 @@ encoder:
 桟	arie
 栳	arip
 𨴛	arip
-楍	ariq
 𪲶	ariq
 𬄊	arjb
 榰	arje
@@ -102151,9 +102151,12 @@ encoder:
 㭘	atiq
 閤	atiq
 𩐥	atiq
+櫺	atir
 𣠄	atir
 𨷰	atir
+欞	atis
 検	atis
+𩑊	atis
 𱤍	atis
 椧	atiw
 𭫃	atiw
@@ -102206,11 +102209,8 @@ encoder:
 枸	atqf
 𩐝	atqf
 𪓞	atqf
-櫺	atri
 𣔔	atrk
 樗	atrp
-欞	atrs
-𩑊	atrs
 𣕌	atry
 㯒	atsc
 樰	atsi
@@ -105579,6 +105579,7 @@ encoder:
 𩰂	btir
 𩵁	btir
 墖	btis
+𱘟	btis
 𩔩	btiw
 𨙸	btjk
 𨙭	btjk
@@ -105627,7 +105628,6 @@ encoder:
 坸	btqf
 𡊦	btqf
 𱗫	btrp
-𱘟	btrs
 𡒘	btsb
 𡐅	btsi
 𪤠	btsl
@@ -107008,6 +107008,7 @@ encoder:
 𮭲	ciqf
 𲈞	cira
 𠄤	cirl
+𪋓	ciru
 铀	cisf
 𨛔	citj
 铞	ciuw
@@ -107714,7 +107715,6 @@ encoder:
 麆	crhf
 𢉺	crhf
 铑	crip
-𪋓	criq
 锗	crje
 𪋏	crje
 𪋑	crje
@@ -107970,6 +107970,8 @@ encoder:
 铪	ctiq
 𰃣	ctiq
 𱍛	ctiq
+麢	ctir
+𪋶	ctir
 𬭏	ctje
 鄜	ctjk
 郅	ctjk
@@ -107997,8 +107999,6 @@ encoder:
 𮍘	ctqf
 𰽭	ctqf
 𮸣	ctqn
-麢	ctri
-𪋶	ctri
 镭	ctsl
 䴫	cttn
 𪋪	cttn
@@ -110269,7 +110269,6 @@ encoder:
 𮵜	dkqh
 𮱥	dkrl
 𮵘	dkrl
-𥜫	dkrs
 𤾵	dkrw
 岿	dksi
 𤼽	dksk
@@ -111547,6 +111546,7 @@ encoder:
 𡸃	dthf
 𫎨	dthf
 𠝀	dthk
+𠣋	dtia
 嶖	dtie
 𡷾	dtif
 𥙫	dtif
@@ -111555,7 +111555,13 @@ encoder:
 峇	dtiq
 祫	dtiq
 𬎴	dtiq
+𤾻	dtir
+𥜧	dtir
+䄥	dtis
 𡸴	dtis
+𡿡	dtis
+𤿅	dtis
+𥜫	dtis
 𡹮	dtiw
 𥚫	dtiw
 𮱮	dtiw
@@ -111639,14 +111645,8 @@ encoder:
 𫎧	dtqf
 𫞮	dtqf
 𨖏	dtql
-𠣋	dtra
 𪩁	dtrh
-𤾻	dtri
-𥜧	dtri
 嶀	dtrp
-䄥	dtrs
-𡿡	dtrs
-𤿅	dtrs
 𥛟	dtsc
 𫶘	dtsl
 㟎	dtsm
@@ -113533,6 +113533,7 @@ encoder:
 歐	eirf
 甌	eirf
 𫧜	eirh
+𱑍	eiri
 𱟟	eiri
 剾	eirk
 𡬿	eirl
@@ -114448,7 +114449,6 @@ encoder:
 𮀀	erhf
 𭔈	erhs
 𫳲	erht
-𱑍	erii
 𭓮	erip
 鳍	erje
 𦑥	erje
@@ -121601,7 +121601,10 @@ encoder:
 鞈	gtiq
 𢈈	gtiq
 𢊴	gtir
+𥌼	gtir
 験	gtis
+𢌔	gtis
+𤫩	gtis
 𥇥	gtis
 𩌼	gtis
 𩥾	gtis
@@ -121694,10 +121697,7 @@ encoder:
 駒	gtqf
 𩉿	gtqf
 廄	gtqi
-𥌼	gtri
 㻬	gtrp
-𢌔	gtrs
-𤫩	gtrs
 𥊥	gtrw
 𭺈	gtry
 𮧭	gtry
@@ -127534,10 +127534,13 @@ encoder:
 𭊼	htil
 𭱔	htil
 㽏	htim
+𤅫	htin
 𱁰	htip
 給	htiq
 洽	htiq
+𤃩	htir
 𭲠	htir
+𤅷	htis
 𱨎	htiv
 𱨨	htiv
 渰	htiw
@@ -127647,10 +127650,7 @@ encoder:
 𣿿	htqj
 𣹄	htql
 𤂪	htqn
-𤃩	htri
-𤅫	htrn
 𰝋	htrn
-𤅷	htrs
 𤀍	htsb
 䌐	htsc
 漞	htsc
@@ -130780,6 +130780,7 @@ encoder:
 㖪	iiif
 𦎘	iiif
 𩎹	iiif
+𠄷	iiim
 𰈪	iiin
 嚶	iiis
 𭍕	iiit
@@ -132331,6 +132332,7 @@ encoder:
 𱍠	irfd
 𠱼	irfp
 𠵛	irfp
+𠻰	irfq
 𮬋	irfx
 𡄃	irgb
 𠵀	irgl
@@ -132338,6 +132340,7 @@ encoder:
 𰈮	irgo
 𡅝	irgw
 咀	irhf
+𭊲	irhh
 𧵸	iric
 賎	irie
 咾	irip
@@ -132374,10 +132377,15 @@ encoder:
 㕗	iron
 𡅾	iroo
 𦏇	iroo
+𠼛	iroq
 㘙	iror
+𡅴	iror
+𡆉	iror
 𦍴	irot
 䍯	irow
 𠱓	irow
+𡅔	irow
+𡅮	irow
 𧵥	irow
 𩜻	iroz
 𭊉	irpi
@@ -132400,6 +132408,7 @@ encoder:
 㗁	irrp
 𱔜	irrt
 𠻝	irsb
+𡀓	irsb
 嘽	irsg
 𩏥	irsg
 𬏕	irsg
@@ -132414,7 +132423,9 @@ encoder:
 𧶄	irua
 𱓂	irue
 品	iruf
+𠱠	iruf
 𰈬	irvi
+𧮥	irvm
 㖆	irwf
 啗	irwi
 𠵬	irwi
@@ -132686,6 +132697,8 @@ encoder:
 哈	itiq
 韐	itiq
 𫎖	itiq
+𦏪	itir
+𦏰	itis
 𦏮	itiv
 啽	itiw
 𠵴	itiw
@@ -132771,9 +132784,7 @@ encoder:
 𡅈	itqp
 𠴉	itra
 唨	itrh
-𦏪	itri
 𠻢	itrp
-𦏰	itrs
 𠽏	itrw
 𢿩	itry
 𫬚	itry
@@ -134896,6 +134907,7 @@ encoder:
 𢦱	jfie
 𰲳	jfie
 𢔔	jfif
+𧕁	jfif
 𮝣	jfii
 𨏟	jfij
 𫋖	jfik
@@ -135008,7 +135020,6 @@ encoder:
 𪌇	jfqp
 𫊨	jfqp
 𬀼	jfra
-𧕁	jfrf
 㬖	jfri
 螬	jfrj
 𣉿	jfrj
@@ -137783,7 +137794,11 @@ encoder:
 𣆗	jtiq
 𫡥	jtiq
 𮯚	jtiq
+䡼	jtir
 𧕅	jtir
+䡿	jtis
+𣌟	jtis
+𧖜	jtis
 𣉂	jtiw
 𧍬	jtiw
 𲆮	jtjc
@@ -137884,10 +137899,6 @@ encoder:
 蚼	jtqf
 軥	jtqf
 𣊤	jtqn
-䡼	jtri
-䡿	jtrs
-𣌟	jtrs
-𧖜	jtrs
 𧐎	jtsc
 𧏭	jtsd
 轌	jtsi
@@ -141245,7 +141256,9 @@ encoder:
 𠌧	ktip
 佮	ktiq
 𰇮	ktiq
+𧲙	ktir
 倹	ktis
+𰶰	ktis
 𠊈	ktiw
 𰁭	ktjg
 𨛤	ktjk
@@ -141295,8 +141308,6 @@ encoder:
 𫢥	ktpx
 佝	ktqf
 豞	ktqf
-𧲙	ktri
-𰶰	ktrs
 𧱻	ktsc
 俀	ktsm
 𠍖	ktso
@@ -144572,6 +144583,11 @@ encoder:
 𤝰	ltiq
 𧳇	ltiq
 𨉫	ltiq
+𤣍	ltir
+𦫃	ltir
+𤜙	ltis
+𤣤	ltis
+𦫊	ltis
 𨉟	ltiw
 邗	ltjk
 郍	ltjk
@@ -144656,12 +144672,7 @@ encoder:
 𨈳	ltqf
 𥖞	ltqq
 𠘓	ltrd
-𤣍	ltri
-𦫃	ltri
 𬍌	ltrl
-𤜙	ltrs
-𤣤	ltrs
-𦫊	ltrs
 𠘜	ltry
 艝	ltsi
 𰄈	ltsi
@@ -149545,6 +149556,7 @@ encoder:
 粭	mtiq
 䏩	mtiq
 詥	mtiq
+𥾂	mtis
 𦝡	mtiw
 𧩸	mtiw
 𦟊	mtjc
@@ -149622,7 +149634,6 @@ encoder:
 𡱈	mtqf
 𭩒	mtqn
 謣	mtrp
-𥾂	mtrs
 𦡕	mtsd
 膤	mtsi
 𫟀	mtsi
@@ -153037,7 +153048,11 @@ encoder:
 𨟲	ntif
 𨟻	ntif
 𱞙	ntif
+𤖥	ntio
 恰	ntiq
+𰒡	ntir
+㦭	ntis
+𤖦	ntis
 𢜰	ntiw
 𭝕	ntiw
 㦕	ntjd
@@ -153093,10 +153108,6 @@ encoder:
 𢎅	ntqf
 𤖵	ntqf
 𢤟	ntqn
-𰒡	ntri
-𤖥	ntro
-㦭	ntrs
-𤖦	ntrs
 𪭃	ntsb
 𰒅	ntsi
 𢚶	ntsm
@@ -156540,6 +156551,8 @@ encoder:
 㢵	otiq
 餄	otiq
 𣭝	otiq
+𧟙	otis
+𩟽	otis
 𠪦	otiu
 邺	otjk
 邤	otjk
@@ -156627,8 +156640,6 @@ encoder:
 𧙎	otqf
 𪵙	otqf
 𠪔	otqw
-𧟙	otrs
-𩟽	otrs
 𮎘	otsg
 𣰑	otsl
 餒	otsm
@@ -160084,7 +160095,10 @@ encoder:
 拾	ptiq
 𧮵	ptiq
 𭠫	ptiq
+𢹝	ptir
 𢮦	ptis
+𢺰	ptis
+𧯙	ptis
 掵	ptiw
 揜	ptiw
 𢲭	ptjc
@@ -160151,10 +160165,7 @@ encoder:
 𢭫	ptra
 𪮀	ptra
 𫽖	ptrh
-𢹝	ptri
 摴	ptrp
-𢺰	ptrs
-𧯙	ptrs
 𢶉	ptsd
 𢳬	ptsi
 𪞵	ptsi
@@ -163885,6 +163896,7 @@ encoder:
 𪡪	qtiq
 𱂆	qtiq
 𧾮	qtir
+𥘃	qtis
 𱥐	qtiw
 𱴶	qtjd
 耶	qtjk
@@ -163965,7 +163977,6 @@ encoder:
 𪿕	qtqf
 𮁉	qtrn
 𱴭	qtrp
-𥘃	qtrs
 𧽨	qtsc
 礌	qtsl
 㱣	qtsm
@@ -165203,11 +165214,9 @@ encoder:
 老	rifp
 ⽼	rifp
 老	rifp
-𠻰	rifq
 𨞍	rift
 𣣬	rify
 绒	rigl
-𭊲	rihh
 𫅳	rihs
 𣌺	riht
 𰬟	riif
@@ -165218,32 +165227,23 @@ encoder:
 𰇪	riks
 𰫿	riks
 绢	rimd
-𠄷	rimd
 𭜦	ring
 𬘷	rinv
-𠼛	rioq
-𡅴	rior
-𡆉	rior
-𡅔	riow
-𡅮	riow
 纟	ripf
 ⺰	ripf
 㖈	riqf
 䎛	riqf
 耉	riqf
-𠱠	riqf
 𦒵	riqf
 缉	riqg
 缲	rira
 𮚰	riri
 𠾅	riru
-𡀓	risb
 䌷	risf
 𮠂	ritj
 𪃓	ritl
 𬘣	riuw
 缮	rivi
-𧮥	rivm
 织	rivy
 𦒺	riwi
 𱺩	rixi
@@ -168596,7 +168596,6 @@ encoder:
 𢑙	srhg
 媍	sric
 姥	srip
-⿕	sriq
 媎	srje
 𠣚	srje
 𠣰	srje
@@ -169115,6 +169114,7 @@ encoder:
 𭇥	stiq
 𱓃	stiq
 𲎨	stiq
+𫲚	stir
 𮯈	stis
 媕	stiw
 𫱓	stjc
@@ -169177,7 +169177,6 @@ encoder:
 𪚶	stqf
 𰴏	stqf
 匓	stqi
-𫲚	stri
 嫮	strp
 𡠭	stsi
 𡢽	stsl
@@ -169789,6 +169788,7 @@ encoder:
 𪗖	sybk
 𡣱	sybo
 龠	sycf
+⿕	sycf
 𠎤	sycf
 侖	syck
 好	sydf
@@ -171750,23 +171750,55 @@ encoder:
 𨻟	tiqn
 鐰	tira
 𩇄	tira
+䰱	tirb
+𩇎	tirb
 𩵀	tirb
 𩵂	tirb
+𱆢	tirb
 𩆕	tird
+𬰑	tird
+𨟮	tire
+𤮮	tirf
+𤮸	tirf
+𤮹	tirf
+𤫊	tirg
+龗	tiri
 𩆚	tirj
 𬠹	tirj
+𠠢	tirk
+𠠱	tirk
+𤴤	tirk
 𩆒	tirl
 𩆖	tirn
+𩆼	tirn
+𫻝	tirn
 𩆜	tiro
 𩇃	tiro
 𨬱	tirp
+㪮	tirr
+靈	tirs
+䚖	tirs
+孁	tirs
+靈	tirs
 𧢥	tirs
+𧢱	tirs
+𩆞	tirs
+𪛈	tirs
+𲊎	tirs
+酃	tirt
+䴒	tirt
+𨟯	tirt
 𪈝	tirt
+𰼂	tirt
+霝	tiru
+𦉣	tiru
 𨩗	tiru
 𲆳	tiru
 𩖊	tirw
-敆	tiry
 㪉	tiry
+敆	tiry
+𬋣	tiry
+𩆻	tirz
 𥂜	tisb
 㰸	tisf
 鈾	tisf
@@ -173416,42 +173448,10 @@ encoder:
 鉏	trhf
 𤔈	trhf
 銢	trhg
-䰱	trib
-𩇎	trib
-𱆢	trib
-𬰑	trid
 銭	trie
-𨟮	trie
-𤮮	trif
-𤮸	trif
-𤮹	trif
-𤫊	trig
-龗	trii
-𠠢	trik
-𠠱	trik
-𤴤	trik
-𩆼	trin
-𫻝	trin
 銠	trip
 𨠬	trip
-霝	triq
 𮦊	triq
-㪮	trir
-靈	tris
-䚖	tris
-孁	tris
-靈	tris
-𧢱	tris
-𩆞	tris
-𪛈	tris
-𲊎	tris
-酃	trit
-䴒	trit
-𨟯	trit
-𰼂	trit
-𦉣	triu
-𬋣	triy
-𩆻	triz
 醏	trje
 鍺	trje
 陼	trje
@@ -173886,12 +173886,15 @@ encoder:
 𬪪	ttif
 𫓂	ttij
 鎿	ttip
-鉿	ttiq
 䨐	ttiq
+鉿	ttiq
 𲆪	ttiq
+醽	ttir
 𨤀	ttir
 𨯻	ttir
 険	ttis
+𨤍	ttis
+𨽲	ttis
 𲊌	ttiv
 𬫦	ttiw
 鐊	ttjb
@@ -174002,11 +174005,8 @@ encoder:
 𠣪	ttqf
 𪀊	ttqf
 𨯂	ttqn
-醽	ttri
 𨼶	ttrn
 𨬆	ttrp
-𨤍	ttrs
-𨽲	ttrs
 𭬚	ttsa
 𧡳	ttsc
 䥤	ttsd
@@ -177898,6 +177898,7 @@ encoder:
 跲	utiq
 𡇞	utiq
 𪑇	utiq
+𦉢	utir
 黭	utiw
 𡇳	utiw
 𰸡	utiw
@@ -177975,7 +177976,6 @@ encoder:
 𢂁	utqf
 𫌩	utqf
 𨂀	utrh
-𦉢	utri
 𦉏	utrp
 𨄽	utrw
 𪒐	utsc
@@ -182567,6 +182567,7 @@ encoder:
 𦾆	wirp
 𧅧	wirt
 䓵	wiru
+𦻸	wirx
 𦮶	wisb
 苖	wisf
 𦥪	wisf
@@ -184314,7 +184315,6 @@ encoder:
 𠅸	wrip
 𦓄	wrip
 𬴖	wrip
-𦻸	wrix
 蕴	wrjb
 蓍	wrje
 著	wrje
@@ -184815,6 +184815,8 @@ encoder:
 𣯈	wtio
 荅	wtiq
 𪯤	wtiq
+蘦	wtir
+䖅	wtis
 𩁮	wtiv
 葊	wtiw
 𦷼	wtiw
@@ -184905,7 +184907,6 @@ encoder:
 𱘄	wtrb
 驚	wtrg
 𦯓	wtrh
-蘦	wtri
 𭋆	wtri
 蟼	wtrj
 𧁠	wtrj
@@ -184916,7 +184917,6 @@ encoder:
 擎	wtrp
 𩱢	wtrp
 𬝷	wtrp
-䖅	wtrs
 𫄿	wtru
 𭘷	wtru
 㢣	wtrw
@@ -188841,6 +188841,7 @@ encoder:
 𮠙	xtif
 鮯	xtiq
 㾑	xtiq
+𱇉	xtir
 𩸍	xtiw
 𤺹	xtjb
 癃	xtjd
@@ -188891,7 +188892,6 @@ encoder:
 驹	xtqf
 痀	xtqf
 鮈	xtqf
-𱇉	xtri
 瘾	xtrn
 𱱲	xtsb
 𪽹	xtsf
@@ -192333,6 +192333,7 @@ encoder:
 𥩻	ytiq
 𦊴	ytiq
 𪘁	ytiq
+爧	ytis
 𬔣	ytiw
 𫅉	ytjc
 𤌅	ytjg
@@ -192397,7 +192398,6 @@ encoder:
 𫲢	ytqf
 𮳤	ytqf
 𰺁	ytqf
-爧	ytrs
 𤐊	ytsd
 𮳷	ytsi
 䍣	ytsl
@@ -196703,9 +196703,9 @@ encoder:
 𥯜	zsfo
 𥴂	zsfp
 筌	zsgi
-𡴩	zsgi
 𥝺	zsgl
 𥭆	zsgl
+𡴩	zsgr
 𥮈	zsgw
 𱶖	zsgw
 𥡏	zsgy
@@ -197140,6 +197140,9 @@ encoder:
 答	ztiq
 䆟	ztiq
 秴	ztiq
+䉹	ztis
+𥤞	ztis
+𥩔	ztis
 𥱣	ztis
 𮃍	ztis
 𥮡	ztiw
@@ -197206,9 +197209,6 @@ encoder:
 𰪥	ztqk
 𬓴	ztql
 𥟝	ztrk
-䉹	ztrs
-𥤞	ztrs
-𥩔	ztrs
 𮆸	ztru
 𢾫	ztry
 𥵏	ztsg
@@ -197677,8 +197677,8 @@ encoder:
 䉣	zwsy
 𰩛	zwsy
 䅷	zwsz
-𥤜	zwti
 𥰄	zwtq
+𥤜	zwtr
 𱸘	zwua
 𥠏	zwuc
 𥠣	zwue

@@ -439,6 +439,7 @@ columns:
 問	aiq	104
 檝	aiq	0
 榀	air	249
+楍	air	0
 橾	air	0
 闆	air	0
 闝	air	0
@@ -800,7 +801,6 @@ columns:
 査	arh	0
 栳	ari	110
 桟	ari	0
-楍	ari	0
 楮	arj	161
 榰	arj	104
 闍	arj	0
@@ -902,6 +902,8 @@ columns:
 欛	atg	104
 橢	atg	0
 检	ath	22096
+櫺	ati	104
+欞	ati	104
 梄	ati	0
 検	ati	0
 椧	ati	0
@@ -924,8 +926,6 @@ columns:
 橒	atp	0
 枸	atq	231
 樗	atr	167
-櫺	atr	104
-欞	atr	104
 檑	ats	122
 桵	ats	0
 樰	ats	0
@@ -2240,6 +2240,7 @@ columns:
 锾	ctf	104
 铪	cti	104
 镎	cti	104
+麢	cti	0
 郅	ctj	332
 鄜	ctj	104
 郋	ctj	0
@@ -2250,7 +2251,6 @@ columns:
 铃	ctn	3704
 钤	ctp	191
 银	ctp	100	ct1
-麢	ctr	0
 镭	cts	296
 锕	ctz	159
 追	cu1	28553	cu1
@@ -16099,8 +16099,13 @@ columns:
 嗸	tiq	0
 鍓	tiq	0
 霵	tiq	0
+酃	tir	141
+靈	tir	135
+孁	tir	0
 敆	tir	0
 鐰	tir	0
+霝	tir	0
+龗	tir	0
 剣	tis	0
 剱	tis	0
 畣	tis	0
@@ -16516,13 +16521,8 @@ columns:
 阻	trh	12947
 鉏	trh	0
 銢	trh	0
-酃	tri	141
-靈	tri	135
-孁	tri	0
 銠	tri	0
 銭	tri	0
-霝	tri	0
-龗	tri	0
 醏	trj	0
 鍺	trj	0
 陼	trj	0
@@ -16628,6 +16628,7 @@ columns:
 鑀	tte	0
 鍰	ttf	0
 险	tth	25746
+醽	tti	104
 鉿	tti	0
 鎿	tti	0
 険	tti	0
@@ -16663,7 +16664,6 @@ columns:
 鋡	ttp	0
 錜	ttp	0
 鉤	ttq	104
-醽	ttr	104
 鋖	tts	0
 鐳	tts	0
 隠	tts	0
@@ -18999,6 +18999,7 @@ columns:
 荅	wti	0
 莤	wti	0
 葊	wti	0
+蘦	wti	0
 邓	wtj	6616
 鄗	wtj	104
 蓜	wtj	0
@@ -19031,7 +19032,6 @@ columns:
 驚	wtr	104
 警	wtr	100	wt1
 憼	wtr	0
-蘦	wtr	0
 蟼	wtr	0
 蕾	wts	699
 荽	wts	141
@@ -20625,6 +20625,7 @@ columns:
 烜	ytf	104
 煖	ytf	0
 熻	yti	104
+爧	yti	104
 烚	yti	0
 邪	ytj	8488
 邩	ytj	0
@@ -20642,7 +20643,6 @@ columns:
 齦	ytp	0
 竘	ytq	104
 齣	ytq	104
-爧	ytr	104
 罒	ytt	104
 四	ytt	100	yt1
 燯	ytt	0

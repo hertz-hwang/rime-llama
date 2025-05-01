@@ -547,7 +547,7 @@
 命令	titn
 微笑	ypzc
 未必	jxnc
-靈感	truf
+靈感	tiuf
 慾望	pfxm
 爺爺	vovo
 石頭	qqew
@@ -620,7 +620,7 @@
 原諒	odmw
 不好意思	csas
 明明	jmjm
-心靈	ngtr
+心靈	ngti
 回頭	uiew
 娃娃	sbsb
 桌子	djyd
@@ -2314,7 +2314,7 @@
 水泥	hghm
 協同	gazf
 而已	uant
-靈活	trhv
+靈活	tihv
 人物	sils
 強烈	onqk
 較量	jcjf
@@ -4393,7 +4393,7 @@
 戰役	rsjq
 都市	rjuu
 意思	ansn
-靈魂	trpb
+靈魂	tipb
 鬆動	bahd
 大厦	xiof
 極限	aftt
@@ -6608,7 +6608,7 @@
 告誡	limi
 古裝	qmnm
 風潮	uyhg
-精靈	mztr
+精靈	mzti
 邊上	czdf
 原地	odbh
 撼動	puhd
@@ -7728,7 +7728,7 @@
 著作	wrke
 特長	lbsi
 轉速	jgul
-失靈	cstr
+失靈	csti
 毒性	zqnd
 解體	rqfr
 腦子	mjyd
@@ -8447,7 +8447,7 @@
 濕度	hjgx
 寶貴	egji
 國庫	uigj
-幽靈	dbtr
+幽靈	dbti
 人行道	sfvc
 耐人尋味	ussi
 晚點	jzud
@@ -9783,7 +9783,7 @@
 幹掉	gjpd
 摩拳擦掌	ovpx
 藥方	wdmx
-靈敏	trlq
+靈敏	tilq
 簡短	zaee
 口服	iqmw
 欠債	fykz
@@ -11557,7 +11557,7 @@
 一國兩制	fufl
 功利	nazk
 溶液	hehu
-靈氣	trfm
+靈氣	tifm
 艱苦奮鬥	xwxt
 星系	jdch
 收工	hrnv
@@ -13096,7 +13096,7 @@
 耶穌	qtxz
 慌忙	nwnx
 痛定思痛	xesx
-靈芝	trwd
+靈芝	tiwd
 斷絶	bbhr
 國語	uimj
 饑荒	obwx
@@ -13169,7 +13169,7 @@
 自以爲是	chtj
 斷奶	bbsv
 交響樂	cfdb
-靈堂	trxb
+靈堂	tixb
 生疏	dhkp
 膽小	mrot
 千軍萬馬	hewg
@@ -13374,7 +13374,7 @@
 斧頭	voew
 奇遇	xzsf
 民權	nsaw
-靈巧	trnf
+靈巧	tinf
 紙上談兵	hdmo
 下頜	fdti
 嘀咕	iyiq
@@ -13879,7 +13879,7 @@
 趁熱打鐵	qbpt
 假若	kmwg
 鬼魂	bypb
-亡靈	xctr
+亡靈	xcti
 工作證	nkmv
 親王	yagi
 磁帶	qvde
@@ -14283,7 +14283,7 @@
 白紙	dyhq
 隱晦	ttjl
 乾枯	gjaq
-靈通	trnq
+靈通	tinq
 飛鳥	dptl
 盆栽	vkgi
 孤身	yqlc
@@ -14580,13 +14580,13 @@
 聯歡	qbwr
 爪子	toyd
 粉墨登場	muvb
-英靈	wztr
+英靈	wzti
 如法炮製	shyl
 浪子	hoyd
 總管	hcze
 萌發	wjvo
 仙人掌	ksxp
-機靈	abtr
+機靈	abti
 結紮	hmap
 沉醉	hetu
 天文臺	fwmi
@@ -14677,7 +14677,7 @@
 憂愁	wnzy
 鋼筆	tzzu
 通則	nqik
-神靈	djtr
+神靈	djti
 風寒	uyeb
 千瘡百孔	hxfy
 狂犬病	llxf
@@ -15056,7 +15056,7 @@
 各有所長	qgfs
 萬人空巷	wszx
 世襲	xpym
-靈柩	trae
+靈柩	tiae
 逃兵	alov
 狹長	lxsi
 劫難	bnxi
@@ -15697,7 +15697,7 @@
 暗處	jaqj
 死氣沉沉	qfhh
 人犯	silw
-靈光	trsj
+靈光	tisj
 粗野	mrdm
 抗洪	puhx
 蒸餾	wpof
@@ -16220,7 +16220,7 @@
 養料	iomp
 思慮	snqs
 遊手好閒	mpsa
-靈車	trjl
+靈車	tijl
 入木三分	xaqv
 若卽若離	wdwu
 批改	phjr
@@ -16447,7 +16447,7 @@
 歌謡	zzmt
 各個擊破	qkjq
 赤膊上陣	bmdt
-生靈	dhtr
+生靈	dhti
 後繼有人	jhgs
 喇嘛	iuio
 叛國	vpui
@@ -16845,7 +16845,7 @@
 同路	zfuq
 漏網	hmhz
 其樂無窮	mdlz
-靈驗	trgo
+靈驗	tigo
 細軟	hsjf
 百無聊賴	flqu
 繁榮昌盛	lyju
@@ -21254,7 +21254,7 @@
 一併	fhkv
 單刀	rskg
 通航	nqlu
-都靈	rjtr
+都靈	rjti
 領到	tnck
 排污	pdhr
 富國	efui
@@ -21869,7 +21869,7 @@
 雙腳	vvmp
 新藥	yawd
 極易	afjs
-靈動	trhd
+靈動	tihd
 亦可	uyzj
 保值	kikg
 競猜	yilz
@@ -27579,7 +27579,7 @@
 肢解	mbrq
 插足	phuz
 知音	eiar
-靈性	trnd
+靈性	tind
 長勢	sibv
 西德	qpjg
 善舉	ivwf
@@ -28098,7 +28098,7 @@
 學長	wosi
 複議	olmi
 驕陽	gctj
-通靈	nqtr
+通靈	nqti
 老同志	rzmn
 暢銷書	jtuj
 聲名鵲起	mxxq
@@ -28209,7 +28209,7 @@
 幹好	gjsy
 冬小麥	jozj
 一晃	fhjs
-百靈	fdtr
+百靈	fdti
 蝦仁	jmkr
 迅卽	pgdh
 搶注	psho
@@ -28445,7 +28445,7 @@
 綵球	htgf
 知了	eifu
 水性	hgnd
-聖靈	qitr
+聖靈	qiti
 賀電	aitj
 險境	toba
 軍部	ejyi
@@ -28568,7 +28568,7 @@
 飛去	dpbn
 東北風	anuy
 排水管	phze
-不靈	citr
+不靈	citi
 流線型	hhfw
 要衝	qsfh
 開脱	afmv
@@ -30214,7 +30214,7 @@
 達意	bian
 勞逸結合	yzht
 評劇	mlqk
-靈異	trsx
+靈異	tisx
 面授	hfpt
 流過	hpfi
 産於	yoms
@@ -30645,7 +30645,7 @@
 不遜	ciyc
 關燈	abyv
 裁撤	gipp
-靈犀	trmh
+靈犀	timh
 臘八粥	mvom
 私藏	znwu
 年邁	lgws
@@ -30797,7 +30797,7 @@
 葵花籽	wwmy
 港商	hxyz
 百態	fdnm
-空靈	zntr
+空靈	znti
 五年計劃	jlmu
 鋪軌	tgjd
 手工藝	pnwb
@@ -32425,7 +32425,7 @@
 相生	agdh
 冰刀	lhkg
 肉湯	zshj
-水靈	hgtr
+水靈	hgti
 生澀	dhhk
 少壯派	onho
 對勁	oifj
@@ -32878,7 +32878,7 @@
 演義	heic
 預後	mwjb
 擷取	pmqw
-顯靈	jbtr
+顯靈	jbti
 車棚	jlam
 務虚	mcqo
 疲累	xesh
@@ -34561,7 +34561,7 @@
 小辮子	ojyd
 界碑	ssqd
 族長	mlsi
-靈秀	trzv
+靈秀	tizv
 針孔	tgyp
 佛陀	kute
 經學	hfwo
@@ -34963,7 +34963,7 @@
 失禮	csdr
 客滿	eqhx
 茶油	wshi
-靈藥	trwd
+靈藥	tiwd
 因緣	uxhs
 單刀赴會	rkqt
 滿堂	hxxb
@@ -35307,7 +35307,7 @@
 晃晃悠悠	jjkk
 約請	hsmz
 如故	siqr
-靈便	trkt
+靈便	tikt
 乾粉	gjmv
 勤儉持家	xkpe
 紮營	apyy
@@ -35455,7 +35455,7 @@
 螞蚱	jgje
 花捲	wkpv
 創優	sfkw
-輕靈	jftr
+輕靈	jfti
 色度	regx
 幫工	bbnv
 煞氣	rsfm
@@ -37120,7 +37120,7 @@
 不倒翁	ckvn
 扶危濟困	prhu
 宿怨	ekxw
-水靈靈	httr
+水靈靈	htti
 屋脊	mcll
 團支部	ubyi
 初診	okms
@@ -37128,7 +37128,7 @@
 聚散	qwxm
 遠隔	bitp
 亂麻	tnon
-靈位	trky
+靈位	tiky
 寄信	exkm
 保準	kihv
 發酸	votn
@@ -37468,7 +37468,7 @@
 輓歌	jzzz
 眼眉	gtmg
 生石灰	dqgy
-守靈	eltr
+守靈	elti
 起承轉合	qpjt
 輕舟	jflk
 棚架	amai
@@ -39742,7 +39742,7 @@
 水仙花	hkwk
 砂土	qobm
 甜絲絲	vhhh
-靈丹	trzu
+靈丹	tizu
 乾瘦	gjxw
 瓶塞	vweb
 眷念	vstp
@@ -40895,7 +40895,7 @@
 排字	pdey
 蓋世太保	wxxk
 軍容	ejep
-魂靈	pbtr
+魂靈	pbti
 庶人	gxsi
 纜索	hdge
 主觀主義	owoi
@@ -41124,7 +41124,7 @@
 叫花子	iwyd
 得勁	jjfj
 戰禍	rsdf
-靈機	trab
+靈機	tiab
 刷白	mudy
 無日	ldje
 腳癬	mpxx
@@ -42777,7 +42777,7 @@
 悔棋	nlam
 橫隊	abtv
 纖塵	hscb
-性靈	ndtr
+性靈	ndti
 怔忡	nfni
 同氣相求	zfaf
 急公好義	rvsi
@@ -43247,7 +43247,7 @@
 百足之蟲	fudj
 老鼠過街	rqff
 怪哉	nwgi
-靈牌	trnd
+靈牌	tind
 暗鎖	jato
 纖毫	hswo
 浩氣長存	hfsg
@@ -49252,7 +49252,7 @@
 每輛	lqjf
 内中	zsik
 威爾遜	ufyc
-巨靈	eetr
+巨靈	eeti
 設計院	mmte
 來吧	asie
 關了	abfu
@@ -50153,7 +50153,7 @@
 應納	gkhz
 仰臥起坐	kdqs
 清河	hzhz
-靈山	trds
+靈山	tids
 新學期	ywmv
 圍毆	uiei
 這門	mlac
@@ -52359,7 +52359,7 @@
 採石場	pqbj
 相符合	azti
 弄出	gwiz
-藍精靈	wmtr
+藍精靈	wmti
 自定	cjek
 過去時	fbjb
 嘗過	xhfi
@@ -52996,7 +52996,7 @@
 嚎啕大哭	iixr
 那當然	pxml
 報警器	bwrl
-有靈	gmtr
+有靈	gmti
 抓走	ptqo
 應和	gkzi
 閒時	amjb
@@ -53558,7 +53558,7 @@
 桑巴舞	weld
 備齊	kxui
 預防針	mttg
-小精靈	omtr
+小精靈	omti
 難捨	xips
 繞路	hbuq
 佔爲己有	ktjg
@@ -56115,7 +56115,7 @@
 阿爾卑斯	tfdm
 剛想	zvag
 喪失殆盡	bcqu
-之靈	dotr
+之靈	doti
 釀出	toiz
 頭羊	ewid
 無風	lduy
@@ -57544,7 +57544,7 @@
 鄉土氣息	fbfc
 狂吼	lgiy
 地道戰	bvrs
-靈寶	treg
+靈寶	tieg
 留香	fszj
 面面觀	hhwr
 周代	zbkn
@@ -57662,7 +57662,7 @@
 極板	afao
 佳美	kbix
 念及	tpkd
-惡靈	fwtr
+惡靈	fwti
 雨情	tfnz
 買飯	yioo
 圈兒	uvwa
@@ -60477,7 +60477,7 @@
 飛絮	dpsi
 錯用	txql
 訓示	mjdd
-哭靈	rltr
+哭靈	rlti
 死相	qhag
 選本	ddaf
 玉手	gopc
@@ -61084,7 +61084,7 @@
 馬子	gbyd
 絮狀	sinl
 配平	tjlv
-激靈	hdtr
+激靈	hdti
 弓背	odnh
 王勃	gige
 有夫之婦	gsds
@@ -61271,7 +61271,7 @@
 引腳	okmp
 諧趣	mhqq
 滑爽	hfxo
-靈猫	trlw
+靈猫	tilw
 泥工	hmnv
 探身	pelc
 倒插門	kpac
@@ -61796,7 +61796,7 @@
 真累	ggsh
 斷斷	bbbb
 滿盈	hxvw
-靈符	trzk
+靈符	tizk
 以工代賑	hnki
 柔細	mchs
 做壽	kqmp
@@ -62383,7 +62383,7 @@
 子爵	ydty
 讚佩	mlkp
 水鬼	hgby
-靈臺	trmi
+靈臺	timi
 防除	tmts
 語驚四座	mwyg
 别忙	ianx
@@ -63275,7 +63275,7 @@
 布穀鳥	gvtl
 暗碼	jaqg
 凹處	zfqj
-靈境	trba
+靈境	tiba
 崔嵬	dvdb
 狗咬狗	lilt
 童稚	ydzv
@@ -64626,7 +64626,7 @@
 苦口	wqiq
 屋樑	mcah
 起敬	qjwt
-靈塔	trbw
+靈塔	tibw
 花斑	wkgw
 立體圖	yfui
 失盜	cshf
@@ -65025,7 +65025,7 @@
 軟齶	jfyr
 拼音字母	paeq
 李洪志	ahmn
-靈慧	trzz
+靈慧	tizz
 良材	otag
 婆姨	hesx
 一介書生	fsud
@@ -65411,7 +65411,7 @@
 盒帶	tide
 卷帙浩繁	vuhl
 偶一爲之	kftd
-靈童	tryd
+靈童	tiyd
 超拔	qkpg
 草草收兵	wwho
 出典	izjv
@@ -65694,7 +65694,7 @@
 砧木	qdaj
 淪亡	hsxc
 漏泄	hmhx
-靈長	trsi
+靈長	tisi
 守喪	elbr
 何足	kzuz
 森羅萬象	ayww
@@ -66093,7 +66093,7 @@
 靡麗	odfm
 立腳	yqmp
 脱盲	mvxg
-乞靈	ljtr
+乞靈	ljti
 靈長目	tsgy
 翫忽	edsb
 廊檐	goar
@@ -66910,7 +66910,7 @@
 雄傑	gnkx
 耍奸	ussl
 八進制	vvlu
-靈妙	trso
+靈妙	tiso
 空乏	zncd
 咏懷	iono
 委瑣	zsgo
@@ -67130,7 +67130,7 @@
 傳爲笑柄	ktza
 節烈	ztqk
 脱漏	mvhm
-靈牀	trna
+靈牀	tina
 深溝高壘	hhws
 自奉	cjzo
 雲翳	tpee
@@ -70370,7 +70370,7 @@
 難改	xijr
 堅決反對	dhoo
 消失了	hcfu
-劍靈	oktr
+劍靈	okti
 收了	hrfu
 型男	fwsa
 得過	jjfi
@@ -75009,7 +75009,7 @@
 牛牛	lzlz
 出拳	izvs
 雷鋒精神	ttmd
-靈石	trqq
+靈石	tiqq
 包餃子	soyd
 交叉路口	cwui
 電子貨幣	tykk
@@ -79480,7 +79480,7 @@
 青田	zmsl
 不痛	cixn
 草蜢	wjjy
-靈靈	trtr
+靈靈	titi
 完美主義	eioi
 逆向思維	vcsh
 馬良	gbot
@@ -79532,7 +79532,7 @@
 電聯	tjqb
 閃人	assi
 臥射	dsll
-最靈	jqtr
+最靈	jqti
 人文精神	swmd
 阿三	tzqn
 發自肺腑	vcmm
@@ -79575,7 +79575,7 @@
 排煙	pdyq
 學文	wowm
 艶福不淺	rdch
-圖靈	uitr
+圖靈	uiti
 護花使者	mwkr
 副鄉長	ffsi
 游泳圈	hhuv
@@ -81115,7 +81115,7 @@
 死球	qhgf
 股道	mqvc
 春光乍泄	zseh
-靈力	trau
+靈力	tiau
 白象	dywp
 不化	cikh
 名動	xihd
@@ -82124,7 +82124,7 @@
 一條魚	fkxl
 天主教堂	forx
 揉合	pmti
-靈隱	trtt
+靈隱	titt
 疏失	kpcs
 踏勘	uhmv
 髒污	fwhr
@@ -82542,7 +82542,7 @@
 痛哭失聲	xrcm
 建甌	uvei
 氣極	fmaf
-邪靈	yttr
+邪靈	ytti
 離身	uolc
 動手做	hpkq
 三版	qnno
@@ -83861,7 +83861,7 @@
 腸液	mjhu
 馬前	gbvm
 岩礁	dqqv
-靈武	trfn
+靈武	tifn
 餾分	ofvk
 摟摟抱抱	pppp
 香包	zjsd
@@ -84658,7 +84658,7 @@
 端硯	ydqs
 打呼	puic
 差得遠	ijbi
-靈璧	trrg
+靈璧	tirg
 洪洞	hxhz
 謚號	mhif
 偉大旗幟	kxmu
@@ -85326,7 +85326,7 @@
 生角	dhrq
 熏天	hufx
 等一會兒	zftw
-靈川	trjv
+靈川	tijv
 巫妖	nssc
 夏朝	fcgj
 萬言書	wmuj
@@ -85970,7 +85970,7 @@
 水紅	hghn
 支脉	bhmo
 暗暗地	jjbh
-靈前	trvm
+靈前	tivm
 描金	pwtk
 扭虧增盈	pqbv
 盤道	lqvc
@@ -86622,7 +86622,7 @@
 樂融融	dppj
 自反	cjow
 半掩	vppx
-死靈	qhtr
+死靈	qhti
 治教	hnry
 董仲舒	wksv
 貪小	tpot
@@ -86688,7 +86688,7 @@
 廢都	gvrj
 焉有	flgm
 懸壺濟世	gmhx
-虚靈	qotr
+虚靈	qoti
 考號	rfif
 洞子	hzyd
 老豆腐	regk
@@ -86743,7 +86743,7 @@
 尋問	snai
 永結同心	ohzn
 組合鍵	httu
-閃靈	astr
+閃靈	asti
 盤坐	lqss
 淚下	hffd
 骶骨	fqfv
@@ -86771,7 +86771,7 @@
 影照	jwjk
 子孫滿堂	yyhx
 死等	qhzb
-靈界	trss
+靈界	tiss
 鹽滷	dlhd
 自始自終	csch
 專席	gsgx
@@ -87364,7 +87364,7 @@
 常來常往	xaxj
 他鄉遇故知	kfse
 喜看	hipg
-靈丘	trof
+靈丘	tiof
 磁環	qvgy
 諸葛孔明	mwyj
 姨奶奶	sssv
@@ -87753,7 +87753,7 @@
 獵刀	ljkg
 受死	teqh
 廣收	gbhr
-靈體	trfr
+靈體	tifr
 被剝削	osom
 女士優先	smkl
 隆堯	tjbb
@@ -87845,7 +87845,7 @@
 翹盼	bbgv
 屠格涅夫	mahs
 開塞露	aetu
-靈應	trgk
+靈應	tigk
 食相	ozag
 拾音器	parl
 貴地	jibh
@@ -88107,7 +88107,7 @@
 禮輕情意重	djnh
 管界	zess
 炸壞	yebo
-清靈	hztr
+清靈	hzti
 魔手	obpc
 小五金	ojtk
 初綻	okhe
@@ -88162,7 +88162,7 @@
 鋪蓋卷	twvs
 妖魅	scbj
 提調	pjmz
-靈棚	tram
+靈棚	tiam
 哈希	itog
 警槍	wtas
 裁汰	gihx
@@ -88670,7 +88670,7 @@
 瓦窯	fnzi
 群衆關係	scak
 彩瓷	talf
-真靈	ggtr
+真靈	ggti
 傳聲	kgmm
 螳臂擋車	jrpj
 扶危	psro
@@ -89183,7 +89183,7 @@
 特解	lbrq
 私費	znui
 刀子嘴	kyil
-廣靈	gbtr
+廣靈	gbti
 愛答不理	tzcg
 後序	jbgm
 菜金	wttk
@@ -92391,7 +92391,7 @@
 夸脱	xrmv
 敬贈	wtiv
 寄費	exui
-靈明	trjm
+靈明	tijm
 家雀	ekov
 菜青蟲	wzjj
 揚名四海	pxyh
@@ -93321,7 +93321,7 @@
 氈靴	uugk
 啼飢號寒	ioie
 豁朗	ezot
-靈怪	trnw
+靈怪	tinw
 凝想	lhag
 有損無益	gplh
 成敗利鈍	uizt
@@ -95951,7 +95951,7 @@
 東軟	ajjf
 陳翔	taie
 張玉	osgo
-靈獸	trrs
+靈獸	tirs
 米娜	mgsp
 户限	fktt
 藥妝	wdns
@@ -96382,7 +96382,7 @@
 天順	fxjw
 貨站	khyd
 大坪	xibl
-仙靈	kdtr
+仙靈	kdti
 老槍	rias
 哄着	ixig
 一府兩院	fgft
@@ -96705,7 +96705,7 @@
 纜線	hdhd
 龍舞	ymld
 科教文衛	zrwf
-魔靈	obtr
+魔靈	obti
 學士服	wmmw
 恆源祥	nhdi
 大壯	xinm
@@ -96841,7 +96841,7 @@
 泥石	hmqq
 吧友	iegw
 里布	dngu
-幻靈	bptr
+幻靈	bpti
 東方不亮西方亮	amcw
 瓦薩	fnwt
 方鋼	mxtz
@@ -97292,7 +97292,7 @@
 必可	nczj
 番外	cmxd
 明知山有虎	jedq
-萬靈	wstr
+萬靈	wsti
 佳緣	kbhs
 南郡	gzsc
 赤月	bymd
@@ -98232,7 +98232,7 @@
 幼樹	baah
 松青	avzm
 識辨	majk
-送靈	vxtr
+送靈	vxti
 碧池	gdhh
 槍榴彈	aaor
 果條	sakk
@@ -98372,7 +98372,7 @@
 橋樁	acaz
 瓷缸	lfun
 虎躍	qbue
-移靈	zxtr
+移靈	zxti
 地壟	bhym
 牴牾	lqlj
 它山之石	eddq
@@ -99025,7 +99025,7 @@
 干將莫邪	lnwy
 遇合	sfti
 一身二任	flrk
-靈寢	tren
+靈寢	tien
 牧女	lrsm
 散攤	xmpx
 軍中無戲言	eilm
@@ -99210,13 +99210,13 @@
 封賜	bbij
 傀儡戲	kkqe
 燒山	ybds
-鮮靈	xitr
+鮮靈	xiti
 開國元老	aurr
 脆亮	mrwp
 哦喲	icih
 曼陀鈴	jttt
 窮忙	zlnx
-靈霄	trto
+靈霄	tito
 拷入	prxj
 晨景	jqjw
 月眉	mdmg
@@ -99468,7 +99468,7 @@
 貼換	idpr
 吉期	mimv
 詬駡	morg
-辭靈	tntr
+辭靈	tnti
 房脊	fmll
 有盼	gmgv
 六書	cauj
@@ -99501,7 +99501,7 @@
 雜肥	usme
 盛季	upzy
 燦若群星	ywsj
-靈幡	truc
+靈幡	tiuc
 吊毛	iuou
 詞量	mpjf
 施診	mlms
@@ -99511,7 +99511,7 @@
 襯紙	oyhq
 遠思	bisn
 角櫃	rqae
-蠻靈	mhtr
+蠻靈	mhti
 頂數	uwsi
 襲佔	ymkd
 迥乎不同	zccz
@@ -99819,7 +99819,7 @@
 胭紅	muhn
 魚傳尺素	xkmz
 綜計	hemg
-靈府	trgk
+靈府	tigk
 文契	wmzk
 小熊座	ongs
 吮血	incb
@@ -99995,7 +99995,7 @@
 鑾輿	mhwj
 飢色	opre
 先妣	lash
-靈傑	trkx
+靈傑	tikx
 貧化鈾	vkti
 薩克管	wqze
 入寐	xjen
@@ -101357,7 +101357,7 @@
 富實	efes
 螳螂捕蟬黃雀在後	jjpj
 挪威的森林	puda
-血精靈	cmtr
+血精靈	cmti
 牌點	ndud
 水元素	hrzh
 儲蓄罐	kwuw
@@ -102682,7 +102682,7 @@
 銀松	ttav
 解控	rqpz
 昕薇	jowy
-月靈	mdtr
+月靈	mdti
 財管	igze
 古特雷斯	qltm
 商位	yzky
@@ -102775,7 +102775,7 @@
 阿武	tzfn
 換槍	pras
 班導	gkvc
-靈蛇	trje
+靈蛇	tije
 呷哺	isig
 轉呈	jgig
 紙膜	hqmw
@@ -102841,7 +102841,7 @@
 控拆	pzpo
 紫菱	lhwb
 船檢	lpao
-五靈	jitr
+五靈	jiti
 膠套	mexs
 核清	ayhz
 柱塞	aoeb
@@ -113568,7 +113568,7 @@
 超產	qkwo
 養虎為患	iqon
 不告而別	clui
-靈貓	trlw
+靈貓	tilw
 藴藉	whwf
 台盟	nijm
 後台老闆	jnra
@@ -113611,7 +113611,7 @@
 吃葷	ilwe
 遙指	muph
 內畫	zxus
-靈台	trni
+靈台	tini
 別忙	iknx
 衞道士	fvmf
 吃糧	ilmj
@@ -114904,7 +114904,7 @@
 內廷	zxcm
 推為	pvoc
 輕搖	jfpm
-虛靈	qwtr
+虛靈	qwti
 妻妾成羣	fyus
 聚眾鬧事	qytf
 不怕沒柴燒	cnhy
@@ -121767,7 +121767,7 @@
 體念	frtp
 皇統	dghp
 呼扇	icfe
-靈床	trga
+靈床	tiga
 代數學	kswo
 汙七八糟	hlvm
 興利除害	wzte
@@ -122630,7 +122630,7 @@
 撤案	ppes
 拌飯	pvoo
 著床	wrga
-最靈	jqtr
+最靈	jqti
 反社會	odtu
 與誰	wfmv
 混著	hjwr

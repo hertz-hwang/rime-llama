@@ -5,7 +5,18 @@
 # 环境变量:
 #   INPUT_DIR: 输入文件目录
 #   OUTPUT_DIR: 输出文件目录
-
+#;q	：“
+#;t	→
+#;y	·
+#;o	〖
+#;p	〗
+#;h	『
+#;j	』
+#;k	￥
+#;x	【
+#;c	】
+#;n	「
+#;m	」
 # 检查必要的环境变量
 if [ -z "${INPUT_DIR}" ] || [ -z "${OUTPUT_DIR}" ]; then
     echo "错误: 需要设置 INPUT_DIR 和 OUTPUT_DIR 环境变量"
