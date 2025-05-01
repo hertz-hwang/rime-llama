@@ -2299,7 +2299,7 @@ columns:
 麑	cwa	104
 铹	cwe	104
 锘	cwg	104
-升	cwi	100	cw1
+升	cwh	100	cw1
 麐	cwi	0
 镆	cwj	145
 锼	cwk	133
@@ -3042,8 +3042,8 @@ columns:
 豎	dwe	104
 嶼	dwf	0
 緊	dwh	104
+异	dwh	100	dw1
 賢	dwi	104
-异	dwi	100	dw1
 臤	dwi	0
 嶱	dwj	0
 巐	dwj	0
@@ -3596,7 +3596,7 @@ columns:
 鿲	ewe	0
 匿	ewg	1247
 慝	ewg	109
-羿	ewi	226
+羿	ewh	226
 寞	ewj	1523
 冪	ewj	0
 寡	ewk	2892
@@ -4097,7 +4097,7 @@ columns:
 堊	fwb	0
 耢	fwe	104
 琧	fwg	0
-开	fwi	100	fw1
+开	fwh	100	fw1
 馍	fwj	396
 蝁	fwj	0
 型	fwk	30328
@@ -5125,16 +5125,16 @@ columns:
 斑	gwg	3274
 鞯	gwg	239
 睰	gwg	0
+弄	gwh	16160
+卉	gwh	766
+馵	gwh	0
 鼖	gwh	0
-弄	gwi	16160
-卉	gwi	766
 友	gwi	100	gw1
 叏	gwi	0
 歕	gwi	0
 翸	gwi	0
 賁	gwi	0
 馭	gwi	0
-馵	gwi	0
 瞙	gwj	0
 騒	gwj	0
 騲	gwj	0
@@ -7710,10 +7710,10 @@ columns:
 唠	iwe	718
 哼	iwf	7913
 喏	iwg	422
+戒	iwh	7071
+芔	iwh	104
+畁	iwh	0
 叹	iwi	13976
-戒	iwi	7071
-芔	iwi	104
-畁	iwi	0
 叩	iwj	1732
 噶	iwj	582
 呓	iwj	269
@@ -12100,7 +12100,7 @@ columns:
 悙	nwf	0
 懙	nwf	0
 懂	nwh	12211
-弁	nwi	285
+弁	nwh	285
 悋	nwi	0
 卬	nwj	104
 卭	nwj	0
@@ -13664,7 +13664,7 @@ columns:
 捞	pwe	2109
 攑	pwf	0
 掿	pwg	0
-弃	pwi	11565
+弃	pwh	11565
 凤	pwi	9877
 摸	pwj	10337
 卻	pwj	104
@@ -15571,10 +15571,10 @@ columns:
 嬩	swf	0
 婼	swg	104
 駑	swg	0
+畀	swh	144
 嬞	swh	0
 奴	swi	9728
 戗	swi	146
-畀	swi	144
 仓	swj	4678
 嫫	swj	117
 嫂	swk	3268
@@ -18005,8 +18005,8 @@ columns:
 戤	vwb	104
 瓶	vwf	5472
 诺	vwg	14514
+并	vwh	100	vw1
 隻	vwi	104
-并	vwi	100	vw1
 夃	vwi	0
 谟	vwj	802
 兯	vwj	0
@@ -18400,9 +18400,16 @@ columns:
 蒓	whf	0
 薄	whg	7727
 蒲	whg	2672
+艹	whh	110
+丌	whh	109
+艸	whh	109
 芘	whh	108
 荜	whh	106
+廾	whh	104
 蒈	whh	104
+丱	whh	0
+卄	whh	0
+卝	whh	0
 蕬	whh	0
 藻	whi	1403
 蕰	whj	104
@@ -18468,14 +18475,7 @@ columns:
 茣	wif	0
 茙	wig	0
 臼	wii	368
-艹	wii	110
-丌	wii	109
-艸	wii	109
-廾	wii	104
 又	wii	100	wi1
-丱	wii	0
-卄	wii	0
-卝	wii	0
 菚	wii	0
 蒷	wii	0
 蘡	wii	0
@@ -19139,8 +19139,8 @@ columns:
 萖	wwa	0
 藃	wwf	0
 藇	wwf	0
-茻	wwi	104
-舁	wwi	103
+茻	wwh	104
+舁	wwh	103
 双	wwi	100	ww1
 节	wwj	35437
 蓃	wwk	0
@@ -20714,8 +20714,8 @@ columns:
 燺	ywa	0
 爤	ywa	0
 齯	ywa	0
-灷	ywi	0
-竎	ywi	0
+灷	ywh	0
+竎	ywh	0
 齨	ywi	0
 羃	ywj	0
 鸦	ywl	2279

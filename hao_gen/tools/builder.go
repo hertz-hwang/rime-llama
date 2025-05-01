@@ -536,82 +536,43 @@ func calcFullCodeByDiv(div []string, mappings map[string]string, strokeTable map
 	
 	// 新的特殊处理规则
 	if len(div) == 1 {
-		// 当拆分部件数量为1个时，第三码取该部件的首笔，第四码取该部件的末笔
-		if strokes, ok := strokeTable[div[0]]; ok && len(strokes) >= 2 {
-			// 计算笔画序列的长度和首末笔
-			runeStrokes := []rune(strokes)
-			if len(runeStrokes) >= 2 {
-				// 获取首笔和末笔(处理为单个Unicode字符)
-				firstStrokeRune := runeStrokes[0]
-				lastStrokeRune := runeStrokes[len(runeStrokes)-1]
-				firstStroke := string(firstStrokeRune)
-				lastStroke := string(lastStrokeRune)
-				
-				// 获取部件编码
-				compCode := mappings[div[0]]
-				
-				// 从映射表查找这些笔画的编码
-				firstStrokeCode, firstOk := mappings[firstStroke]
-				if !firstOk {
-					firstStrokeCode = ""
-				}
-				firstStrokeCodeFromMap := ""
-				if len(firstStrokeCode) > 0 {
-					firstStrokeCodeFromMap = strings.ToLower(string(firstStrokeCode[0]))
-				} else {
-					firstStrokeCodeFromMap = "a"
-				}
-				
-				lastStrokeCode, lastOk := mappings[lastStroke]
-				if !lastOk {
-					lastStrokeCode = ""
-				}
-				lastStrokeCodeFromMap := ""
-				if len(lastStrokeCode) > 0 {
-					lastStrokeCodeFromMap = strings.ToLower(string(lastStrokeCode[0]))
-				} else {
-					lastStrokeCodeFromMap = "a"
-				}
-				
-				// 第一码取部件大码，第二码取栈顶
-				code = compCode[:1] + stack[:1]
-				
-				// 第三码取首笔编码，第四码取末笔编码
-				code = code + firstStrokeCodeFromMap + lastStrokeCodeFromMap
-			} else {
-				// 笔画序列长度不足，使用栈补充
-				// 确保编码长度为4
-				// 注意：这里拿到的是原始div[0]对应的编码
-				originalCompCode := mappings[div[0]]
-				if len(originalCompCode) >= 1 {
-					code = originalCompCode[:1]
-				} else {
-					code = "z" // 默认编码
-				}
-				
-				// 补充剩余三码
-				if len(stack) >= 3 {
-					code += stack[:3]
-				} else {
-					// 栈不够长，使用重复字符补充
-					code += stack + strings.Repeat("a", 3-len(stack))
-				}
-			}
-		} else {
-			// 如果没有笔画信息，确保生成四码编码
-			// 第一码已经在前面处理过
-			if len(code) < 1 {
-				code = "z" // 默认编码
-			}
-			
-			// 补充到四码
-			if len(stack) >= 3 {
-				code += stack[:3]
-			} else {
-				// 栈不够长，使用重复字符补充
-				code += stack + strings.Repeat("a", 3-len(stack))
-			}
+		// 当拆分部件数量为1个时（字根字）
+		// 获取部件编码
+		compCode := mappings[div[0]]
+		if len(compCode) == 0 {
+			return "", "" // 没有编码，返回空
 		}
+		
+		// 第一码取部件大码，第二码取部件小码
+		code = compCode[:1]
+		if len(compCode) > 1 {
+			code += compCode[1:2]
+		} else {
+			return "", "" // 没有小码，返回空
+		}
+		
+		// 获取笔画信息
+		strokes := strokeTable[div[0]]
+		if len(strokes) == 0 {
+			return "", "" // 没有笔画信息，返回空
+		}
+		
+		runeStrokes := []rune(strokes)
+		
+		// 获取首笔和末笔
+		firstStroke := string(runeStrokes[0])
+		lastStroke := string(runeStrokes[len(runeStrokes)-1])
+		
+		// 从映射表查找这些笔画的编码
+		firstStrokeCode := mappings[firstStroke]
+		lastStrokeCode := mappings[lastStroke]
+		
+		if len(firstStrokeCode) == 0 || len(lastStrokeCode) == 0 {
+			return "", "" // 没有笔画编码，返回空
+		}
+		
+		// 第三码取首笔大码，第四码取末笔大码
+		code = code + strings.ToLower(string(firstStrokeCode[0])) + strings.ToLower(string(lastStrokeCode[0]))
 	} else if len(div) == 2 {
 		// 当拆分部件数量为2个时，按照规则生成全码
 		if strokes, ok := strokeTable[div[1]]; ok && len(strokes) >= 1 {
