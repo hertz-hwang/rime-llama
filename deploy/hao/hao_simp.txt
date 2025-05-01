@@ -103,10 +103,11 @@
 与	fp1
 将	nx1
 日	je1
+长	xk1
 理	gd1
 三	qn1
 些	lh1
-实	eo1
+实	el1
 样	ai1
 十	gl1
 意	an1
@@ -145,7 +146,7 @@
 二	rl1
 重	hd1
 由	is1
-头	oo1
+头	lx1
 声	mm1
 性	nd1
 应	gh1
@@ -244,6 +245,7 @@
 报	pw1
 员	id1
 论	vh1
+义	oo1
 放	mr1
 电	jp1
 至	cy1
@@ -283,6 +285,7 @@
 克	qa1
 带	fe1
 飞	ib1
+区	eo1
 李	ay1
 则	dk1
 交	co1
@@ -563,7 +566,6 @@
 余	sz1
 闻	bq1
 哥	zz1
-守	el1
 跑	us1
 座	gs1
 皮	em1
@@ -666,7 +668,6 @@
 崇	de1
 岩	dq1
 井	bz1
-躺	lx1
 埋	bd1
 乏	cd1
 燃	ym1
@@ -696,7 +697,6 @@
 烁	yn1
 缸	un1
 垣	bt1
-廿	xk1
 碉	qz1
 锭	ce1
 蹂	um1

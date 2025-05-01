@@ -15802,7 +15802,7 @@
 捲曲	pvrw
 門徒	acjq
 蜻蜓點水	jjuh
-鹿茸	cywq
+鹿茸	cuwq
 互通有無	fngl
 改朝換代	jgpk
 杜甫	abgn
@@ -16433,7 +16433,7 @@
 番號	cmif
 變心	mhng
 水深火熱	hhyb
-梅花鹿	awcy
+梅花鹿	awcu
 才氣	gcfm
 晴空	jzzn
 重婚	hdsq
@@ -26775,7 +26775,7 @@
 私交	znco
 炮塔	ysbw
 大可不必	xzcn
-逐鹿	klcy
+逐鹿	klcu
 極差	afin
 愛情片	tnnb
 要義	qsic
@@ -28122,7 +28122,7 @@
 排成	pdup
 稀飯	zooo
 鐵絲網	thhz
-長頸鹿	sfcy
+長頸鹿	sfcu
 臥虎藏龍	dqwy
 快去	nebn
 萵筍	wfzs
@@ -34496,7 +34496,7 @@
 橫切	ablk
 測度	higx
 一顰一笑	flfz
-鹿角	cyrq
+鹿角	curq
 字句	eytq
 宦官	edeu
 會址	tubl
@@ -45321,7 +45321,7 @@
 則由	ikis
 之多	doxx
 逆勢	vibv
-雄鹿	gncy
+雄鹿	gncu
 更顯	tojb
 神器	djrl
 時至	jbcy
@@ -54354,7 +54354,7 @@
 勾連	snjl
 故名	qrxi
 裂解	qkrq
-麋鹿	cmcy
+麋鹿	cmcu
 豫劇	mwqk
 慰問品	mair
 大罷工	xynv
@@ -57980,7 +57980,7 @@
 陣前	tjvm
 騎警	gxwt
 没準兒	hhwa
-鹿肉	cyzs
+鹿肉	cuzs
 所殺	fooa
 曲陽	rwtj
 手輕	pcjf
@@ -61305,7 +61305,7 @@
 五湖	jihq
 會海	tuhl
 錫伯族	tkml
-駝鹿	gecy
+駝鹿	gecu
 滅蟲	hujj
 死馬當活馬醫	qgxe
 視域	dsbi
@@ -62838,7 +62838,7 @@
 殘念	qitp
 澄明	hvjm
 秋海棠	zhxa
-鹿皮	cyem
+鹿皮	cuem
 騏驥	gmgn
 氣性	fmnd
 六藝	cawb
@@ -73208,7 +73208,7 @@
 懇談會	lmtu
 集齊	vaui
 一致通過	fcnf
-三鹿	qncy
+三鹿	qncu
 親赴	yaqd
 活下來	hfas
 臺大	mixi
@@ -76463,7 +76463,7 @@
 追過	cufi
 地外	bhxd
 各負其責	qrmz
-小鹿	otcy
+小鹿	otcu
 見好	scsy
 彈簧門	ozac
 棉花糖	awmg
@@ -76805,7 +76805,7 @@
 雄激素	ghzh
 評分標準	mvah
 遷回	qxui
-馴鹿	gjcy
+馴鹿	gjcu
 留白	fsdy
 工作餐	nkqw
 臨高	dlwn
@@ -82707,7 +82707,7 @@
 尿褲	mhog
 系統資源	chlh
 隔海	tphl
-白鹿	dycy
+白鹿	dycu
 那一種	pfzh
 諸將	mrnm
 打手勢	ppbv
@@ -83065,7 +83065,7 @@
 軍樂團	edug
 刀斧	kgvo
 星塵	jdcb
-鉅鹿	tecy
+鉅鹿	tecu
 畫裏	usod
 光球	sjgf
 綏中	htik
@@ -83135,7 +83135,7 @@
 門旁	acye
 互不侵犯	fckl
 愛花	tewk
-鹿寨	cyeb
+鹿寨	cueb
 陶行知	tfei
 見不着	scig
 聞得	aqjj
@@ -83232,7 +83232,7 @@
 寶鑑	egtd
 搞事	pwfi
 求醫問藥	feaw
-涿鹿	hkcy
+涿鹿	hkcu
 毛巾被	ouoe
 咋整	ieur
 時蔬	jbwk
@@ -84452,7 +84452,7 @@
 親生骨肉	ydfz
 花鳥畫	wtus
 朝鮮語	gxmj
-馬鹿	gbcy
+馬鹿	gbcu
 弄回	gwui
 吠叫	ilih
 布面	guhf
@@ -90642,7 +90642,7 @@
 爽身	xolc
 飽漢不知餓漢飢	ohco
 過而能改	funj
-母鹿	qtcy
+母鹿	qtcu
 講價錢	mkti
 雜麵	usjh
 討喫	mliz
@@ -100971,7 +100971,7 @@
 茶業	wsov
 港航	hxlu
 湖南臺	hgmi
-鹿城	cybu
+鹿城	cubu
 壹仟	mekh
 電子城	tybu
 建設路	umuq
@@ -102947,7 +102947,7 @@
 山王	dsgi
 掙破	ptqe
 半懸	vpgf
-鹿丸	cytk
+鹿丸	cutk
 貨載	khgi
 阿片	tznb
 傻妹	kcsj
@@ -119654,7 +119654,7 @@
 易學	jswo
 畢露	swtu
 棄置	pxyg
-鹿角	cyrq
+鹿角	curq
 清流	hzhp
 燒飯	yboo
 失學	cswo
