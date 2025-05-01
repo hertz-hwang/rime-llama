@@ -5934,6 +5934,7 @@
 𫮬	boij
 墣	boio
 𩯏	boio
+𭎳	boiq
 𡍿	bojs
 𡎋	bojy
 𡌁	bokb
@@ -6886,7 +6887,6 @@
 𰊱	bwog
 𡓻	bwoj
 𩮚	bwoj
-𭎳	bwor
 𮖶	bwor
 𱗥	bwor
 㘷	bwos

@@ -82566,7 +82566,7 @@
 𭎰	(土禾子,BmZpYd,,CJK-F)
 𭎱	(土斤辶,BmOzLt,,CJK-F)
 𭎲	(亠亻土,UeKjMdBm,,CJK-F)
-𭎳	(土,BmWnOr,,CJK-F)
+𭎳	(土衣口,BmOrIq,,CJK-F)
 𭎴	(阝一冂人土,TjFhZvBm,,CJK-F)
 𭎵	(扌尸匕土,PcMzHsBm,,CJK-F)
 𭎶	(土十戈口,BmGlIeIq,,CJK-F)
