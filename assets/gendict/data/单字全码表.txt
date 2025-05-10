@@ -5500,6 +5500,7 @@
 𩮞	bldn
 𩯬	bldn
 ⾡	bldo
+辵	bldo
 𨑔	bldu
 墲	bldy
 𱗰	blea
@@ -38420,7 +38421,6 @@
 𢔐	jsjp
 𢕊	jsjp
 𫊶	jsjp
-𫐃	jsjw
 𪹕	jsjy
 蚧	jskg
 㓯	jskg
@@ -38540,6 +38540,7 @@
 鶅	jstl
 䳛	jstl
 𪀙	jstl
+𫐃	jsts
 𤳤	jstx
 𭶐	jsty
 蠄	jsuf
@@ -45501,7 +45502,6 @@
 ⻍	ltoo
 ⻎	ltoo
 䝖	ltoo
-辵	ltoo
 辶	ltoo
 𤜶	ltoo
 𬍉	ltor

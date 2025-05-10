@@ -23784,7 +23784,7 @@
 曲辰,RwQn	農
 木木辰,AjAjQn	辳
 吅田十辰,RuSlGlQn	辴
-辶,Lt	辵
+彡龰,BlLd	辵
 辶,Lt	辶
 一辶,FhLt	辷
 乃辶,ViLt	辸
@@ -74476,7 +74476,7 @@
 車氵匚コ木,JlHgEhAj	𫐀
 {凬字心}丨{云变}殳車,TeKsPdJl	𫐁
 宀口丨女車,ErSfIqJl	𫐂
-車田車田爫幺又,JlSlJlWi	𫐃
+車田爫幺又車田,JlSlToSl	𫐃
 车一儿,YfFhAh	𫐄
 车山,YfDs	𫐅
 车厂力,YfOyAu	𫐆
