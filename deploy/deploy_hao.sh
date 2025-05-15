@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# 豹码输入法部署脚本
-# 用途：生成豹码输入法的 RIME 方案并打包发布
+# 拉码输入法部署脚本
+# 用途：生成拉码输入法的 RIME 方案并打包发布
 # 作者：原作者
 # 最后更新：$(date +%Y-%m-%d)
 
@@ -67,7 +67,7 @@ gen_schema() {
     log "开始生成方案: ${NAME}"
     
     local HAO="${RAMDISK}/${NAME}"
-    mkdir -p "${HAO}/assets" "${HAO}/lua/amz" "${HAO}/lua/hao" "${HAO}/lua/ace" "${HAO}/lua/leopard" "${HAO}/opencc" "${HAO}/dicts" || error "无法创建必要目录"
+    mkdir -p "${HAO}/assets" "${HAO}/lua/amz" "${HAO}/lua/hao" "${HAO}/lua/ace" "${HAO}/lua/llama" "${HAO}/opencc" "${HAO}/dicts" || error "无法创建必要目录"
     
     # 复制基础文件到内存
     log "复制基础文件到内存..."
@@ -77,20 +77,20 @@ gen_schema() {
     cp ../template/stroke*.yaml "${HAO}" || error "复制 stroke 配置失败"
     cp ../template/symbols.yaml "${HAO}" || error "复制 symbols 配置失败"
     cp ../template/weasel.yaml "${HAO}" || error "复制 weasel 配置失败"
-    cp ../template/lua/leopard/*.lua "${HAO}/lua/leopard" || error "复制 Lua 脚本失败"
+    cp ../template/lua/llama/*.lua "${HAO}/lua/llama" || error "复制 Lua 脚本失败"
     cp ../template/lua/hao/*.lua "${HAO}/lua/hao" || error "复制 Lua 脚本失败"
     cp ../template/lua/amz/*.lua "${HAO}/lua/amz" || error "复制 Lua 脚本失败"
     cp -r ../template/lua/ace/* "${HAO}/lua/ace" || error "复制 Lua 脚本失败"
     cp ../template/opencc/*.json ../template/opencc/*.txt "${HAO}/opencc" || error "复制 OpenCC 配置失败"
     cp ../template/dicts/*.yaml "${HAO}/dicts" || error "复制码表文件失败"
-    cp ../template/leopard*.yaml "${HAO}" || error "复制豹码配置失败"
+    cp ../template/llama*.yaml "${HAO}" || error "复制拉码配置失败"
     cp ../template/qr*.yaml "${HAO}" || error "复制二维码配置失败"
     cp ../template/lm*.yaml "${HAO}" || error "复制lm配置失败"
     # 使用自定义配置覆盖默认值
     if [ -d "${NAME}" ]; then
         log "应用自定义配置..."
         cp -r "${NAME}"/*.txt "${HAO}"
-        mv "${HAO}/leopard_tips.txt" "${HAO}/dicts/leopard_tips.txt"
+        mv "${HAO}/llama_tips.txt" "${HAO}/dicts/llama_tips.txt"
     fi
 
     # 生成映射表
@@ -118,7 +118,7 @@ gen_schema() {
     cat "${HAO}/fullcode.txt" >>"${HAO}/hao.full.dict.yaml"
     #cat "${HAO}/hao.smart.txt" >"${HAO}/hao.smart.txt"
     cat "${HAO}/div.txt" >"${HAO}/opencc/hao_div.txt"
-    cat "${HAO}/div.txt" | sed "s/(/[/g" | sed "s/)/]/g" >>"${HAO}/leopard_spelling_pseudo.dict.yaml"
+    cat "${HAO}/div.txt" | sed "s/(/[/g" | sed "s/)/]/g" >>"${HAO}/llama_spelling_pseudo.dict.yaml"
 
     # 生成词典
     log "生成词典..."
@@ -128,7 +128,7 @@ gen_schema() {
         cp "${HAO}/gendict/data/单字全码表.txt" "data/单字全码表.txt"
         cargo run || error "生成词典失败"
         cat data/output.txt >> "${HAO}/hao.words.dict.yaml"
-        cat "${HAO}/leopard_personal.txt" >> "${HAO}/dicts/leopard.personal.dict.yaml"
+        cat "${HAO}/llama_personal.txt" >> "${HAO}/dicts/llama.personal.dict.yaml"
     popd
 
     # 生成单字fix全码表
@@ -160,22 +160,22 @@ gen_schema() {
     # 运行简码生成脚本
     pushd ${WD}/../assets/simpcode || error "无法切换到 simpcode 目录"
         python simpcode.py || error "生成简码失败"
-        #cat res.txt >> "${HAO}/leopard.dict.yaml"
-        awk '/单字标记/ {system("cat res.txt"); next} 1' ${HAO}/dicts/leopard.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/dicts/leopard.dict.yaml
-        awk '/单字标记/ {system("cat res.txt"); next} 1' ${HAO}/dicts/leopard_smart.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/leopard_smart_temp.dict.yaml
-        awk '/单字全码/ {system("cat ../gendict/data/单字全码表_modified.txt"); next} 1' ${HAO}/dicts/leopard.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/dicts/leopard.dict.yaml
+        #cat res.txt >> "${HAO}/llama.dict.yaml"
+        awk '/单字标记/ {system("cat res.txt"); next} 1' ${HAO}/dicts/llama.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/dicts/llama.dict.yaml
+        awk '/单字标记/ {system("cat res.txt"); next} 1' ${HAO}/dicts/llama_smart.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/llama_smart_temp.dict.yaml
+        awk '/单字全码/ {system("cat ../gendict/data/单字全码表_modified.txt"); next} 1' ${HAO}/dicts/llama.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/dicts/llama.dict.yaml
     popd
 
-    # 确保 leopard 配置文件存在
-    for f in "${HAO}"/leopard*.yaml; do
+    # 确保 llama 配置文件存在
+    for f in "${HAO}"/llama*.yaml; do
         if [ ! -f "$f" ]; then
-            error "缺少必要的leopard配置文件: $f"
+            error "缺少必要的llama配置文件: $f"
         fi
     done
 
     # 处理词典文件
-    if [ -f "${HAO}/dicts/leopard.dict.yaml" ]; then
-        cat "${HAO}/dicts/leopard.dict.yaml" | \
+    if [ -f "${HAO}/dicts/llama.dict.yaml" ]; then
+        cat "${HAO}/dicts/llama.dict.yaml" | \
             sed 's/^\(.*\)\t\(.*\)\t\(.*\)/\1\t\2/g' | \
             sed 's/\t/{TAB}/g' | \
             grep '.*{TAB}[a-z]\{1,2\}$' | \
@@ -197,7 +197,7 @@ gen_schema() {
         grep -v '#' "${HAO}/hao_quick.txt" >>"${HAO}/hao.base.dict.yaml" \
         || error "生成简化字码表失败"
     else
-        error "dicts/leopard.dict.yaml 文件不存在"
+        error "dicts/llama.dict.yaml 文件不存在"
     fi
 
     # 运行智能整句简码生成脚本
@@ -227,13 +227,13 @@ gen_schema() {
               --exclude='/fullcode.txt' \
               --exclude='/hao_*.txt' \
               --exclude='/map.txt' \
-              --exclude='/leopard_personal.txt' \
+              --exclude='/llama_personal.txt' \
               "${HAO}/" "${SCHEMAS}/${NAME}/" || error "复制文件失败"
 
     # 删除临时目录
     log "删除临时目录、文件..."
     rm -rf "${RAMDISK}"
-    rm -rf "${SCHEMAS}/${NAME}/leopard_smart_temp.dict.yaml"
+    rm -rf "${SCHEMAS}/${NAME}/llama_smart_temp.dict.yaml"
 
     # 打包发布
     log "打包发布文件..."
@@ -246,6 +246,6 @@ gen_schema() {
 }
 
 # 主程序
-log "开始部署豹码输入法..."
-gen_schema hao || error "生成豹码方案失败"
+log "开始部署拉码输入法..."
+gen_schema hao || error "生成拉码方案失败"
 log "部署完成"

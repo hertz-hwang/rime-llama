@@ -1,0 +1,19 @@
+# Rime dictionary
+# encoding: utf-8
+# CC-BY-4.0
+
+---
+name: llama_smart
+version: "beta"
+sort: by_weight
+import_tables:
+  - dicts/llama_smart
+  - dicts/llama.extended
+  - dicts/llama.personal
+use_preset_vocabulary: false
+columns:
+  - text
+  - code
+  - weight
+  - stem
+...

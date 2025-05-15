@@ -1,5 +1,5 @@
 # Rime user dictionary
-#@/db_name	leopard_smart
+#@/db_name	llama_smart
 #@/db_type	userdb
 #@/rime_version	1.13.0
 #@/tick	0

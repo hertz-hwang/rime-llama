@@ -1,0 +1,17 @@
+# Rime dictionary
+# encoding: utf-8
+# CC-BY-4.0
+
+---
+name: llama.personal
+version: "beta"
+sort: original
+use_preset_vocabulary: false
+columns:
+  - text
+  - code
+  - weight
+  - stem
+...
+
+#----------个性化----------#

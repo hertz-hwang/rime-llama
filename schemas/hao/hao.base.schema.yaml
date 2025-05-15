@@ -3,7 +3,7 @@
 
 schema:
   schema_id: hao.base
-  name: 豹碼·基礎碼表
+  name: 拉碼·基礎碼表
   description: |
     辅助方案，不能打字。
 

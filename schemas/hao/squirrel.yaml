@@ -24,9 +24,9 @@ style:
   translucency: true      # 透明度總開關
 
   # 淺色主题
-  color_scheme: hertz-leopard-light #purity_of_form_custom #hertz-leopard-light
+  color_scheme: hertz-llama-light #purity_of_form_custom #hertz-llama-light
   # 深色主题
-  color_scheme_dark: hertz-leopard-light #purity_of_form_custom #hertz-leopard-dark
+  color_scheme_dark: hertz-llama-light #purity_of_form_custom #hertz-llama-dark
 
   # #候选字体
   font_face: "Arial, Segoe UI Emoji, TumanPUA, 苹方-简, 思源黑体, 遍黑体P1, 遍黑体P1"
@@ -50,8 +50,8 @@ preset_color_schemes:
   native:
     name: 系統配色
 
-  hertz-leopard-light:
-    name: "赫兹定制·leopard·light"
+  hertz-llama-light:
+    name: "赫兹定制·llama·light"
     # #候选字体
     #font_face: "Segoe UI Emoji, 98WB-0, 98WB-1, 98WB-2, 98WB-3, 98WB-U, 98WB-V"
     font_point: 16 #主字体字号
@@ -102,8 +102,8 @@ preset_color_schemes:
     hilited_label_color: 0xffffffff
     preedit_back_color: 0x1a000000
 
-  hertz-leopard-light-alpha:
-    name: "赫兹定制·leopard·light"
+  hertz-llama-light-alpha:
+    name: "赫兹定制·llama·light"
     # #候选字体
     #font_face: "Segoe UI Emoji, 98WB-0, 98WB-1, 98WB-2, 98WB-3, 98WB-U, 98WB-V"
     font_point: 16 #主字体字号
@@ -154,8 +154,8 @@ preset_color_schemes:
     hilited_label_color: 0xffffffff
     preedit_back_color: 0x1a000000
 
-  hertz-leopard-dark:
-    name: "赫兹定制·leopard·dark"
+  hertz-llama-dark:
+    name: "赫兹定制·llama·dark"
     # #候选字体
     #font_face: "Segoe UI Emoji, 98WB-0, 98WB-1, 98WB-2, 98WB-3, 98WB-U, 98WB-V"
     font_point: 18 #主字体字号

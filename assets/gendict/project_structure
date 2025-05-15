@@ -1,4 +1,4 @@
-leopard_code_generator/
+llama_code_generator/
 ├── Cargo.toml
 ├── src/
 │   └── main.rs

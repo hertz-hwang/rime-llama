@@ -3,7 +3,7 @@
 
 schema:
   schema_id: hao.words
-  name: 豹碼·詞庫
+  name: 拉碼·詞庫
   description: |
     辅助方案，不能打字。
 

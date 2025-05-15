@@ -94,8 +94,8 @@ def process_unmatched_lines(unmatched_file, encoding_dict, output_file):
 def main():
     # 文件路径
     unmatched_file = 'assets/gen_smart/unmatched_lines.txt'
-    dict_file = 'schemas/hao/dicts/leopard_smart.dict.yaml'
-    output_file = 'assets/gen_smart/leopard_smart.userdb.txt'
+    dict_file = 'schemas/hao/dicts/llama_smart.dict.yaml'
+    output_file = 'assets/gen_smart/llama_smart.userdb.txt'
 
     # 检查文件是否存在
     if not os.path.exists(dict_file):

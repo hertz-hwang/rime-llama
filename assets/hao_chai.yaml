@@ -1,7 +1,7 @@
 version: '0.1'
 source: huma
 info:
-  name: 豹码
+  name: 拉码
   author: Hertz Hwang
   version: alpha-0.0.6
   description: 26 键、低重码、拥有舒适手感的高性能中文输入方案

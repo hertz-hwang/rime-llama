@@ -1,9 +1,9 @@
 config_version: 0.40
 
 schema_list:
-  - schema: leopard         # 好碼四定·常规
-  - schema: leopard_phrase  # 好碼四定·整句
-  - schema: leopard_typeR   # 好碼四定·竞速
+  - schema: llama         # 好碼四定·常规
+  - schema: llama_phrase  # 好碼四定·整句
+  - schema: llama_typeR   # 好碼四定·竞速
   - schema: hao             # 好碼三定
   - schema: qr-code         # 整活：二维码
 ascii_composer:
@@ -18,7 +18,7 @@ ascii_composer:
 
 switcher:
   abbreviate_options: true
-  caption: "〔豹码选单〕"
+  caption: "〔拉码选单〕"
   fold_options: true
   hotkeys:
     - "Control+grave"

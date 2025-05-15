@@ -44,8 +44,8 @@ function M.init(env)
     ensure_dir_exist(user_lua_dir)
 
     local db = wrapLevelDb('dicts/tips', true)
-    local user_path = rime_api.get_user_data_dir() .. "/dicts/leopard_tips.txt"
-    local shared_path = rime_api.get_shared_data_dir() .. "/dicts/leopard_tips.txt"
+    local user_path = rime_api.get_user_data_dir() .. "/dicts/llama_tips.txt"
+    local shared_path = rime_api.get_shared_data_dir() .. "/dicts/llama_tips.txt"
     local path = nil
 
     local f = io.open(user_path, "r")
