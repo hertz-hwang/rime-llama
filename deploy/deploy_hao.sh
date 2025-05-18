@@ -175,6 +175,7 @@ gen_schema() {
 
     # 处理词典文件
     if [ -f "${HAO}/dicts/llama.dict.yaml" ]; then
+        # 是否根据四定来出三定的二简
         cat "${HAO}/dicts/llama.dict.yaml" | \
             sed 's/^\(.*\)\t\(.*\)\t\(.*\)/\1\t\2/g' | \
             sed 's/\t/{TAB}/g' | \
