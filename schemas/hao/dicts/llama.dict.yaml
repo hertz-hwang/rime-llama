@@ -7763,6 +7763,7 @@ encoder:
 蚆	jewp	0.000001
 鼂	jfa	0.000001
 䗖	jfe	0.000001
+麥	jff	0.000001
 旴	jfg	0.000001
 徑	jfjn	0.000001
 輕	jfjn	0.000001
@@ -10504,7 +10505,6 @@ encoder:
 𪎊	zjo	0.000001
 麹	zjs	0.000001
 麸	zjsv	0.000001
-麥	zjto	0.000001
 馚	zjv	0.000001
 範	zjw	0.000001
 篌	zke	0.000001
@@ -41770,7 +41770,7 @@ encoder:
 𱡿	jfdy	0.000000
 䡪	jfeh	0.000000
 𧎥	jfeh	0.000000
-𬁠	jff	0.000000
+𬁠	jffc	0.000000
 𰕳	jffh	0.000000
 𣆻	jffk	0.000000
 𣇯	jffk	0.000000
@@ -133185,6 +133185,7 @@ encoder:
 𣇯	jffk
 𨌡	jffk
 𣆞	jffl
+麥	jffo
 旴	jfgl
 虶	jfgl
 𨊱	jfgl
@@ -192618,7 +192619,6 @@ encoder:
 䉖	zjtn
 𩡁	zjtn
 𬹌	zjtn
-麥	zjto
 麦	zjto
 ⻨	zjto
 𩠻	zjtp

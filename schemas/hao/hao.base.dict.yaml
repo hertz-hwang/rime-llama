@@ -8051,6 +8051,7 @@ columns:
 量	jfd	100	jf1
 蛨	jfd	0
 麫	jfd	0
+麥	jff	104
 旴	jfg	104
 虶	jfg	0
 旦	jfh	7889
@@ -21160,7 +21161,6 @@ columns:
 窼	zjs	0
 篵	zjs	0
 麦	zjt	11165
-麥	zjt	104
 馟	zjt	0
 馠	zjt	0
 箻	zju	0

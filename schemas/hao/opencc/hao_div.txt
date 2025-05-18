@@ -27394,7 +27394,7 @@
 麢	(鹿⻗口吅,CuTfIqRu,líng,CJK)
 麣	(鹿吅厂ヿ耳攵,CuRuOyRy,yán,CJK)
 麤	(鹿鹿鹿,CuCuCu,cū,CJK)
-麥	(龶夂,ZhJt,mài,CJK)
+麥	(⿆,Jf,mài,CJK)
 麦	(龶夂,ZhJt,mài,CJK)
 麧	(⿆𠂉乙,JfLdJg,hé,CJK)
 麨	(⿆小丿,JfOtCk,chǎo,CJK)
