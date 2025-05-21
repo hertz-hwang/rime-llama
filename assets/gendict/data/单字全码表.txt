@@ -36498,6 +36498,8 @@
 蛜	jksc
 𧡨	jksc
 𮣻	jksi
+曱	jksk
+甴	jksk
 申	jksk
 𢔩	jksl
 𢕇	jksl
@@ -40448,7 +40450,6 @@
 𰂜	kjdj
 𲃀	kjdj
 㑎	kjds
-甴	kjef
 𣆁	kjef
 𬽪	kjef
 旧	kjef
@@ -69070,7 +69071,6 @@
 𰃕	stjp
 𠋁	stjz
 𫰾	stkf
-曱	stkk
 甲	stkk
 𡞍	stkn
 㜜	stko

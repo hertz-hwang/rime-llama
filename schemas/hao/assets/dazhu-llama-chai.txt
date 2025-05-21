@@ -13134,7 +13134,7 @@
 日吅厂ヿ耳攵,JeRuOyRy	曮
 日尸氺罒勹虫,JeMzHgJw	曯
 曰,Rl	曰
-甲,St	曱
+日丨,JeKs	曱
 曲,Rw	曲
 日㇂丿,JePvCk	曳
 {凬字心},TeOs	更
@@ -16785,7 +16785,7 @@
 由,Is	由
 甲,St	甲
 日丨,JeKs	申
-丨日,KsJe	甴
+日丨,JeKs	甴
 日乚,JePv	电
 丿田,CkSl	甶
 田力,SlAu	男
