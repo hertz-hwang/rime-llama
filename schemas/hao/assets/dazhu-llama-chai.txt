@@ -27855,7 +27855,7 @@
 口丨厶口,IqKsNdIq	𠁯
 彐ㅌ,PcSiSi	𠁰
 一口一水,FhIqFhHg	𠁱
-丿井,CkUsBz	𠁲
+井,UsBz	𠁲
 山丰丰,DsZhZh	𠁳
 囗乂乂乂乂丨,UdOsOsKs	𠁴
 口丨〢,IqKsKgVy	𠁵
@@ -64146,7 +64146,7 @@
 阝千巾,TjHcUw	𨸴
 阝宀一乙,TjErFhJg	𨸵
 阝干丷,TjLrVy	𨸶
-丿户乙,CkUsFkJg	𨸷
+丿戶乙,CkUsFkJg	𨸷
 阝凵,TjPcZv	𨸸
 阝不一,TjCiFh	𨸹
 阝甲,TjSt	𨸺
@@ -64440,7 +64440,7 @@
 阝虍鬲,TjQbPw	𨽚
 阝丷豕辶阝,TjVyKtTj	𨽛
 阝虍田皿,TjQbSlBk	𨽜
-丿艹冂二丿,CkUsWhUs	𨽝
+丿廿⺝丿,CkUsXkUs	𨽝
 阝廿口匕灬,TjXkIqYv	𨽞
 阝虫貝辶,TjJwIcLt	𨽟
 阝人貝,TjWiSiIc	𨽠
@@ -92856,7 +92856,7 @@
 阝耳又耳又,TjQgWiWi	𱁁
 阝丷豕人氺,TjVyKtHg	𱁂
 丿㠯皿丿㠯十,CkUsHgGl	𱁃
-丿丿皿,CkUsCkBk	𱁄
+丿皿丿,CkUsHgUs	𱁄
 八隹,VyVh	𱁅
 隹{云变},VhPd	𱁆
 月隹,MdVh	𱁇

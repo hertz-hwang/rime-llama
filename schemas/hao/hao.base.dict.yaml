@@ -1150,7 +1150,7 @@ columns:
 梿	ayl	999912
 楞	aym	999971
 櫳	aym	999859
-鿝	aym	0
+鿝	aym	999022
 楌	ayo	999861
 柆	ayq	999863
 閚	ayq	999799
@@ -1585,7 +1585,7 @@ columns:
 垱	bos	999917
 阆	bot	999949
 埌	bot	999917
-鿾	bot	0
+鿾	bot	999031
 髦	bou	999966
 壥	bou	999882
 壌	bov	999882
@@ -2190,7 +2190,7 @@ columns:
 铑	cri	999939
 锗	crj	999943
 麣	cro	999785
-鿭	cro	0
+鿭	cro	999030
 锷	crr	999959
 铮	cru	999968
 致	cry	100	cr1
@@ -2360,7 +2360,7 @@ columns:
 向	czi	100	cz1
 钶	czj	999923
 麘	czj	999785
-鿏	czj	0
+鿏	czj	999029
 锲	czk	999952
 铸	czl	999975
 奥	czm	999989
@@ -2375,7 +2375,7 @@ columns:
 钠	czs	999962
 锈	czv	999965
 锹	czy	999956
-鿔	czz	0
+鿔	czz	999029
 杂	da1	999990	da1
 崊	daa	999877
 嶂	dag	999949
@@ -2583,7 +2583,7 @@ columns:
 禟	dgu	999906
 嵣	dgu	999876
 祓	dgw	999935
-鿆	dgw	0
+鿆	dgw	999026
 炭	dgy	999974
 眚	dgy	999938
 生	dh1	999999	dh1
@@ -2967,7 +2967,7 @@ columns:
 岒	dtp	999877
 岣	dtq	999940
 嶀	dtr	999876
-鿅	dtt	0
+鿅	dtt	999026
 崢	dtu	999877
 嶿	dtu	999876
 禬	dtu	999840
@@ -3165,7 +3165,7 @@ columns:
 沊	eah	999857
 宋	eaj	100	ea1
 宨	eal	999878
-鿷	ear	0
+鿷	ear	999093
 邥	eat	999807
 鴄	eat	999788
 鴆	eat	999788
@@ -3246,7 +3246,7 @@ columns:
 鲏	eem	999900
 翍	eem	999831
 悘	een	999872
-鿹	een	0
+鿹	een	999083
 巪	eep	999875
 翳	eeq	999951
 醫	eeq	999928
@@ -3366,7 +3366,7 @@ columns:
 軍	ejl	999931
 運	ejl	999930
 翴	ejl	999830
-鿴	ejl	0
+鿴	ejl	999082
 鲳	ejr	999933
 宴	ejs	999978
 郾	ejs	999943
@@ -3396,7 +3396,7 @@ columns:
 实	el1	999998	el1
 宪	ela	999983
 宊	ele	999878
-鿸	ele	0
+鿸	ele	999082
 鳆	elj	999922
 矪	elk	999842
 乍	ell	999972
@@ -3415,7 +3415,7 @@ columns:
 鲒	emi	999922
 賔	emi	999812
 皮	emm	100	em1
-鿵	emn	0
+鿵	emn	999082
 鲯	emv	999900
 鳞	emx	999972
 鲂	emx	999948
@@ -3462,7 +3462,7 @@ columns:
 匳	eor	999888
 区	eos	100	eo1
 鴎	eot	999788
-鿶	eot	0
+鿶	eot	999082
 宒	eou	999878
 毣	eou	999857
 毭	eou	999857
@@ -3594,7 +3594,7 @@ columns:
 寯	evz	999878
 巴	ew1	999994	ew1
 鲵	ewa	999935
-鿲	ewe	0
+鿲	ewe	999046
 匿	ewg	999970
 慝	ewg	999937
 羿	ewh	999951
@@ -3667,7 +3667,7 @@ columns:
 実	ezo	999878
 稣	ezp	999974
 矮	ezs	999980
-鿕	ezu	0
+鿕	ezu	999083
 鳅	ezy	999953
 憲	ezy	999925
 末	fa1	999988	fa1
@@ -3709,7 +3709,7 @@ columns:
 奡	fcx	999917
 饷	fcz	999968
 扄	fcz	999870
-鿫	fcz	0
+鿫	fcz	999013
 下	fd1	999999	fd1
 髀	fdc	999940
 馔	fdd	999950
@@ -4353,7 +4353,7 @@ columns:
 琛	gev	999964
 矅	gev	999842
 靶	gew	999967
-鿱	gew	0
+鿱	gew	999090
 琬	gex	999955
 睕	gex	999843
 勃	gey	999983
@@ -4371,7 +4371,7 @@ columns:
 靺	gfa	999901
 廈	gfc	999924
 騸	gfe	999792
-鿮	gfe	0
+鿮	gfe	999069
 盱	gfg	999943
 玗	gfg	999909
 球	gfh	100	gf1
@@ -4904,7 +4904,7 @@ columns:
 璏	gsh	999846
 騄	gsh	999793
 騾	gsh	999792
-鿿	gsh	0
+鿿	gsh	999024
 庂	gsi	999875
 廔	gsi	999874
 瑻	gsi	999847
@@ -5740,7 +5740,7 @@ columns:
 漧	hgj	999854
 澣	hgj	999853
 濣	hgj	999853
-鿰	hgj	0
+鿰	hgj	999060
 洊	hgk	999856
 汁	hgl	999973
 溥	hgl	999963
@@ -6019,7 +6019,7 @@ columns:
 紉	hko	999835
 綛	hko	999833
 纀	hko	999831
-鿄	hko	0
+鿄	hko	999055
 潎	hkr	999854
 瀦	hkr	999852
 洢	hks	999911
@@ -6584,7 +6584,7 @@ columns:
 潿	hui	999853
 絗	hui	999834
 纃	hui	999831
-鿌	huj	0
+鿌	huj	999057
 液	huk	999984
 溷	huk	999937
 溂	huk	999854
@@ -7826,7 +7826,7 @@ columns:
 賙	izb	999812
 啧	izd	999965
 祟	izd	999963
-鿽	ize	0
+鿽	ize	999048
 哃	izf	999918
 欪	izf	999858
 嗉	izh	999945
@@ -8226,7 +8226,7 @@ columns:
 輥	jjh	999809
 晤	jji	999971
 忁	jji	999873
-鿉	jji	0
+鿉	jji	999091
 晶	jjj	999982
 蟲	jjj	999928
 轟	jjj	999925
@@ -8362,7 +8362,7 @@ columns:
 猒	jml	999848
 輣	jmm	999809
 蚇	jmo	999822
-鿈	jmo	0
+鿈	jmo	999072
 蜛	jmq	999821
 暇	jmr	999970
 蝦	jmr	999928
@@ -9479,7 +9479,7 @@ columns:
 鷩	krt	999785
 蹩	kru	999956
 幣	kru	999929
-鿇	kru	0
+鿇	kru	999089
 弊	krw	999975
 鱉	krx	999788
 敝	kry	999970
@@ -9492,9 +9492,9 @@ columns:
 伊	ksc	999991
 侰	ksc	999892
 俔	ksc	999892
-鿘	ksc	0
-鿙	ksc	0
-鿚	ksc	0
+鿘	ksc	999055
+鿙	ksc	999055
+鿚	ksc	999055
 佡	ksd	999893
 佨	ksd	999893
 侵	kse	999988
@@ -9758,7 +9758,7 @@ columns:
 玍	lbm	999909
 艢	lbs	999828
 凌	lbv	999987
-鿛	lbv	0
+鿛	lbv	999066
 獚	lbx	999848
 身	lc1	999998	lc1
 身	lcc	100	lc1
@@ -9895,7 +9895,7 @@ columns:
 犑	lgl	999849
 猼	lgl	999848
 憑	lgn	999930
-鿑	lgo	0
+鿑	lgo	999066
 犊	lgp	999959
 犷	lgp	999951
 凴	lgp	999889
@@ -10179,8 +10179,8 @@ columns:
 猓	lsa	999958
 躶	lsa	999902
 惣	lsb	999872
+鿯	lsb	999039
 物	lsb	100	ls1
-鿯	lsb	0
 狍	lsd	999943
 猥	lsf	999960
 艙	lsf	999925
@@ -12422,7 +12422,7 @@ columns:
 氷	ohg	999857
 永	ohg	100	oh1
 饎	ohi	999794
-鿋	ohi	0
+鿋	ohi	999013
 昶	ohj	999949
 褝	ohs	999903
 弾	ohs	999874
@@ -12761,8 +12761,8 @@ columns:
 餒	ots	999794
 郎	ott	999986
 郞	ott	999807
+鿥	ott	999035
 小	ott	100	ot1
-鿥	ott	0
 厩	otu	999958
 襦	otu	999939
 襘	otu	999818
@@ -13743,7 +13743,7 @@ columns:
 夣	pye	999882
 揥	pye	999868
 擐	pyf	999937
-鿜	pyf	0
+鿜	pyf	999045
 攞	pyh	999867
 掊	pyi	999936
 攏	pym	999867
@@ -13806,7 +13806,7 @@ columns:
 兛	qah	999919
 克	qah	100	qa1
 職	qai	999927
-鿼	qai	0
+鿼	qai	999063
 栗	qaj	999973
 碴	qaj	999956
 磵	qaj	999841
@@ -14000,7 +14000,7 @@ columns:
 矿	qgp	999984
 磚	qgs	999928
 磄	qgu	999841
-鿻	qgu	0
+鿻	qgu	999064
 韨	qgw	999901
 鼥	qgw	999899
 硦	qgw	999841
@@ -14086,7 +14086,7 @@ columns:
 劽	qka	999889
 勮	qka	999888
 砐	qkd	999842
-鿞	qkf	0
+鿞	qkf	999081
 刵	qkg	999919
 矵	qkg	999842
 列	qkg	100	qk1
@@ -14320,7 +14320,7 @@ columns:
 硄	qsj	999842
 砎	qsk	999842
 赹	qsl	999812
-鿬	qsl	0
+鿬	qsl	999069
 膚	qsm	999828
 趜	qsm	999811
 要	qsm	100	q1
@@ -14340,7 +14340,7 @@ columns:
 硢	qsz	999842
 母	qt1	999994	qt1
 礵	qta	999906
-鿤	qta	0
+鿤	qta	999060
 鼷	qtb	999934
 磎	qtb	999907
 殓	qth	999954
@@ -14363,10 +14363,10 @@ columns:
 赺	qtp	999812
 趝	qtp	999811
 鼩	qtq	999899
-鿣	qtq	0
+鿣	qtq	999060
 礌	qts	999906
+鿢	qtt	999060
 母	qtt	100	qt1
-鿢	qtt	0
 磘	qtu	999841
 礝	qtu	999840
 礭	qtv	999840
@@ -14487,7 +14487,7 @@ columns:
 殗	qxj	999858
 硽	qxj	999841
 趞	qxj	999811
-鿎	qxl	0
+鿎	qxl	999070
 磢	qxo	999841
 碟	qxp	999970
 礃	qxp	999906
@@ -15230,8 +15230,8 @@ columns:
 劙	skj	999919
 剶	skk	999889
 婿	skm	999968
+鿗	sks	999086
 个	sks	100	sk1
-鿗	sks	0
 彖	skt	999935
 鶨	skt	999786
 企	sl1	999994	sl1
@@ -16076,7 +16076,7 @@ columns:
 鈛	tie	999805
 欱	tif	999858
 鋘	tif	999804
-鿖	tif	0
+鿖	tif	999081
 酲	tig	999934
 鋥	tig	999803
 酉	tii	999960
@@ -16146,7 +16146,7 @@ columns:
 鍀	tjf	999803
 鍚	tjf	999802
 鍿	tjf	999802
-鿧	tjf	0
+鿧	tjf	999042
 降	tjg	999992
 釔	tjg	999806
 鳦	tjg	999788
@@ -16563,7 +16563,7 @@ columns:
 鍝	tsf	999802
 鍡	tsf	999802
 鎗	tsf	999802
-鿨	tsf	0
+鿨	tsf	999043
 酫	tsg	999806
 銓	tsg	999804
 錄	tsh	999930
@@ -17783,7 +17783,7 @@ columns:
 蚠	vkj	999822
 颁	vkk	999975
 遂	vkl	999981
-鿪	vkl	0
+鿪	vkl	999054
 谞	vkm	999903
 忿	vkn	999969
 诼	vko	999942
@@ -18424,7 +18424,7 @@ columns:
 蒞	whk	999825
 萍	whl	999977
 葤	whl	999825
-鿊	whl	0
+鿊	whl	999080
 茳	whn	999936
 菭	whn	999826
 葒	whn	999825
@@ -18600,7 +18600,7 @@ columns:
 叟	wkw	999971
 鄋	wkw	999902
 遚	wkw	999808
-鿒	wkw	0
+鿒	wkw	999091
 蓓	wky	999959
 莅	wky	999953
 蓝	wkz	999989
@@ -19155,7 +19155,7 @@ columns:
 蕮	wws	999824
 葶	wwu	999934
 鹱	wwv	999940
-鿓	wwv	0
+鿓	wwv	999091
 桑	www	999984
 叠	www	999976
 颡	www	999937
@@ -19322,8 +19322,8 @@ columns:
 蕛	wzv	999824
 蘓	wzx	999823
 鶧	wzx	999786
+鿦	wzx	999080
 英	wzx	100	wz1
-鿦	wzx	0
 萩	wzy	999904
 蔧	wzz	999904
 党	xa1	999995	xa1
@@ -19525,7 +19525,7 @@ columns:
 痧	xho	999942
 鯋	xho	999790
 疕	xhs	999845
-鿐	xht	0
+鿐	xht	999088
 名	xi1	999998	xi1
 賞	xic	999927
 痒	xid	999973
@@ -19585,7 +19585,7 @@ columns:
 疸	xjf	999952
 瘍	xjf	999845
 鰑	xjf	999789
-鿩	xjf	0
+鿩	xjf	999034
 鯤	xjh	999790
 痦	xji	999935
 癰	xji	999844
@@ -19650,7 +19650,7 @@ columns:
 鯾	xkt	999789
 达	xl1	999996	xl1
 鯓	xlc	999790
-鿳	xle	0
+鿳	xle	999034
 疵	xlh	999958
 鯌	xli	999790
 疙	xlj	999964
@@ -20335,8 +20335,8 @@ columns:
 爋	yhu	999849
 羅	yhv	999931
 邏	yhv	999807
+鿡	yhv	999086
 轮	yhv	100	yh1
-鿡	yhv	0
 部	yi1	999998	yi1
 竞	yia	999988
 競	yia	999926
@@ -21169,7 +21169,7 @@ columns:
 馚	zjv	999900
 馦	zjv	999794
 範	zjw	999926
-鿺	zjw	0
+鿺	zjw	999036
 馣	zjx	999794
 篷	zjz	999972
 笧	zjz	999837
@@ -21183,7 +21183,7 @@ columns:
 篌	zke	999934
 筰	zke	999837
 筛	zkf	999965
-鿠	zkf	0
+鿠	zkf	999036
 睝	zkg	999843
 利	zkg	100	zk1
 絜	zkh	999905
@@ -21206,7 +21206,7 @@ columns:
 笩	zkn	999837
 挈	zkp	999948
 觢	zkr	999817
-鿟	zkr	0
+鿟	zkr	999037
 黎	zks	999984
 邌	zks	999807
 箯	zkt	999837
