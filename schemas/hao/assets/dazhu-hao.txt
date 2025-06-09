@@ -151250,13 +151250,13 @@ baul⇥	𨙜
 bauv⇥	𱘘
 bauz⇥	𡍬
 bavn⇥	鬆
-bawa⇥	𦧄
 bawh⇥	𢌻
 bawl⇥	𱉢
 bawl⇥	鹇
 bawp⇥	𰿽
 bawv⇥	𩑴
 bawv⇥	𩓠
+baww⇥	𦧄
 bayd⇥	孧
 bayf⇥	𰊷
 bayi⇥	𧷏
@@ -304268,7 +304268,7 @@ zzzz⇥	𥷹
 (冂一口冖{癶变}㇏,WiZvFhPc,fěng,CJK-B)	𦧁
 (丿龱丿龱大,WiCkLwXi,,CJK-B)	𦧂
 (尸米女艹隹臼,MzMgSmWi,,CJK-B)	𦧃
-(土儿臼一廾土儿,BmAhWiAh,,CJK-B)	𦧄
+(土儿{臼变}一廾土儿{臼变}一廾{臼变}一廾,BmAhWiWh,,CJK-B)	𦧄
 (冂一口冂一口冂一口,WiZvFhVy,wèng,CJK-B)	𦧅
 (一,VlFh,,CJK-B)	𦧆
 (也,VlHe,,CJK-B)	𦧇

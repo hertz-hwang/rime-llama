@@ -54815,7 +54815,7 @@
 𦧁	(冂一口冖{癶变}㇏,WiZvFhPc,fěng,CJK-B)
 𦧂	(丿龱丿龱大,WiCkLwXi,,CJK-B)
 𦧃	(尸米女艹隹臼,MzMgSmWi,,CJK-B)
-𦧄	(土儿臼一廾土儿,BmAhWiAh,,CJK-B)
+𦧄	(土儿{臼变}一廾土儿{臼变}一廾{臼变}一廾,BmAhWiWh,,CJK-B)
 𦧅	(冂一口冂一口冂一口,WiZvFhVy,wèng,CJK-B)
 𦧆	(一,VlFh,,CJK-B)
 𦧇	(也,VlHe,,CJK-B)

@@ -511,6 +511,7 @@ Wi	又
 Wi	ス
 Wi	ㄡ
 Wi	臼
+Wi	{臼变}
 Wi	⺽
 Wi	
 Wj	卩
