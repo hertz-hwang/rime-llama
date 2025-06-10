@@ -155433,6 +155433,7 @@ coup⇥	𭯒
 coup⇥	𰚏
 coup⇥	𱥥
 couu⇥	𪋙
+covd⇥	𮁨
 covf⇥	镢
 covj⇥	𪋫
 covy⇥	𭼽
@@ -204024,7 +204025,6 @@ ovbb⇥	𩝐
 ovbf⇥	㐮
 ovbt⇥	𮠍
 ovcj⇥	𣮹
-ovdd⇥	𮁨
 ovdd⇥	𲁀
 ovei⇥	䙞
 ovei⇥	𣰆
@@ -334586,7 +334586,7 @@ zzzz⇥	𥷹
 (示戊,DdUc,,CJK-F)	𮁥
 (示口八,DdIqVy,,CJK-F)	𮁦
 (示册,DdJz,,CJK-F)	𮁧
-(㇒乂丷示,OsVyDd,,CJK-F)	𮁨
+(丿乂丷示,CkOsVyDd,,CJK-F)	𮁨
 (示厂口,DdOyIq,,CJK-F)	𮁩
 (示斤丶,DdOzOe,,CJK-F)	𮁪
 (示宀丁,DdErUe,,CJK-F)	𮁫

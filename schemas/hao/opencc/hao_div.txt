@@ -85133,7 +85133,7 @@
 𮁥	(示戊,DdUc,,CJK-F)
 𮁦	(示口八,DdIqVy,,CJK-F)
 𮁧	(示册,DdJz,,CJK-F)
-𮁨	(㇒乂丷示,OsVyDd,,CJK-F)
+𮁨	(丿乂丷示,CkOsVyDd,,CJK-F)
 𮁩	(示厂口,DdOyIq,,CJK-F)
 𮁪	(示斤丶,DdOzOe,,CJK-F)
 𮁫	(示宀丁,DdErUe,,CJK-F)

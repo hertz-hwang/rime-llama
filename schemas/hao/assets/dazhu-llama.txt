@@ -85063,7 +85063,7 @@ jddo	𮁤
 duco	𮁥
 divy	𮁦
 djzf	𮁧
-ovd	𮁨
+covd	𮁨
 doiq	𮁩
 dooe	𮁪
 deue	𮁫
@@ -97628,7 +97628,7 @@ otsm	𰳿
 otwi	𲀾
 ouyx	𲀺
 oucs	𲀶
-ovdd	𲁀
+ovd	𲁀
 olqr	𰴈
 oiew	𲀲
 oovy	𰴀
@@ -182891,7 +182891,7 @@ jddo	𮁤
 duco	𮁥
 divy	𮁦
 djzf	𮁧
-ovdd	𮁨
+covd	𮁨
 doiq	𮁩
 dooe	𮁪
 deue	𮁫
@@ -285396,7 +285396,7 @@ y	·
 (示戊,DdUc,,CJK-F)	𮁥
 (示口八,DdIqVy,,CJK-F)	𮁦
 (示册,DdJz,,CJK-F)	𮁧
-(㇒乂丷示,OsVyDd,,CJK-F)	𮁨
+(丿乂丷示,CkOsVyDd,,CJK-F)	𮁨
 (示厂口,DdOyIq,,CJK-F)	𮁩
 (示斤丶,DdOzOe,,CJK-F)	𮁪
 (示宀丁,DdErUe,,CJK-F)	𮁫

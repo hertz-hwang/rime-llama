@@ -8351,6 +8351,7 @@
 𰚏	coup
 𱥥	coup
 𪋙	couu
+𮁨	covd
 镢	covf
 𪋫	covj
 𭼽	covy
@@ -56942,7 +56943,6 @@
 㐮	ovbf
 𮠍	ovbt
 𣮹	ovcj
-𮁨	ovdd
 𲁀	ovdd
 䙞	ovei
 𣰆	ovei
