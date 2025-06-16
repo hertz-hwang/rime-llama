@@ -128930,7 +128930,6 @@ fik	顿
 fik	刬
 fik	剮
 fik	叓
-fik	栆
 fil	過
 fil	迍
 fil	専
@@ -129640,6 +129639,7 @@ gir	璪
 gir	矂
 gis	戴
 gis	庙
+gis	栆
 gis	駎
 git	酨
 giv	截
@@ -151337,7 +151337,6 @@ bbfo⇥	㫁
 bbfo⇥	𣂾
 bbfo⇥	斷
 bbfp⇥	㡭
-bbfp⇥	𢇍
 bbfp⇥	𥽠
 bbfr⇥	𫷡
 bbfy⇥	㰪
@@ -151383,6 +151382,7 @@ bbjm⇥	𬂋
 bbjw⇥	䖯
 bbka⇥	𣓇
 bbka⇥	𣔘
+bbkf⇥	𢇍
 bbkf⇥	𥁈
 bbkf⇥	𩬬
 bbkg⇥	𠜚
@@ -152599,6 +152599,7 @@ blrk⇥	闬
 blrp⇥	𨑛
 blss⇥	𨑢
 blsu⇥	𨓼
+blsu⇥	𪤐
 blsy⇥	𨓶
 bltj⇥	邿
 blto⇥	𨑒
@@ -155036,7 +155037,6 @@ ckto⇥	𪋁
 ckva⇥	𮸓
 ckwb⇥	𮸖
 ckwb⇥	铿
-ckwo⇥	𮨃
 ckwo⇥	𰽳
 ckzb⇥	𰾫
 ckzt⇥	𰿀
@@ -155888,7 +155888,6 @@ cuco⇥	𬭶
 cuco⇥	𨱆
 cuco⇥	钺
 cucp⇥	𨺀
-cucu⇥	𨺅
 cuda⇥	𪳦
 cudj⇥	𨻪
 cudj⇥	镄
@@ -155984,6 +155983,7 @@ cuna⇥	䦾
 cuok⇥	𠵓
 cuom⇥	𱀓
 cuop⇥	鹿
+cuou⇥	𨺅
 cuow⇥	𠭔
 cuox⇥	𡘻
 cuoz⇥	𪊼
@@ -156004,6 +156004,7 @@ curt⇥	𫒺
 cury⇥	𪯌
 cusb⇥	𡏩
 cusb⇥	𡒰
+cusb⇥	𡓬
 cusf⇥	𠂤
 cusf⇥	𨸏
 cusf⇥	⻕
@@ -156044,6 +156045,7 @@ cuwp⇥	𲁑
 cuwp⇥	𰽢
 cuws⇥	𧡦
 cuwv⇥	頧
+cuwv⇥	𮨈
 cuxb⇥	𨻏
 cuxd⇥	𦒣
 cuxi⇥	𪊦
@@ -156177,6 +156179,7 @@ cwvo⇥	䫁
 cwvo⇥	𩑢
 cwvo⇥	𩒐
 cwvo⇥	𩔴
+cwvo⇥	𮨃
 cwvw⇥	镬
 cwwb⇥	𰆁
 cwwi⇥	𪋕
@@ -157327,7 +157330,6 @@ dfpf⇥	𡹪
 dfpf⇥	𤽗
 dfpf⇥	𱛇
 dfpf⇥	屿
-dfpk⇥	𮨁
 dfpk⇥	䶶
 dfpl⇥	𨓂
 dfpp⇥	𭂲
@@ -157335,6 +157337,7 @@ dfpr⇥	𢼸
 dfps⇥	𡵂
 dfpt⇥	𩿭
 dfpu⇥	𫠼
+dfpw⇥	𮨁
 dfqp⇥	𤽍
 dfqp⇥	𪨦
 dfqr⇥	𢾷
@@ -157456,7 +157459,6 @@ dgkb⇥	𭖘
 dgkb⇥	𱛜
 dgkl⇥	𰨈
 dgkn⇥	𡾶
-dgkw⇥	𮨋
 dgkw⇥	𱂳
 dglk⇥	皁
 dglk⇥	卆
@@ -157534,6 +157536,7 @@ dgwl⇥	𬸛
 dgwo⇥	祓
 dgws⇥	𥛩
 dgwv⇥	𩔇
+dgwv⇥	𮨋
 dgwv⇥	𱂕
 dgxa⇥	𡸳
 dgxa⇥	𭽙
@@ -158109,7 +158112,6 @@ dkto⇥	𥙮
 dkvi⇥	𱛌
 dkwh⇥	𭚘
 dkwo⇥	𬱓
-dkwo⇥	𮨈
 dkwo⇥	颐
 dkyi⇥	𡻓
 dkyq⇥	𡸏
@@ -163790,20 +163792,15 @@ fijt⇥	𨐙
 fijt⇥	𨜥
 fijw⇥	𧎏
 fijz⇥	𠀷
-fikb⇥	𪫈
 fikg⇥	刬
 fikg⇥	剮
 fikg⇥	𪞿
 fiki⇥	𫠾
-fikl⇥	栆
 fikn⇥	𢘑
 fikp⇥	𡈋
 fiks⇥	㲴
 fiks⇥	𠁨
 fiks⇥	𰀉
-fiku⇥	𣞈
-fiku⇥	𣡏
-fiku⇥	𣡦
 fikw⇥	叓
 fikw⇥	顿
 filb⇥	𥂉
@@ -167166,11 +167163,13 @@ gira⇥	璪
 girp⇥	𪾨
 girp⇥	𫷶
 girp⇥	𮧪
+gisb⇥	𪫈
 gisb⇥	𫝶
 gisf⇥	庙
 gisf⇥	駎
 gisf⇥	䩜
 gisf⇥	𤤧
+gisl⇥	栆
 gisl⇥	𤱱
 gist⇥	𩤭
 gisv⇥	戴
@@ -167180,6 +167179,9 @@ gitl⇥	䳒
 gito⇥	𢦼
 gitp⇥	𥆽
 gity⇥	𪭒
+giua⇥	𣞈
+giua⇥	𣡏
+giua⇥	𣡦
 giuc⇥	䵧
 giue⇥	𥅤
 giui⇥	𪡐
@@ -170273,7 +170275,6 @@ gxkf⇥	卋
 gxkg⇥	𠜹
 gxko⇥	𬑇
 gxkr⇥	𪗄
-gxkw⇥	𮨊
 gxlo⇥	䁩
 gxlo⇥	𢊧
 gxlo⇥	𩥭
@@ -170380,6 +170381,7 @@ gxwr⇥	𢾖
 gxws⇥	𱄭
 gxwt⇥	𪃒
 gxwv⇥	𩒩
+gxwv⇥	𮨊
 gxww⇥	𫛻
 gxwx⇥	𰐂
 gxxa⇥	𢌋
@@ -170637,7 +170639,6 @@ gzit⇥	𨩧
 gzit⇥	𪃢
 gziu⇥	𨆕
 gziy⇥	𱫠
-gzjb⇥	𡓬
 gzje⇥	𤧘
 gzje⇥	𩤹
 gzjf⇥	𪼍
@@ -171024,6 +171025,7 @@ hbbb⇥	𣿣
 hbbb⇥	𦇇
 hbbb⇥	𪔮
 hbbd⇥	𦁊
+hbbf⇥	𦇓
 hbbh⇥	𱩱
 hbbi⇥	𤃋
 hbbl⇥	湗
@@ -171036,7 +171038,6 @@ hbbm⇥	𮉤
 hbbm⇥	洼
 hbbn⇥	䵽
 hbbp⇥	繼
-hbbp⇥	𦇓
 hbbq⇥	𣼤
 hbbs⇥	𬘁
 hbbw⇥	𮉃
@@ -172109,7 +172110,6 @@ hfie⇥	浅
 hfif⇥	𣶬
 hfij⇥	𱭕
 hfil⇥	濄
-hfil⇥	𦁨
 hfil⇥	𱧈
 hfin⇥	𣶣
 hfin⇥	𦁆
@@ -172148,7 +172148,6 @@ hfkt⇥	濔
 hfkt⇥	䌤
 hfkt⇥	𦁥
 hfkt⇥	𦂲
-hfkw⇥	𮨍
 hflb⇥	𦅺
 hfld⇥	泟
 hfld⇥	䋊
@@ -172233,6 +172232,7 @@ hfwj⇥	𱧌
 hfwm⇥	𦛫
 hfwn⇥	𣽏
 hfwu⇥	𣵾
+hfwv⇥	𮨍
 hfxb⇥	㴁
 hfxf⇥	𣢸
 hfxh⇥	𣸸
@@ -172341,6 +172341,7 @@ hgii⇥	𦃣
 hgij⇥	𫄇
 hgij⇥	𭲸
 hgij⇥	𰝑
+hgil⇥	𦁨
 hgio⇥	灢
 hgio⇥	繊
 hgio⇥	𤃈
@@ -177501,7 +177502,6 @@ iekf⇥	啶
 ieko⇥	𬥥
 ieko⇥	𭉇
 iekt⇥	𠺢
-iekw⇥	𮨐
 ielf⇥	䝫
 ielf⇥	咋
 ielr⇥	𭇖
@@ -177580,6 +177580,7 @@ iewp⇥	𨙨
 iewp⇥	吧
 iewp⇥	邑
 iewv⇥	𡂄
+iewv⇥	𮨐
 iewy⇥	𡃂
 iewy⇥	𧸿
 iexe⇥	𨞔
@@ -180788,7 +180789,6 @@ iwkk⇥	𦴘
 iwkm⇥	𭉡
 iwkt⇥	嚎
 iwkw⇥	嗖
-iwkw⇥	𮨄
 iwkz⇥	嗬
 iwlf⇥	𧹇
 iwlf⇥	𱉯
@@ -180909,6 +180909,7 @@ iwwn⇥	嚆
 iwwt⇥	𠼣
 iwwt⇥	𡂜
 iwwt⇥	𭌼
+iwwv⇥	𮨄
 iwww⇥	啜
 iwww⇥	䍳
 iwxa⇥	𠿚
@@ -184423,7 +184424,6 @@ jpfq⇥	𧎚
 jpfq⇥	𪰴
 jpfu⇥	𮱼
 jpfy⇥	𧐄
-jpfz⇥	𫏹
 jpgj⇥	𧒘
 jpgl⇥	軐
 jpgn⇥	𧏳
@@ -184465,6 +184465,7 @@ jpoz⇥	𧋍
 jpoz⇥	晣
 jppc⇥	𡿳
 jppc⇥	𣆎
+jppc⇥	𫏹
 jppt⇥	𬠌
 jppv⇥	𮓲
 jppw⇥	𬨀
@@ -185862,7 +185863,6 @@ jwij⇥	𧐛
 jwij⇥	𨎙
 jwio⇥	𫨴
 jwiq⇥	𧋻
-jwiq⇥	𪡢
 jwiv⇥	𣌖
 jwjb⇥	𨎽
 jwje⇥	𣋗
@@ -201736,7 +201736,6 @@ ofkt⇥	䥸
 ofkt⇥	𨣾
 ofkt⇥	𫟫
 ofku⇥	𲁔
-ofkw⇥	𮨆
 ofld⇥	𧘿
 ofld⇥	𩚫
 oflj⇥	𩛪
@@ -201813,6 +201812,7 @@ ofwj⇥	卮
 ofwk⇥	𱃥
 ofwn⇥	𫘶
 ofwu⇥	𩜄
+ofwv⇥	𮨆
 ofww⇥	𩓍
 ofxd⇥	䙣
 ofxi⇥	𢎾
@@ -205222,7 +205222,6 @@ pfik⇥	㨽
 pfik⇥	𫽫
 pfik⇥	𰓌
 pfil⇥	撾
-pfil⇥	𢰯
 pfim⇥	䛐
 pfin⇥	𢮨
 pfin⇥	𭝝
@@ -205395,6 +205394,7 @@ pgif⇥	㩥
 pgii⇥	𢱪
 pgii⇥	𰔈
 pgij⇥	𢶪
+pgil⇥	𢰯
 pgio⇥	𭢚
 pgio⇥	𰥶
 pgio⇥	攮
@@ -205979,7 +205979,6 @@ pkvp⇥	𢭬
 pkwb⇥	𫽝
 pkwb⇥	𰓱
 pkwi⇥	𢪩
-pkwo⇥	𮨀
 pkwq⇥	𭢨
 pkxx⇥	𫽎
 pkxx⇥	𰶕
@@ -207716,6 +207715,7 @@ pwvh⇥	摊
 pwvo⇥	𩑏
 pwvo⇥	𩑯
 pwvo⇥	𬤴
+pwvo⇥	𮨀
 pwvo⇥	𱂚
 pwvw⇥	擭
 pwvx⇥	𭢦
@@ -207789,7 +207789,6 @@ pxjt⇥	𨝨
 pxkf⇥	𱎘
 pxko⇥	𰓄
 pxkt⇥	𢹜
-pxkw⇥	𮨅
 pxlo⇥	𢳶
 pxlo⇥	𱆏
 pxlq⇥	𢵹
@@ -207830,6 +207829,7 @@ pxvy⇥	谼
 pxvy⇥	𠔚
 pxvy⇥	𰔬
 pxvy⇥	拱
+pxwv⇥	𮨅
 pxxa⇥	𢺌
 pxxu⇥	拸
 pxyb⇥	撐
@@ -210279,7 +210279,7 @@ qpgy⇥	𧇖
 qpgy⇥	睿
 qphf⇥	𥒡
 qphg⇥	𥑝
-qphq⇥	𫎷
+qphr⇥	𫎷
 qphz⇥	𥓞
 qpic⇥	𧷁
 qpje⇥	𧇋
@@ -212343,7 +212343,7 @@ rkgk⇥	刞
 rkgk⇥	𠚧
 rkht⇥	𥾟
 rkiq⇥	绍
-rkjk⇥	𮨌
+rkjw⇥	𮨌
 rkka⇥	𮶃
 rkkk⇥	𭃍
 rkks⇥	𰁖
@@ -215557,7 +215557,6 @@ sruf⇥	𧠮
 sruh⇥	𬗧
 srui⇥	𫬫
 sruj⇥	𬁯
-srul⇥	𪤐
 srur⇥	𫿦
 srur⇥	𫿫
 srur⇥	𫿬
@@ -222289,13 +222288,13 @@ ubba⇥	蹺
 ubba⇥	𡈦
 ubba⇥	𦉗
 ubbb⇥	𨅣
+ubbf⇥	躖
 ubbf⇥	𤭳
 ubbl⇥	𡇟
 ubbm⇥	𣄱
 ubbm⇥	𦈰
 ubbm⇥	跬
 ubbo⇥	𨇰
-ubbp⇥	躖
 ubbp⇥	䠪
 ubbt⇥	𨬇
 ubbt⇥	𨮲
@@ -227635,7 +227634,6 @@ waer⇥	藲
 waeu⇥	𦳿
 waff⇥	𦽯
 wafh⇥	苯
-wafl⇥	𧃁
 wafm⇥	𦵂
 wafw⇥	𦼠
 wafy⇥	𣣉
@@ -227645,6 +227643,7 @@ wagi⇥	𦻺
 wagi⇥	𧆐
 wagl⇥	蔁
 wagl⇥	𦼭
+wagl⇥	𧃁
 wagl⇥	𨙏
 wagn⇥	𮐡
 wago⇥	𦴡
@@ -229391,6 +229390,7 @@ wijb⇥	𧀩
 wijb⇥	𧄧
 wiji⇥	𦽊
 wijt⇥	𡕨
+wijv⇥	𪡢
 wijw⇥	𮏲
 wijx⇥	菋
 wikg⇥	𰰲
@@ -229938,7 +229938,7 @@ wkor⇥	𮎱
 wkot⇥	𬝰
 wkoz⇥	𦮬
 wkpj⇥	蔬
-wkpp⇥	𠁬
+wkpk⇥	𠁬
 wkpu⇥	𮶧
 wkpv⇥	𦥕
 wkqi⇥	𣫛
@@ -230002,7 +230002,6 @@ wkwi⇥	叟
 wkwj⇥	𦬳
 wkwl⇥	遚
 wkwo⇥	㲣
-wkwo⇥	𮨂
 wkwo⇥	鿒
 wkwr⇥	㪢
 wkwt⇥	鄋
@@ -232331,6 +232330,7 @@ wwvo⇥	𩒦
 wwvo⇥	𩔊
 wwvo⇥	𩔡
 wwvo⇥	𩕓
+wwvo⇥	𮨂
 wwvo⇥	鿓
 wwvw⇥	𧂴
 wwvw⇥	鹱
@@ -233255,7 +233255,6 @@ xbkf⇥	𬐗
 xbkf⇥	𬵉
 xbkg⇥	𱱑
 xbkt⇥	𬏺
-xbkw⇥	𮨉
 xblt⇥	𮞋
 xblw⇥	痔
 xbmf⇥	坣
@@ -233280,6 +233279,7 @@ xbtj⇥	䣘
 xbtz⇥	𱱧
 xbvb⇥	鯥
 xbvj⇥	鯪
+xbwv⇥	𮨉
 xbxo⇥	鱑
 xbxo⇥	𱅦
 xbxo⇥	癀
@@ -234574,7 +234574,6 @@ xkvi⇥	𪽩
 xkvn⇥	𤻮
 xkvt⇥	𤼡
 xkwb⇥	𮫹
-xkwo⇥	𮨏
 xkyv⇥	𩶻
 xkzb⇥	𱱞
 xkzj⇥	𱱖
@@ -236060,8 +236059,8 @@ xvwi⇥	𪥆
 xvwl⇥	𮭥
 xvwn⇥	𢛖
 xvwv⇥	𩒓
-xvxk⇥	𮨎
 xvxm⇥	𩼮
+xvxw⇥	𮨎
 xvyc⇥	𡗜
 xvyd⇥	䱆
 xvyf⇥	𰺅
@@ -236242,6 +236241,7 @@ xwvb⇥	𩼑
 xwvh⇥	瘫
 xwvm⇥	𩽃
 xwvo⇥	𩑪
+xwvo⇥	𮨏
 xwvw⇥	鱯
 xwvw⇥	𤻙
 xwwa⇥	𤸯
@@ -241601,11 +241601,11 @@ zjfl⇥	𰃪
 zjfn⇥	𩡋
 zjfp⇥	𮮄
 zjfp⇥	𱋄
-zjfu⇥	𩡦
 zjfx⇥	䆨
 zjfy⇥	簐
 zjfy⇥	𮮅
 zjga⇥	𩡒
+zjga⇥	𩡦
 zjgc⇥	𬹅
 zjgd⇥	𬳟
 zjgi⇥	馩
@@ -262864,7 +262864,7 @@ zzzz⇥	𥷹
 (木⺁一,AjOyFhKg,lì,CJK)	栃
 (⺍冖木,HgErAj,róng,CJK)	栄
 (木册,AjJz,zhà_shān_cè,CJK)	栅
-(一口丨人゛,FhIqKsLv,zǎo,CJK)	栆
+(十口人゛,GlIqSiLv,zǎo,CJK)	栆
 (木示,AjDd,biāo,CJK)	标
 (木一戈,AjFhIe,zhàn,CJK)	栈
 (木艹卩,AjWhWj,zhì,CJK)	栉
@@ -271113,7 +271113,7 @@ zzzz⇥	𥷹
 (虫目目隹又,JwGyGyWi,qú_jué,CJK)	蠼
 (小隹戈虫虫,OtVhIeJw,jié,CJK)	蠽
 (虫尸氺罒勹虫,JwMzHgJw,zhú_shú,CJK)	蠾
-(幺幺一幺幺㇗虫虫,BlBlFhJw,zhuō,CJK)	蠿
+(幺幺一幺幺丨一虫虫,BlBlFhJw,zhuō,CJK)	蠿
 (丿皿,CkBk,xuè_xiě,CJK)	血
 (亡丿皿,XcCkBk,huāng,CJK)	衁
 (丿皿刀丶,CkBkKgOe,nǜ,CJK)	衂
@@ -272736,7 +272736,7 @@ zzzz⇥	𥷹
 (⻊斤斤貝,UzOzOzIc,zhì_zhī,CJK)	躓
 (⻊广里八土,UzGpDnBm,chán_zhàn,CJK)	躔
 (⻊广壴寸,UzGpHsLw,chú,CJK)	躕
-(⻊幺幺一幺幺㇗,UzBlBlPv,duàn,CJK)	躖
+(⻊幺幺一幺幺丨一,UzBlBlFh,duàn,CJK)	躖
 (行韋足,FjIwUz,wèi,CJK)	躗
 (⻊立⺝{龍字边},UzYqMdIa,lóng_lǒng,CJK)	躘
 (⻊門隹,UzAcVh,lìn,CJK)	躙
@@ -277302,7 +277302,7 @@ zzzz⇥	𥷹
 (二口丨二,RlIqKsRl,,CJK-B)	𠁩
 (丿士口丨,CkMfIqKs,,CJK-B)	𠁪
 (丩亻木,HtKjAj,,CJK-B)	𠁫
-(⺿丨ヿヿ,WhKsPvPv,,CJK-B)	𠁬
+(⺿丨ヿ一丨,WhKsPvKs,,CJK-B)	𠁬
 (人丨人丨人丨,SiKsSiKs,qí,CJK-B)	𠁭
 (人人人一ㄅ丨,SiSiSiKs,,CJK-B)	𠁮
 (口丨厶口,IqKsNdIq,,CJK-B)	𠁯
@@ -282548,7 +282548,7 @@ zzzz⇥	𥷹
 (亠幺糹糹土,UeBlHtBm,,CJK-B)	𡓩
 (龸黑土,XyUcBm,,CJK-B)	𡓪
 (土貝貝女,BmIcIcSm,,CJK-B)	𡓫
-(王禾日土,GiZpJeBm,,CJK-B)	𡓬
+(丿彑土,CkUsSiBm,,CJK-B)	𡓬
 (弓一土,OdFhKtBm,mǐ,CJK-B)	𡓭
 (山鬼人人土,DsBySiBm,,CJK-B)	𡓮
 (土金千里,BmTkHcDn,,CJK-B)	𡓯
@@ -285845,7 +285845,7 @@ zzzz⇥	𥷹
 (刀口阝幺丨,KgIqTjKs,,CJK-B)	𢇊
 (幺丨日勹亾,BlKsJeXc,,CJK-B)	𢇋
 (彳止龰幺,JbLdLdBl,,CJK-B)	𢇌
-(幺幺一幺幺㇗,BlBlFhPv,,CJK-B)	𢇍
+(幺幺丨一幺幺丨一,BlBlKsFh,,CJK-B)	𢇍
 (幺扌大可,BlPcXiZj,,CJK-B)	𢇎
 (爪爪幺幺,ToToBlBl,,CJK-B)	𢇏
 (幺象,BlWp,,CJK-B)	𢇐
@@ -288503,7 +288503,7 @@ zzzz⇥	𥷹
 (扌一氺,PcFhSiHg,,CJK-B)	𢰬
 (扌龴用力,PcNdQlAu,,CJK-B)	𢰭
 (扌古⺼,PcQmMd,,CJK-B)	𢰮
-(扌一口丨人゛,PcFhIqLv,,CJK-B)	𢰯
+(扌十口人゛,PcGlIqLv,,CJK-B)	𢰯
 (扌癶丰,PcVyZh,,CJK-B)	𢰰
 (扌癶手,PcVyPc,,CJK-B)	𢰱
 (扌目,PcMzGy,,CJK-B)	𢰲
@@ -291408,7 +291408,7 @@ zzzz⇥	𥷹
 (田木月䒑大,SlAjMdXi,,CJK-B)	𣞅
 (艸木木木,WhAjAjAj,,CJK-B)	𣞆
 (言木言,MeAjMe,dùn,CJK-B)	𣞇
-(一口丨囗,FhIqKsUd,,CJK-B)	𣞈
+(十口囗缶木,GlIqUdAj,,CJK-B)	𣞈
 (十口冖缶禾,GlIqErZp,,CJK-B)	𣞉
 (丿未丷酉寸,CkJxVyLw,,CJK-B)	𣞊
 (木木人人囗口,AjAjSiIq,,CJK-B)	𣞋
@@ -291607,7 +291607,7 @@ zzzz⇥	𥷹
 (木虍鬲犬,AjQbPwLe,,CJK-B)	𣡌
 (木冂木冂木冂木冂,AjZvAjZv,,CJK-B)	𣡍
 (木凵匕㇏禾,AjMgZvZp,cén,CJK-B)	𣡎
-(一口丨囗,FhIqKsUd,,CJK-B)	𣡏
+(十口囗吕一口夕木,GlIqUdAj,,CJK-B)	𣡏
 (木穴隹冂八口,AjZiVhIq,,CJK-B)	𣡐
 (木木夕木冖卩,AjAjXuWj,,CJK-B)	𣡑
 (木艹吅隹力,AjWhRuAu,,CJK-B)	𣡒
@@ -291630,7 +291630,7 @@ zzzz⇥	𥷹
 (木⺊𱕻日口凵亅,AjDhLwKs,,CJK-B)	𣡣
 (木日亠吅井一𧘇,AjJeUeOr,,CJK-B)	𣡤
 (亠冂一口冖木木,UeWiZvAj,,CJK-B)	𣡥
-(一口丨囗,FhIqKsUd,,CJK-B)	𣡦
+(十口囗口巳口乂乂木,GlIqUdAj,,CJK-B)	𣡦
 (木田田田缶,AjSlSlUs,léi,CJK-B)	𣡧
 (木彡木罒阝,AjBlAjTj,,CJK-B)	𣡨
 (木言糹糹弓,AjMeHtOd,wān,CJK-B)	𣡩
@@ -294285,7 +294285,7 @@ zzzz⇥	𥷹
 (⺿罒火,WhYtYv,mó,CJK-B)	𤋂
 (丷酉灬,VyTiYv,,CJK-B)	𤋃
 (予丿攵火,MaCkRyYv,,CJK-B)	𤋄
-(丿㠯巳火,CkUsDuYv,,CJK-B)	𤋅
+(丿巳火,CkUsDuYv,,CJK-B)	𤋅
 (戊火火,UcYvYv,,CJK-B)	𤋆
 (目氏灬,GyQuYv,,CJK-B)	𤋇
 (⺊一卜攵灬,DhFhDhYv,,CJK-B)	𤋈
@@ -294835,7 +294835,7 @@ zzzz⇥	𥷹
 (廿口匕灬,XkIqNbSi,,CJK-B)	𤓨
 (火言糹糹攵,YvMeHtRy,,CJK-B)	𤓩
 (隹隹隹火,VhVhVhYv,,CJK-B)	𤓪
-(丿丷豕丿火,CkUsVyYv,,CJK-B)	𤓫
+(丿丷豕丶火,CkUsVyYv,,CJK-B)	𤓫
 (隹隹隹灬,VhVhVhYv,,CJK-B)	𤓬
 (火木乂乂木罒寸,YvAjOsLw,,CJK-B)	𤓭
 (木缶木冖凵匕彡火,AjUsAjYv,,CJK-B)	𤓮
@@ -301872,7 +301872,7 @@ zzzz⇥	𥷹
 (糹一㡀,HtFhKt,,CJK-B)	𦁥
 (糹广⺊口,HtGpDhIq,,CJK-B)	𦁦
 (糹子皿,HtYdBk,,CJK-B)	𦁧
-(糹一口丨人゛,HtFhIqLv,,CJK-B)	𦁨
+(糹十口人゛,HtGlIqLv,,CJK-B)	𦁨
 (糹厂土土,HtOyBmBm,,CJK-B)	𦁩
 (糹土八土,HtBmVyBm,,CJK-B)	𦁪
 (耳又糸,QgWiHt,,CJK-B)	𦁫
@@ -302235,7 +302235,7 @@ zzzz⇥	𥷹
 (糹幺一火,HtWiBlYv,,CJK-B)	𦇐
 (糹麻手,HtOnPc,,CJK-B)	𦇑
 (糹石石石,HtQqQqQq,,CJK-B)	𦇒
-(糹幺幺一幺幺㇗,HtBlBlPv,,CJK-B)	𦇓
+(糹幺幺一幺幺丨一,HtBlBlFh,,CJK-B)	𦇓
 (糹厂禾禾止,HtOyZpLd,lì,CJK-B)	𦇔
 (糹木木⺝攵,HtAjAjRy,,CJK-B)	𦇕
 (糹止頁,HtLdLdWv,pín,CJK-B)	𦇖
@@ -306057,7 +306057,7 @@ zzzz⇥	𥷹
 (⺿厂木木米,WhOyAjMg,,CJK-B)	𧂾
 (⺿月心心心,WhMdNgNg,,CJK-B)	𧂿
 (艹虫隹又,WhJwVhWi,,CJK-B)	𧃀
-(⺿門一口丨人゛,WhAcFhLv,,CJK-B)	𧃁
+(⺿門十口人゛,WhAcGlLv,,CJK-B)	𧃁
 (⺿黄毛,WhBxOu,,CJK-B)	𧃂
 (⺿金白巾,WhTkDyUw,,CJK-B)	𧃃
 (⺿各勹隹,WhQySnVh,,CJK-B)	𧃄
@@ -313677,7 +313677,7 @@ zzzz⇥	𥷹
 (阝乛氺凵,TjPvHgZv,,CJK-B)	𨺂
 (阝勹士口,TjSnMfIq,,CJK-B)	𨺃
 (阝爫丿士,TjToCkMf,,CJK-B)	𨺄
-(丿丿,CkUsCkUs,fù,CJK-B)	𨺅
+(丿丶,CkUsOeUs,fù,CJK-B)	𨺅
 (阝目大,TjGyXi,,CJK-B)	𨺆
 (阝一龰,TjFhSiLd,,CJK-B)	𨺇
 (阝大丷二ㄅ,TjXiVyPv,,CJK-B)	𨺈
@@ -313849,7 +313849,7 @@ zzzz⇥	𥷹
 (阝⺈厂八言,TjRlOyMe,zhàn,CJK-B)	𨼮
 (阝豸艮,TjLzTp,kěn,CJK-B)	𨼯
 (阝𠂇工𠂇工土,TjGlNvBm,,CJK-B)	𨼰
-(丿人丿,CkUsEhUs,jué,CJK-B)	𨼱
+(丿人丶,CkUsEhUs,jué,CJK-B)	𨼱
 (阝⺿人镸,TjWhSiSi,,CJK-B)	𨼲
 (阝耳口丿土,TjQgIqBm,,CJK-B)	𨼳
 (阝田,TjXySl,,CJK-B)	𨼴
@@ -313868,7 +313868,7 @@ zzzz⇥	𥷹
 (阝耳又丿,TjQgWiHg,zōu_cóng,CJK-B)	𨽁
 (阝亻业⺶㇏,TjKjOqOe,pú,CJK-B)	𨽂
 (阝火火夕㐄,TjYvYvGj,,CJK-B)	𨽃
-(丿一口丿,CkUsFhUs,shì,CJK-B)	𨽄
+(丿一口丶,CkUsFhUs,shì,CJK-B)	𨽄
 (阝大日乚,TjTfXiPv,,CJK-B)	𨽅
 (阝豆,TjVyEi,,CJK-B)	𨽆
 (阝魚亍,TjXlJb,,CJK-B)	𨽇
@@ -313893,11 +313893,11 @@ zzzz⇥	𥷹
 (阝虍鬲,TjQbPw,,CJK-B)	𨽚
 (阝丷豕辶阝,TjVyKtTj,,CJK-B)	𨽛
 (阝虍田皿,TjQbSlBk,,CJK-B)	𨽜
-(丿廿⺝丿,CkUsXkUs,,CJK-B)	𨽝
+(丿廿⺝丶,CkUsXkUs,,CJK-B)	𨽝
 (阝廿口匕灬,TjXkIqYv,,CJK-B)	𨽞
 (阝虫貝辶,TjJwIcLt,tuí,CJK-B)	𨽟
 (阝人貝,TjWiSiIc,,CJK-B)	𨽠
-(丿丷豕丿,CkUsVyUs,,CJK-B)	𨽡
+(丿丷豕丶,CkUsVyUs,,CJK-B)	𨽡
 (阝亠吅井一𧘇,TjUeRuOr,,CJK-B)	𨽢
 (阝⺿口吅木,TjWhIqAj,,CJK-B)	𨽣
 (阝土八罒貝,TjBmVyIc,,CJK-B)	𨽤
@@ -313905,7 +313905,7 @@ zzzz⇥	𥷹
 (阝耳耳耳,TjQgQgQg,nì,CJK-B)	𨽦
 (阝艹吅隹,TjWhRuVh,huān,CJK-B)	𨽧
 (阝旡旡鬲,TjUeUePw,qián,CJK-B)	𨽨
-(丿井王冂丿,CkUsBzUs,,CJK-B)	𨽩
+(丿井王冂丶,CkUsBzUs,,CJK-B)	𨽩
 (丿㠯十皿丿㠯十,CkUsGlGl,,CJK-B)	𨽪
 (丿㠯十,CkUsGlVy,,CJK-B)	𨽫
 (阝大廿木廿木,TjXiXkAj,,CJK-B)	𨽬
@@ -313916,8 +313916,8 @@ zzzz⇥	𥷹
 (丿㠯十山人山人几山人几,CkUsGlPs,,CJK-B)	𨽱
 (阝口吅工人人,TjTfIqSi,líng,CJK-B)	𨽲
 (阝旡旡日虫虫,TjUeUeJw,,CJK-B)	𨽳
-(丿龷一人丨人丨人丨人丨丿,CkUsXkUs,,CJK-B)	𨽴
-(丿丷豕辶火丿,CkUsVyUs,,CJK-B)	𨽵
+(丿龷一人丨人丨人丨人丨丶,CkUsXkUs,,CJK-B)	𨽴
+(丿丷豕辶火丶,CkUsVyUs,,CJK-B)	𨽵
 (氺田,SiHgSl,,CJK-B)	𨽶
 (亥氺,YgSiHg,lián,CJK-B)	𨽷
 (镸氺,SiSiHg,,CJK-B)	𨽸
@@ -316206,7 +316206,7 @@ zzzz⇥	𥷹
 (禾日爫冖心夂,ZpJeToJt,yǐ,CJK-B)	𩡣
 (禾日⺿土厶皿,ZpJeWhBk,,CJK-B)	𩡤
 (禾日亠口丨囗缶小,ZpJeUeOt,,CJK-B)	𩡥
-(禾日一口丨囗,ZpJeFhUd,piáo,CJK-B)	𩡦
+(禾日十口囗缶木,ZpJeGlAj,piáo,CJK-B)	𩡦
 (马卌,XhDs,huán,CJK-B)	𩡧
 (丿馬,CkGb,mǔ,CJK-B)	𩡨
 (馬,GbVy,bā,CJK-B)	𩡩
@@ -320266,7 +320266,7 @@ zzzz⇥	𥷹
 (口亻厶八夂,IqKjNdJt,,CJK-C)	𪡟
 (口白水,IqDyHg,,CJK-C)	𪡠
 (口勹言,IqSnMe,,CJK-C)	𪡡
-(川臼口,JvWiIq,,CJK-C)	𪡢
+(臼口川,WiIqJv,,CJK-C)	𪡢
 (口宀一由,IqErFhIs,,CJK-C)	𪡣
 (氵⺁口,HgOyOrIq,,CJK-C)	𪡤
 (口氵龷八,IqHgXkVy,,CJK-C)	𪡥
@@ -320440,7 +320440,7 @@ zzzz⇥	𥷹
 (土尸龷,BmMzXkOr,,CJK-C)	𪤍
 (土車辶,BmJlLt,,CJK-C)	𪤎
 (土土,BmMzVyBm,,CJK-C)	𪤏
-(彑⺈巾土干,SiRlUwLr,,CJK-C)	𪤐
+(土干彑⺈巾,BmLrSiUw,,CJK-C)	𪤐
 (土囗戈口一,BmUdIeFh,,CJK-C)	𪤑
 (土亼口皿,BmTuIqBk,,CJK-C)	𪤒
 (土𠂉母攵,BmLdQtRy,,CJK-C)	𪤓
@@ -320880,7 +320880,7 @@ zzzz⇥	𥷹
 (弓魚魚,OdXlXl,,CJK-C)	𪫅
 (氵彐,HgSi,,CJK-C)	𪫆
 (彑米頁,SiMgWv,,CJK-C)	𪫇
-(一口丨人彡,FhIqKsBl,,CJK-C)	𪫈
+(十口人彡,GlIqSiBl,,CJK-C)	𪫈
 (日亠日十彡,JeUeJeBl,,CJK-C)	𪫉
 (一廾彡亻㇏,FhWhBlPc,,CJK-C)	𪫊
 (彳文,JbWm,,CJK-C)	𪫋
@@ -323167,7 +323167,7 @@ zzzz⇥	𥷹
 (走冂一口,QoZvFhIq,,CJK-C)	𫎴
 (走古儿,QoQmAh,,CJK-C)	𫎵
 (走工水,QoNvHg,,CJK-C)	𫎶
-(走乛水三,QoPvHgQn,,CJK-C)	𫎷
+(走乛水二,QoPvHgRl,,CJK-C)	𫎷
 (走斤,QoYfOz,,CJK-C)	𫎸
 (走日一寸,QoJeFhLw,,CJK-C)	𫎹
 (走厶大彡,QoNdXiBl,,CJK-C)	𫎺
@@ -323233,7 +323233,7 @@ zzzz⇥	𥷹
 (車大人人,JlXiSiSi,,CJK-C)	𫏶
 (車止土,JlLdBm,,CJK-C)	𫏷
 (車⺈厂⺋,JlRlOyWj,,CJK-C)	𫏸
-(車一丰,JlPcFhZh,,CJK-C)	𫏹
+(車,JlPcPc,,CJK-C)	𫏹
 (車爫一𠂇又,JlToFhWi,,CJK-C)	𫏺
 (米女車,MgSmJl,,CJK-C)	𫏻
 (夫夫冖車,SvSvErJl,,CJK-C)	𫏼
@@ -337024,9 +337024,9 @@ zzzz⇥	𥷹
 (革亻艹厂用,GoKjWhQl,,CJK-F)	𮧫
 (革艹冂人戊,GoWhZvUc,,CJK-F)	𮧬
 (革亼吅火,GoTuRuYv,,CJK-F)	𮧭
-(㐄口一巾,GjIqFhUw,,CJK-F)	𮧮
-(㐄口巾,GjIqUw,,CJK-F)	𮧯
-(㐄口㐄,GjIqGj,,CJK-F)	𮧰
+(口一巾,GjIqFhUw,,CJK-F)	𮧮
+(口巾,GjIqUw,,CJK-F)	𮧯
+(口㐄,GjIqGj,,CJK-F)	𮧰
 (韦丿未,QhCkJx,,CJK-F)	𮧱
 (韦爪丨日,QhToKsJe,,CJK-F)	𮧲
 (韦亻艹厂用,QhKjWhQl,,CJK-F)	𮧳
@@ -337042,23 +337042,23 @@ zzzz⇥	𥷹
 (音隹又,ArVhWi,,CJK-F)	𮧽
 (音黄,ArBx,,CJK-F)	𮧾
 (禾火心音,ZpYvNgAr,,CJK-F)	𮧿
-(云页,PdKw,,CJK-F)	𮨀
-(⺊一㇗页,DhFhPvKw,,CJK-F)	𮨁
-(文页,WmKw,,CJK-F)	𮨂
-(囚页,CvKw,,CJK-F)	𮨃
-(口又页,IqWiKw,,CJK-F)	𮨄
-(几夕页,PsXuKw,,CJK-F)	𮨅
-(一页,OzFhKw,,CJK-F)	𮨆
+(云頁,PdWv,,CJK-F)	𮨀
+(⺊一㇗頁,DhFhPvWv,,CJK-F)	𮨁
+(文頁,WmWv,,CJK-F)	𮨂
+(囚頁,CvWv,,CJK-F)	𮨃
+(口又頁,IqWiWv,,CJK-F)	𮨄
+(几夕頁,PsXuWv,,CJK-F)	𮨅
+(一頁,OzFhWv,,CJK-F)	𮨆
 (厂コ厶頁,OyEhNdWv,,CJK-F)	𮨇
-(臣页,DzKw,,CJK-F)	𮨈
-(亡土页,XcBmKw,,CJK-F)	𮨉
-(㐄夕页,GjXuKw,,CJK-F)	𮨊
-(山王页,DsGiKw,,CJK-F)	𮨋
-(⺈丨日页,RlKsJeKw,,CJK-F)	𮨌
-(匕耒页,HsFuKw,,CJK-F)	𮨍
-(大丷夕页,XiVyXuKw,,CJK-F)	𮨎
-(尚页,XyKw,,CJK-F)	𮨏
-(口皮页,IqEmKw,,CJK-F)	𮨐
+(丿頁,CkUsWv,,CJK-F)	𮨈
+(亡土頁,XcBmWv,,CJK-F)	𮨉
+(夕頁,GjXuWv,,CJK-F)	𮨊
+(山王頁,DsGiWv,,CJK-F)	𮨋
+(⺈丨日頁,RlKsJeWv,,CJK-F)	𮨌
+(匕耒頁,HsFuWv,,CJK-F)	𮨍
+(大丷夕頁,XiVyXuWv,,CJK-F)	𮨎
+(尚頁,XyWv,,CJK-F)	𮨏
+(口皮頁,IqEmWv,,CJK-F)	𮨐
 (且川頁,RhJvWv,,CJK-F)	𮨑
 (⺆土口頁,ZvBmIqWv,,CJK-F)	𮨒
 (入米頁,XjMgWv,,CJK-F)	𮨓
@@ -342309,7 +342309,7 @@ zzzz⇥	𥷹
 (阝耳又耳又,TjQgWiWi,,CJK-G)	𱁁
 (阝丷豕人氺,TjVyKtHg,,CJK-G)	𱁂
 (丿㠯皿丿㠯十,CkUsHgGl,,CJK-G)	𱁃
-(丿皿丿,CkUsHgUs,,CJK-G)	𱁄
+(丿皿丶,CkUsHgUs,,CJK-G)	𱁄
 (八隹,VyVh,,CJK-G)	𱁅
 (隹{云变},VhPd,,CJK-G)	𱁆
 (月隹,MdVh,,CJK-G)	𱁇
