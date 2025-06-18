@@ -2941,6 +2941,7 @@
 𪳗	atew
 𬻩	atfd
 𣖩	atfh
+𱣠	atfh
 桓	atfh
 𨕹	atfl
 𣔯	atfo
@@ -3065,7 +3066,6 @@
 𱣲	atzj
 㮧	atzo
 𨶇	atzo
-𱣠	atzo
 鬱	auab
 𦉚	auai
 𦉠	auai
@@ -33127,7 +33127,6 @@
 𨟶	itif
 㘛	itii
 𡅺	itii
-𭌨	itil
 𭌸	itil
 嗱	itip
 韐	itiq
@@ -35059,6 +35058,7 @@
 𧐔	jedy
 𨐣	jeea
 𮔟	jeea
+𭖲	jeed
 蠮	jeee
 𦒇	jeee
 昛	jeeh
@@ -36662,6 +36662,7 @@
 㦁	jlng
 𢙶	jlng
 𫺄	jlng
+𬼘	jlnp
 𭗺	jlnp
 𬟽	jlot
 𣆋	jlot
@@ -37996,6 +37997,7 @@
 虳	jsoe
 𰹋	jsoe
 彴	jsoe
+𭤏	jsor
 𨋏	jsot
 𰳕	jsot
 𬊏	jsoy
@@ -40672,7 +40674,6 @@
 𭣢	kkry
 㐺	kksi
 𫢔	kksi
-𭤏	kksr
 𧱩	kkto
 豩	kkto
 𬿾	kkwa
@@ -40838,7 +40839,6 @@
 𪝮	kmla
 傠	kmlw
 㒄	kmly
-𭖲	kmmd
 倗	kmmd
 㑾	kmme
 𠎪	kmms
@@ -43321,7 +43321,6 @@
 姕	lhsm
 牝	lhsp
 𣥅	lhsp
-𬼘	lhsp
 此	lhsp
 𱎷	lhss
 𨚖	lhtj
@@ -46925,6 +46924,7 @@
 𦜯	mfiy
 𰯀	mfiz
 𲁽	mfja
+𧫲	mfjb
 胻	mfjk
 𭤷	mfjk
 𰍶	mfjk
@@ -46936,7 +46936,6 @@
 𮌦	mfju
 諞	mfjz
 䐔	mfjz
-𧫲	mfjz
 糄	mfjz
 𦙅	mfkc
 𧦈	mfkc
@@ -49748,7 +49747,6 @@
 腀	msyk
 𣄇	msyk
 𥺽	msyk
-𧪺	msyk
 論	msyk
 𪹦	msyv
 𮇤	msyv
@@ -49794,6 +49792,7 @@
 𥾂	mtis
 𦝡	mtiw
 𧩸	mtiw
+𧪺	mtjb
 𦟊	mtjc
 𬀎	mtjc
 𡲣	mtjg
@@ -53266,6 +53265,7 @@
 𢚃	ntlw
 奨	ntlx
 𢝾	ntlz
+𭌨	ntlz
 牏	ntmk
 愉	ntmk
 𤕵	ntnd
@@ -67632,7 +67632,7 @@
 𰿒	sjus
 𫤥	sjvh
 甽	sjvk
-𫧁	sjvk
+𫧁	sjvn
 𠣤	sjvp
 𠣬	sjvp
 𡿰	sjvp

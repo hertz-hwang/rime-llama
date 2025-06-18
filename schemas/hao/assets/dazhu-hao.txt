@@ -150023,6 +150023,7 @@ atew⇥	閿
 atew⇥	𪳗
 atfd⇥	𬻩
 atfh⇥	𣖩
+atfh⇥	𱣠
 atfh⇥	桓
 atfl⇥	𨕹
 atfo⇥	𣔯
@@ -150147,7 +150148,6 @@ atzj⇥	𪲾
 atzj⇥	𱣲
 atzo⇥	㮧
 atzo⇥	𨶇
-atzo⇥	𱣠
 auab⇥	鬱
 auai⇥	𦉚
 auai⇥	𦉠
@@ -180209,7 +180209,6 @@ itif⇥	唒
 itif⇥	𨟶
 itii⇥	㘛
 itii⇥	𡅺
-itil⇥	𭌨
 itil⇥	𭌸
 itip⇥	嗱
 itiq⇥	韐
@@ -182141,6 +182140,7 @@ jedx⇥	𱵸
 jedy⇥	𧐔
 jeea⇥	𨐣
 jeea⇥	𮔟
+jeed⇥	𭖲
 jeee⇥	蠮
 jeee⇥	𦒇
 jeeh⇥	昛
@@ -183744,6 +183744,7 @@ jlmj⇥	𰳮
 jlng⇥	㦁
 jlng⇥	𢙶
 jlng⇥	𫺄
+jlnp⇥	𬼘
 jlnp⇥	𭗺
 jlot⇥	𬟽
 jlot⇥	𣆋
@@ -185078,6 +185079,7 @@ jsoe⇥	旳
 jsoe⇥	虳
 jsoe⇥	𰹋
 jsoe⇥	彴
+jsor⇥	𭤏
 jsot⇥	𨋏
 jsot⇥	𰳕
 jsoy⇥	𬊏
@@ -187754,7 +187756,6 @@ kkry⇥	𢻺
 kkry⇥	𭣢
 kksi⇥	㐺
 kksi⇥	𫢔
-kksr⇥	𭤏
 kkto⇥	𧱩
 kkto⇥	豩
 kkwa⇥	𬿾
@@ -187920,7 +187921,6 @@ kmjb⇥	𠐹
 kmla⇥	𪝮
 kmlw⇥	傠
 kmly⇥	㒄
-kmmd⇥	𭖲
 kmmd⇥	倗
 kmme⇥	㑾
 kmms⇥	𠎪
@@ -190403,7 +190403,6 @@ lhsg⇥	𰹀
 lhsm⇥	姕
 lhsp⇥	牝
 lhsp⇥	𣥅
-lhsp⇥	𬼘
 lhsp⇥	此
 lhss⇥	𱎷
 lhtj⇥	𨚖
@@ -194007,6 +194006,7 @@ mfiy⇥	𥼥
 mfiy⇥	𦜯
 mfiz⇥	𰯀
 mfja⇥	𲁽
+mfjb⇥	𧫲
 mfjk⇥	胻
 mfjk⇥	𭤷
 mfjk⇥	𰍶
@@ -194018,7 +194018,6 @@ mfju⇥	𬛂
 mfju⇥	𮌦
 mfjz⇥	諞
 mfjz⇥	䐔
-mfjz⇥	𧫲
 mfjz⇥	糄
 mfkc⇥	𦙅
 mfkc⇥	𧦈
@@ -196830,7 +196829,6 @@ msyf⇥	𧭆
 msyk⇥	腀
 msyk⇥	𣄇
 msyk⇥	𥺽
-msyk⇥	𧪺
 msyk⇥	論
 msyv⇥	𪹦
 msyv⇥	𮇤
@@ -196876,6 +196874,7 @@ mtiq⇥	粭
 mtis⇥	𥾂
 mtiw⇥	𦝡
 mtiw⇥	𧩸
+mtjb⇥	𧪺
 mtjc⇥	𦟊
 mtjc⇥	𬀎
 mtjg⇥	𡲣
@@ -200348,6 +200347,7 @@ ntlt⇥	𲅳
 ntlw⇥	𢚃
 ntlx⇥	奨
 ntlz⇥	𢝾
+ntlz⇥	𭌨
 ntmk⇥	牏
 ntmk⇥	愉
 ntnd⇥	𤕵
@@ -214714,7 +214714,7 @@ sjup⇥	𤳡
 sjus⇥	𰿒
 sjvh⇥	𫤥
 sjvk⇥	甽
-sjvk⇥	𫧁
+sjvn⇥	𫧁
 sjvp⇥	𠣤
 sjvp⇥	𠣬
 sjvp⇥	𡿰
@@ -277375,7 +277375,7 @@ zzzz⇥	𥷹
 (㐅凵幺丨,OsZvBlKs,,CJK-B)	𠂳
 (丰冂䒑,ZhZvVy,,CJK-B)	𠂴
 (丿丨土,CkKsBmPc,,CJK-B)	𠂵
-(烏一丿,TzFhCk,,CJK-B)	𠂶
+(󰁞一丿,TzFhCk,,CJK-B)	𠂶
 (丿大,CkXiId,,CJK-B)	𠂷
 (丿几土廾,CkPsBmWh,huáng,CJK-B)	𠂸
 (亻人人人人,KjSiSiSi,,CJK-B)	𠂹
@@ -308610,7 +308610,7 @@ zzzz⇥	𥷹
 (甘言斤,MzMeOz,,CJK-B)	𧪷
 (言井王冂,MeBzGiZv,,CJK-B)	𧪸
 (言宀辛,MeErJt,xià,CJK-B)	𧪹
-(言侖,MeSy,,CJK-B)	𧪺
+(言亼〣井,MeTuJvBz,,CJK-B)	𧪺
 (言立立,MeYqYq,,CJK-B)	𧪻
 (言口貝,MeIqIc,,CJK-B)	𧪼
 (言一业日,MeFhOqJe,,CJK-B)	𧪽
@@ -308666,7 +308666,7 @@ zzzz⇥	𥷹
 (匕广工言,NbHsGpMe,,CJK-B)	𧫯
 (言广一龰,MeGpFhLd,,CJK-B)	𧫰
 (言音十,MeArGl,,CJK-B)	𧫱
-(言戶册,MeFkJz,,CJK-B)	𧫲
+(言戶〣井,MeFkJvBz,,CJK-B)	𧫲
 (言戊⺊一小,MeUcDhOt,,CJK-B)	𧫳
 (言⺿口龶,MeWhIqZh,,CJK-B)	𧫴
 (言丷夫十廾,MeVySvWh,,CJK-B)	𧫵
@@ -324705,7 +324705,7 @@ zzzz⇥	𥷹
 (乂乂冖子力,WiOsOsAu,,CJK-E)	𫦾
 (千里力千里力千里力,HcDnAuAu,,CJK-E)	𫦿
 (勹土,SnBm,,CJK-E)	𫧀
-(勹川,SnJv,,CJK-E)	𫧁
+(勹〣,SnJv,,CJK-E)	𫧁
 (⺧口勹丶,LzIqSnOe,,CJK-E)	𫧂
 (勹人云,SnBlSiPd,,CJK-E)	𫧃
 (勹月䒑大,SnMdVyXi,,CJK-E)	𫧄
@@ -330154,7 +330154,7 @@ zzzz⇥	𥷹
 (臣士罒貝,DzMfYtIc,,CJK-F)	𬼕
 (匚一,EhFh,,CJK-F)	𬼖
 (乚,NgPv,,CJK-F)	𬼗
-(止匕,LdHs,,CJK-F)	𬼘
+(〣七,JvLn,,CJK-F)	𬼘
 (七七七,LnLnLn,,CJK-F)	𬼙
 (匕乚,HsHsPv,,CJK-F)	𬼚
 (之乙,DoJg,,CJK-F)	𬼛
@@ -331194,7 +331194,7 @@ zzzz⇥	𥷹
 (口日爫冖心夂,IqJeToJt,,CJK-F)	𭌥
 (口止匕鳥,IqLdHsTl,,CJK-F)	𭌦
 (口艹千黑,IqWhHcUc,,CJK-F)	𭌧
-(口烏口牛,IqTzIqLz,,CJK-F)	𭌨
+(吕烏牛,NfTzLz,,CJK-F)	𭌨
 (口門音,IqAcAr,,CJK-F)	𭌩
 (吅工目吅,RuNvGyRu,,CJK-F)	𭌪
 (口月艹日勹亾,IqMdWhXc,,CJK-F)	𭌫
@@ -331609,7 +331609,7 @@ zzzz⇥	𥷹
 (子扌卩又,YdPcWjWi,,CJK-F)	𭓄
 (子爫子,YdToYd,,CJK-F)	𭓅
 (宀子之,ErYdDo,,CJK-F)	𭓆
-(〢彡丨冖子,KgBlKsYd,,CJK-F)	𭓇
+(〢𰀪丨冖子,KgBlKsYd,,CJK-F)	𭓇
 (子一弋止,YdFhNdLd,,CJK-F)	𭓈
 (子龶⺝,YdZhMd,,CJK-F)	𭓉
 (子大可,YdXiZj,,CJK-F)	𭓊
@@ -331844,7 +331844,7 @@ zzzz⇥	𥷹
 (一山大,OzFhDsXi,,CJK-F)	𭖯
 (山阝宀匕,DsTjErHs,,CJK-F)	𭖰
 (山尸古,DsMzQm,,CJK-F)	𭖱
-(丨尸尸人山,KsMzMzDs,,CJK-F)	𭖲
+(〣匚コ人山,JvEhEhDs,,CJK-F)	𭖲
 (山甘欠,DsMzFy,,CJK-F)	𭖳
 (山罒方,DsYtMx,,CJK-F)	𭖴
 (山田匕,DsSlHsHs,,CJK-F)	𭖵
@@ -332705,7 +332705,7 @@ zzzz⇥	𥷹
 (罒一口𧘇攵,YtFhIqRy,,CJK-F)	𭤌
 (一白冖一止攵,FhDyErRy,,CJK-F)	𭤍
 (未攵厂未丷,JxRyOyVy,,CJK-F)	𭤎
-(丨〢人厂ヿ耳攵,KsKgSiRy,,CJK-F)	𭤏
+(〣人厂ヿ耳攵,JvSiOyRy,,CJK-F)	𭤏
 (虍魚攵,QbXlRy,,CJK-F)	𭤐
 (亠吅井一𧘇攵,UeRuBzRy,,CJK-F)	𭤑
 (目目隹攵,GyGyVhRy,,CJK-F)	𭤒
@@ -344508,7 +344508,7 @@ zzzz⇥	𥷹
 (木口巴,AjIqEw,,CJK-H)	𱣝
 (木口贝,AjIqDj,,CJK-H)	𱣞
 (木⺽,AjWi,,CJK-H)	𱣟
-(木烏,AjTz,,CJK-H)	𱣠
+(木󰁞一,AjTzFh,,CJK-H)	𱣠
 (木门木,AjBoAj,,CJK-H)	𱣡
 (木宀𠂇厶,AjErGlNd,,CJK-H)	𱣢
 (木亡木,AjXcAj,,CJK-H)	𱣣
