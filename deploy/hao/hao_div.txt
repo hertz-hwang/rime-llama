@@ -19558,7 +19558,7 @@
 耆	[老日,qí_zhǐ_shì,CJK]
 耇	[耂句,gǒu,CJK]
 耈	[老句,gǒu,CJK]
-耉	[老口,gǒu,CJK]
+耉	[耂丿ㄅ口,gǒu,CJK]
 耊	[耂至,dié,CJK]
 耋	[老至,dié,CJK]
 而	[而,ér_néng,CJK]

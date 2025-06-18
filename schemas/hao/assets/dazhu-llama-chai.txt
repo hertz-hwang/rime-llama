@@ -19558,7 +19558,7 @@
 老日,RiJe	耆
 耂句,RiTq	耇
 老句,RiTq	耈
-老口,RiIq	耉
+耂丿ㄅ口,RiCkPvIq	耉
 耂至,RiCy	耊
 老至,RiCy	耋
 而,Ua	而

@@ -16947,7 +16947,7 @@ gwie	翸
 clle	翺
 lufe	翽
 mpne	翿
-riqf	耉
+rcp	耉
 rcyf	耊
 uxi	耎
 fuek	耓
@@ -29720,7 +29720,7 @@ jfop	𠙭
 rpoe	𠙮
 xdnp	𠙯
 ufvo	𠙰
-rcp	𠙱
+rcpo	𠙱
 ppfh	𠙲
 mhhp	𠙳
 zvpk	𠙴
@@ -114775,7 +114775,7 @@ gwie	翸
 clle	翺
 lufe	翽
 mpne	翿
-riqf	耉
+rcpi	耉
 rcyf	耊
 uxio	耎
 fuek	耓
@@ -219821,7 +219821,7 @@ y	·
 (老日,RiJe,qí_zhǐ_shì,CJK)	耆
 (耂句,RiTq,gǒu,CJK)	耇
 (老句,RiTq,gǒu,CJK)	耈
-(老口,RiIq,gǒu,CJK)	耉
+(耂丿ㄅ口,RiCkPvIq,gǒu,CJK)	耉
 (耂至,RiCy,dié,CJK)	耊
 (老至,RiCy,dié,CJK)	耋
 (而,Ua,ér_néng,CJK)	而

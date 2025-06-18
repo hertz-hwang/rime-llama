@@ -139649,6 +139649,7 @@ rbv	绫
 rc_	绞
 rcm	纴
 rco	绞
+rcp	耉
 rcu	缒
 rcu	麁
 rcy	耋
@@ -139720,7 +139721,6 @@ rii	耂
 rii	老
 rim	绢
 riq	缉
-riq	耉
 rir	缲
 riv	织
 riv	缮
@@ -211945,6 +211945,7 @@ rcmf⇥	纴
 rcms⇥	𬙆
 rcmv⇥	𬘩
 rcos⇥	绞
+rcpi⇥	耉
 rcpo⇥	𠙱
 rcry⇥	𰬫
 rctj⇥	𮠌
@@ -212208,7 +212209,6 @@ ring⇥	𭜦
 rinv⇥	𬘷
 ripf⇥	⺰
 ripf⇥	纟
-riqf⇥	耉
 riqf⇥	㖈
 riqf⇥	䎛
 riqf⇥	𦒵
@@ -269011,7 +269011,7 @@ zzzz⇥	𥷹
 (老日,RiJe,qí_zhǐ_shì,CJK)	耆
 (耂句,RiTq,gǒu,CJK)	耇
 (老句,RiTq,gǒu,CJK)	耈
-(老口,RiIq,gǒu,CJK)	耉
+(耂丿ㄅ口,RiCkPvIq,gǒu,CJK)	耉
 (耂至,RiCy,dié,CJK)	耊
 (老至,RiCy,dié,CJK)	耋
 (而,Ua,ér_néng,CJK)	而
