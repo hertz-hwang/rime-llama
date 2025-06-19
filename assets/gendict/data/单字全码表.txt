@@ -21248,7 +21248,6 @@
 𩌆	goic
 䯁	goid
 𡰠	goid
-𩧣	goid
 𤩺	goii
 𮴵	goij
 瞨	goio
@@ -23157,6 +23156,7 @@
 𭾚	gxio
 𰥍	gxio
 庆	gxio
+𩧣	gxip
 眳	gxiq
 𤥁	gxiq
 䁧	gxis
@@ -27026,8 +27026,6 @@
 𮈲	hoic
 䌴	hoid
 𤅀	hoid
-𤅘	hoid
-𦇽	hoid
 𤃊	hoig
 繦	hoij
 漒	hoij
@@ -29115,6 +29113,8 @@
 𤁤	hxif
 𣿔	hxil
 𤀱	hxil
+𤅘	hxim
+𦇽	hxim
 汏	hxio
 𱨡	hxip
 洺	hxiq
@@ -56330,6 +56330,7 @@
 𧞟	oroi
 襜	orom
 𩟋	orom
+𣎆	oroo
 𤦀	oroo
 ⻂	oroo
 衣	oroo
@@ -87040,12 +87041,11 @@
 𱅖	ximd
 𦝠	ximg
 𦏞	ximi
-𦢼	ximi
 𨍻	ximj
-𣎆	ximo
 䊨	ximp
 𡣍	ximp
 𦟀	ximp
+𦢼	ximp
 𩦻	ximp
 𮌩	ximp
 𡢔	ximt

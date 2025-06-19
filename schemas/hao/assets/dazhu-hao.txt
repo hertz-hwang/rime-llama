@@ -168330,7 +168330,6 @@ goic⇥	瑣
 goic⇥	𩌆
 goid⇥	䯁
 goid⇥	𡰠
-goid⇥	𩧣
 goii⇥	𤩺
 goij⇥	𮴵
 goio⇥	瞨
@@ -170239,6 +170238,7 @@ gxio⇥	㺯
 gxio⇥	𭾚
 gxio⇥	𰥍
 gxio⇥	庆
+gxip⇥	𩧣
 gxiq⇥	眳
 gxiq⇥	𤥁
 gxis⇥	䁧
@@ -174108,8 +174108,6 @@ hoic⇥	灜
 hoic⇥	𮈲
 hoid⇥	䌴
 hoid⇥	𤅀
-hoid⇥	𤅘
-hoid⇥	𦇽
 hoig⇥	𤃊
 hoij⇥	繦
 hoij⇥	漒
@@ -176197,6 +176195,8 @@ hxid⇥	𦇫
 hxif⇥	𤁤
 hxil⇥	𣿔
 hxil⇥	𤀱
+hxim⇥	𤅘
+hxim⇥	𦇽
 hxio⇥	汏
 hxip⇥	𱨡
 hxiq⇥	洺
@@ -203412,6 +203412,7 @@ oroe⇥	𩝍
 oroi⇥	𧞟
 orom⇥	襜
 orom⇥	𩟋
+oroo⇥	𣎆
 oroo⇥	𤦀
 oroo⇥	⻂
 oroo⇥	衣
@@ -234122,12 +234123,11 @@ ximd⇥	𫡻
 ximd⇥	𱅖
 ximg⇥	𦝠
 ximi⇥	𦏞
-ximi⇥	𦢼
 ximj⇥	𨍻
-ximo⇥	𣎆
 ximp⇥	䊨
 ximp⇥	𡣍
 ximp⇥	𦟀
+ximp⇥	𦢼
 ximp⇥	𩦻
 ximp⇥	𮌩
 ximt⇥	𡢔
@@ -290382,7 +290382,7 @@ zzzz⇥	𥷹
 (月尚,MdXy,,CJK-B)	𣎃
 (月忄一月一,MdNgFhFh,gèng,CJK-B)	𣎄
 (月日勹亾,MdJeSnXc,yì_huān,CJK-B)	𣎅
-(亡口月几丶,XcIqMdOe,luò,CJK-B)	𣎆
+({赢框},Or,luò,CJK-B)	𣎆
 (月⺜目,MdJeGy,,CJK-B)	𣎇
 (月田不,MdSlCi,,CJK-B)	𣎈
 (𠂇⺝戊𠃌,GlMdUcPv,,CJK-B)	𣎉
@@ -293920,7 +293920,7 @@ zzzz⇥	𥷹
 (氵⺮士乛工一口寸,HgZiMfLw,,CJK-B)	𤅕
 (氵⺿止頁,HgWhLdWv,,CJK-B)	𤅖
 (氵{赢框}言,HgOrMe,,CJK-B)	𤅗
-(氵{赢框}羊,HgOrId,,CJK-B)	𤅘
+(氵亡口月羊月,HgXcIqMd,,CJK-B)	𤅘
 (氵吅厂工耳攵,HgRuOyRy,,CJK-B)	𤅙
 (氵冂一口冖且,HgWiZvRh,,CJK-B)	𤅚
 (氵丿龱辰,HgWiCkQn,,CJK-B)	𤅛
@@ -302277,7 +302277,7 @@ zzzz⇥	𥷹
 (糹麻,HtOnDm,,CJK-B)	𦇺
 (亻人人人人糸爫一𠂇又,KjSiSiWi,,CJK-B)	𦇻
 (糹一虫,HtFhKtJw,,CJK-B)	𦇼
-(糹{赢框}羊,HtOrId,,CJK-B)	𦇽
+(糹亡口月羊月,HtXcIqMd,,CJK-B)	𦇽
 (糹門⺈厂八言,HtAcRlMe,,CJK-B)	𦇾
 (糹儿儿儿,HtZhAhAh,,CJK-B)	𦇿
 (亻人人人人糸⺊日宀丁,KjSiSiUe,,CJK-B)	𦈀
@@ -304004,7 +304004,7 @@ zzzz⇥	𥷹
 (月⺷灬王大,MdIdYvXi,,CJK-B)	𦢹
 (月罒隹灬,MdYtVhYv,qiǎo,CJK-B)	𦢺
 (人人广亻隹冂人人,SiSiGpSi,,CJK-B)	𦢻
-(亡口月貝,XcIqMdIc,,CJK-B)	𦢼
+(亡口月貝㇈,XcIqMdPc,,CJK-B)	𦢼
 (宀丰口谷冂人人,ErZhIqSi,,CJK-B)	𦢽
 (月山匕矢龴疋,MdDsHsKf,,CJK-B)	𦢾
 (月山隹冂八口,MdDsVhIq,wěi_juǎn,CJK-B)	𦢿
@@ -316587,7 +316587,7 @@ zzzz⇥	𥷹
 (馬禾人氺牛,GbZpSiLz,,CJK-B)	𩧠
 (目目隹又馬,GyGyVhGb,jué,CJK-B)	𩧡
 (馬馬馬,GbGbGb,,CJK-B)	𩧢
-(馬{赢框}羊,GbOrId,,CJK-B)	𩧣
+(馬亡口月⺸㇈,GbXcIqPc,,CJK-B)	𩧣
 (馬⺊𱕻日口凵亅,GbDhLwKs,,CJK-B)	𩧤
 (馬馬虍田皿,GbGbQbBk,,CJK-B)	𩧥
 (马人,XhSiKg,jiè,CJK-B)	𩧦

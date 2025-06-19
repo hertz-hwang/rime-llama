@@ -40929,7 +40929,7 @@
 月尚,MdXy	𣎃
 月忄一月一,MdNgFhFh	𣎄
 月日勹亾,MdJeSnXc	𣎅
-亡口月几丶,XcIqMdOe	𣎆
+{赢框},Or	𣎆
 月⺜目,MdJeGy	𣎇
 月田不,MdSlCi	𣎈
 𠂇⺝戊𠃌,GlMdUcPv	𣎉
@@ -44467,7 +44467,7 @@
 氵⺮士乛工一口寸,HgZiMfLw	𤅕
 氵⺿止頁,HgWhLdWv	𤅖
 氵{赢框}言,HgOrMe	𤅗
-氵{赢框}羊,HgOrId	𤅘
+氵亡口月羊月,HgXcIqMd	𤅘
 氵吅厂工耳攵,HgRuOyRy	𤅙
 氵冂一口冖且,HgWiZvRh	𤅚
 氵丿龱辰,HgWiCkQn	𤅛
@@ -52824,7 +52824,7 @@
 糹麻,HtOnDm	𦇺
 亻人人人人糸爫一𠂇又,KjSiSiWi	𦇻
 糹一虫,HtFhKtJw	𦇼
-糹{赢框}羊,HtOrId	𦇽
+糹亡口月羊月,HtXcIqMd	𦇽
 糹門⺈厂八言,HtAcRlMe	𦇾
 糹儿儿儿,HtZhAhAh	𦇿
 亻人人人人糸⺊日宀丁,KjSiSiUe	𦈀
@@ -54551,7 +54551,7 @@
 月⺷灬王大,MdIdYvXi	𦢹
 月罒隹灬,MdYtVhYv	𦢺
 人人广亻隹冂人人,SiSiGpSi	𦢻
-亡口月貝,XcIqMdIc	𦢼
+亡口月貝㇈,XcIqMdPc	𦢼
 宀丰口谷冂人人,ErZhIqSi	𦢽
 月山匕矢龴疋,MdDsHsKf	𦢾
 月山隹冂八口,MdDsVhIq	𦢿
@@ -67134,7 +67134,7 @@
 馬禾人氺牛,GbZpSiLz	𩧠
 目目隹又馬,GyGyVhGb	𩧡
 馬馬馬,GbGbGb	𩧢
-馬{赢框}羊,GbOrId	𩧣
+馬亡口月⺸㇈,GbXcIqPc	𩧣
 馬⺊𱕻日口凵亅,GbDhLwKs	𩧤
 馬馬虍田皿,GbGbQbBk	𩧥
 马人,XhSiKg	𩧦
