@@ -35489,7 +35489,7 @@
 𡹃	(山土儿夂,DsBmAhJt,,CJK-B)
 𡹄	(山一,DsFhWu,yà,CJK-B)
 𡹅	(一山,FhWuDs,,CJK-B)
-𡹆	(山士母,DsMfQt,,CJK-B)
+𡹆	(山土母,DsBmQt,,CJK-B)
 𡹇	(山木木,DsAjAj,lín,CJK-B)
 𡹈	(山一龰,DsFhSiLd,,CJK-B)
 𡹉	(山止支,DsLdBh,qí,CJK-B)

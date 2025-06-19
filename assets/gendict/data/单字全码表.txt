@@ -9513,6 +9513,7 @@
 㞿	dbos
 𡵿	dbpv
 𭮵	dbqi
+𡹆	dbqt
 𡶹	dbrp
 𡓮	dbsb
 𥜎	dbsi
@@ -11378,7 +11379,6 @@
 𧹕	dmqm
 𭖱	dmqm
 崌	dmqm
-𡹆	dmqt
 𣜥	dmra
 𱜐	dmrd
 𩦨	dmrg

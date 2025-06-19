@@ -156595,6 +156595,7 @@ dbor⇥	㠢
 dbos⇥	㞿
 dbpv⇥	𡵿
 dbqi⇥	𭮵
+dbqt⇥	𡹆
 dbrp⇥	𡶹
 dbsb⇥	𡓮
 dbsi⇥	𥜎
@@ -158460,7 +158461,6 @@ dmqm⇥	𥚑
 dmqm⇥	𧹕
 dmqm⇥	𭖱
 dmqm⇥	崌
-dmqt⇥	𡹆
 dmra⇥	𣜥
 dmrd⇥	𱜐
 dmrg⇥	𩦨
@@ -284942,7 +284942,7 @@ zzzz⇥	𥷹
 (山土儿夂,DsBmAhJt,,CJK-B)	𡹃
 (山一,DsFhWu,yà,CJK-B)	𡹄
 (一山,FhWuDs,,CJK-B)	𡹅
-(山士母,DsMfQt,,CJK-B)	𡹆
+(山土母,DsBmQt,,CJK-B)	𡹆
 (山木木,DsAjAj,lín,CJK-B)	𡹇
 (山一龰,DsFhSiLd,,CJK-B)	𡹈
 (山止支,DsLdBh,qí,CJK-B)	𡹉
