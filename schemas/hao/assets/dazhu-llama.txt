@@ -280907,7 +280907,7 @@ y	·
 (二卌二,RlDsRl,,CJK-F)	𬻜
 (𠂉卌二,LdDsRl,,CJK-F)	𬻝
 (冂,ZvWu,,CJK-F)	𬻞
-(一卅一火,FhFhFhYv,,CJK-F)	𬻟
+(一卅一,FhFhFhYv,,CJK-F)	𬻟
 (一吅大,FhRuXi,,CJK-F)	𬻠
 (扌立一卜,PcYqFhDh,,CJK-F)	𬻡
 (未丷斗,JxVyPf,,CJK-F)	𬻢
