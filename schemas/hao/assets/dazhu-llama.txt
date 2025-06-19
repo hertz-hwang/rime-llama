@@ -75337,7 +75337,7 @@ xizd	𫦽
 wooa	𫦾
 hdaa	𫦿
 sbmf	𫧀
-sjvn	𫧁
+sjvk	𫧁
 liso	𫧂
 sbsp	𫧃
 smvx	𫧄
@@ -173165,7 +173165,7 @@ xizd	𫦽
 wooa	𫦾
 hdaa	𫦿
 sbmf	𫧀
-sjvn	𫧁
+sjvk	𫧁
 liso	𫧂
 sbsp	𫧃
 smvx	𫧄
