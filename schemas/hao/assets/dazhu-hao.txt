@@ -181796,6 +181796,7 @@ jbyv⇥	𰞓
 jbyy⇥	㬨
 jbzk⇥	𪰉
 jbzk⇥	𬟷
+jbzz⇥	𢔵
 jcaf⇥	𣊊
 jcaj⇥	暞
 jcao⇥	𢓌
@@ -193055,8 +193056,6 @@ mbgc⇥	𫆝
 mbgi⇥	𬂀
 mbgz⇥	䐟
 mbgz⇥	𥻰
-mbgz⇥	𧪸
-mbgz⇥	𧪿
 mbgz⇥	講
 mbhe⇥	𭕚
 mbhe⇥	𱼆
@@ -193119,6 +193118,7 @@ mbyv⇥	𦛘
 mbyv⇥	𧨃
 mbzk⇥	𮗻
 mbzk⇥	肼
+mbzz⇥	𧪿
 mcaa⇥	𠢢
 mcab⇥	𥍳
 mcaf⇥	𭿸
@@ -196986,6 +196986,7 @@ mtyl⇥	𦣅
 mtyp⇥	𡲐
 mtyp⇥	𦜘
 mtys⇥	𭩗
+mtzf⇥	𧪺
 mtzj⇥	屙
 mtzo⇥	𥻼
 mtzo⇥	𧪛
@@ -197758,6 +197759,7 @@ mxdd⇥	𦝀
 mxdg⇥	𥽅
 mxdh⇥	𧦨
 mxeu⇥	𧪠
+mxfb⇥	𧪸
 mxff⇥	𮘊
 mxfi⇥	𦝵
 mxfk⇥	𬂓
@@ -240385,6 +240387,7 @@ zbzk⇥	𠕋
 zbzk⇥	𥝷
 zbzk⇥	𥬆
 zbzk⇥	穽
+zbzz⇥	𥱏
 zcao⇥	𠕜
 zcao⇥	𥥀
 zcao⇥	𥫰
@@ -249948,7 +249951,7 @@ zzzz⇥	𥷹
 (厂豆斗,OyEiPf,chú,CJK-A)	㕏
 (厂臼勹灬,OyWiSnYv,xiě_xiè,CJK-A)	㕐
 (厂壴寸,OyHsLw,chú,CJK-A)	㕑
-(厂⺷丿扌,OyIdCkIe,wēi,CJK-A)	㕒
+(厂⺷丿扌戈,OyIdCkIe,wēi,CJK-A)	㕒
 (厂黑土,OyUcBm,,CJK-A)	㕓
 (厂耳王十罒一心,OyQgGiNg,,CJK-A)	㕔
 (厶厶,NdNd,huàn,CJK-A)	㕕
@@ -250656,7 +250659,7 @@ zzzz⇥	𥷹
 (山艹冖一豕,DsWhErKt,méng,CJK-A)	㠓
 (山辟,DsRk,bài,CJK-A)	㠔
 (山阝鬼,DsTjBy,wěi,CJK-A)	㠕
-(山⺷丿扌,DsIdCkIe,yǐ,CJK-A)	㠖
+(山⺷丿扌戈,DsIdCkIe,yǐ,CJK-A)	㠖
 (山丿冂米大,DsCkZvXi,ào,CJK-A)	㠗
 (山一ㄅ丨,DsWiFhVy,yǔ,CJK-A)	㠘
 (山豕,DsWnKt,háo,CJK-A)	㠙
@@ -251134,7 +251137,7 @@ zzzz⇥	𥷹
 (亼口手,TuIqPc,chèn,CJK-A)	㧱
 (扌宀木,PcErAj,sǎn,CJK-A)	㧲
 (扌八刀手,PcVyKgPc,zhuò_bāi,CJK-A)	㧳
-(扌丿扌,PcCkPcIe,wǒ_é,CJK-A)	㧴
+(扌丿扌戈,PcCkPcIe,wǒ_é,CJK-A)	㧴
 (扌不口,PcCiIq,póu,CJK-A)	㧵
 (扌身,PcLc,kēng,CJK-A)	㧶
 (扌一大口,PcFhXiIq,tùn,CJK-A)	㧷
@@ -251234,7 +251237,7 @@ zzzz⇥	𥷹
 (扌⻗亽龴,PcTfTuNd,,CJK-A)	㩕
 (扌一田一田一,PcFhSlFh,qiáng,CJK-A)	㩖
 (扌山隹乃,PcDsVhVi,xí,CJK-A)	㩗
-(扌⺷丿扌,PcIdCkIe,nǐ,CJK-A)	㩘
+(扌⺷丿扌戈,PcIdCkIe,nǐ,CJK-A)	㩘
 (扌宀井土,PcErBzBm,sāi,CJK-A)	㩙
 (扌艹冖一豕,PcWhErKt,méng,CJK-A)	㩚
 (扌囗十田寸,PcUdGlLw,tuán,CJK-A)	㩛
@@ -251436,7 +251439,7 @@ zzzz⇥	𥷹
 (勹丷囗⺌日,SnBlVyJe,fēn,CJK-A)	㬟
 (日⺈彐攵灬,JeRlSiYv,shài_shà,CJK-A)	㬠
 (日⻗亽龴,JeTfTuNd,líng,CJK-A)	㬡
-(日⺷丿扌,JeIdCkIe,,CJK-A)	㬢
+(日⺷丿扌戈,JeIdCkIe,,CJK-A)	㬢
 (日业⺷寸,JeOqIdLw,duì,CJK-A)	㬣
 (日日幺幺灬,JeJeBlYv,qī,CJK-A)	㬤
 (日屮凵大米,JeIaZvMg,pù_bó,CJK-A)	㬥
@@ -252427,7 +252430,7 @@ zzzz⇥	𥷹
 (亠乡隹王丶,UeFfVhOe,yōng,CJK-A)	㻾
 (王罒勹虫,GiYtSnJw,shǔ,CJK-A)	㻿
 (王土羊辶,GiBmIdLt,,CJK-A)	㼀
-(王⺷丿扌,GiIdCkIe,,CJK-A)	㼁
+(王⺷丿扌戈,GiIdCkIe,,CJK-A)	㼁
 (一ㄅ丨冖王丶,WiFhPvOe,é,CJK-A)	㼂
 (王巛,GiJvQk,,CJK-A)	㼃
 (王幺幺戈田,GiBlBlSl,,CJK-A)	㼄
@@ -252947,7 +252950,7 @@ zzzz⇥	𥷹
 (礻舌,DdVl,huó_huàn,CJK-A)	䄆
 (礻口王,DdIqGi,chéng,CJK-A)	䄇
 (礻豆,DdEi,dòu_xiáng,CJK-A)	䄈
-(礻丿扌,DdCkPcIe,é,CJK-A)	䄉
+(礻丿扌戈,DdCkPcIe,é,CJK-A)	䄉
 (礻士心,DdMfNg,,CJK-A)	䄊
 (礻大日乚,DdXiJePv,yǎn_yàn,CJK-A)	䄋
 (礻又又又又,DdWiWiWi,zhuì_chuò,CJK-A)	䄌
@@ -253287,7 +253290,7 @@ zzzz⇥	𥷹
 (⺮罒冖瓦,ZiYtErFn,méng,CJK-A)	䉚
 (⺮丿冂米大,ZiCkZvXi,yù_ǎo,CJK-A)	䉛
 (⺮矢隹,ZiEuVh,zhì,CJK-A)	䉜
-(⺮⺷丿扌,ZiIdCkIe,yǐ,CJK-A)	䉝
+(⺮⺷丿扌戈,ZiIdCkIe,yǐ,CJK-A)	䉝
 (⺮戊一口心,ZiUcFhNg,dǎn,CJK-A)	䉞
 (⺮扌隹又,ZiPcVhWi,huò,CJK-A)	䉟
 (⺮{微框}几,ZiYaPs,wéi,CJK-A)	䉠
@@ -254041,7 +254044,7 @@ zzzz⇥	𥷹
 (艹禾隹,WhZpVh,zhì,CJK-A)	䕌
 (艹衣冂八口,WhOrZvIq,yì,CJK-A)	䕍
 (艹目一口田,WhGyFhSl,fú,CJK-A)	䕎
-(艹⺷丿扌,WhIdCkIe,é,CJK-A)	䕏
+(艹⺷丿扌戈,WhIdCkIe,é,CJK-A)	䕏
 (艹礻一口田,WhDdFhSl,,CJK-A)	䕐
 (艹糹爫女,WhHtToSm,jùn,CJK-A)	䕑
 (艹壴力口,WhHsAuIq,jiā,CJK-A)	䕒
@@ -254146,7 +254149,7 @@ zzzz⇥	𥷹
 (虫虫,JwJw,kūn,CJK-A)	䖵
 (虫豕,JwKt,huī,CJK-A)	䖶
 (虫㐅𠂇巾,JwOsGlUw,xī,CJK-A)	䖷
-(丿扌虫,CkPcIeJw,é,CJK-A)	䖸
+(丿扌戈虫,CkPcIeJw,é,CJK-A)	䖸
 (虫⺸,JwId,yáng_mǐ,CJK-A)	䖹
 (亻丨夂虫,KjKsJtJw,tiáo,CJK-A)	䖺
 (虫,JwPdJv,yóu,CJK-A)	䖻
@@ -254652,7 +254655,7 @@ zzzz⇥	𥷹
 (走爫子,QoToYd,fù_fú,CJK-A)	䞯
 (走土,QoBmYv,zuó,CJK-A)	䞰
 (走谷,QoPu,hú,CJK-A)	䞱
-(走丿扌,QoCkPcIe,,CJK-A)	䞲
+(走丿扌戈,QoCkPcIe,,CJK-A)	䞲
 (走立口,QoYqIq,bó,CJK-A)	䞳
 (走⺆土口,QoZvBmIq,zhāo,CJK-A)	䞴
 (走又又又又,QoWiWiWi,juě_zhuò,CJK-A)	䞵
@@ -254955,7 +254958,7 @@ zzzz⇥	𥷹
 (吅䒑阝,RuVyIaTj,è,CJK-A)	䣞
 (旡旡日阝,UeUeJeTj,cán_cǎn_tì,CJK-A)	䣟
 (夫夫日阝,SvSvJeTj,jié_tì_zá,CJK-A)	䣠
-(⺷丿扌阝,IdCkPcTj,yí,CJK-A)	䣡
+(⺷丿扌戈阝,IdCkPcTj,yí,CJK-A)	䣡
 (耒龷日阝,FuXkJeTj,jí,CJK-A)	䣢
 (黑阝,XyUcTj,dǎng,CJK-A)	䣣
 (目目隹又阝,GyGyVhTj,jué,CJK-A)	䣤
@@ -255217,7 +255220,7 @@ zzzz⇥	𥷹
 (阝业⺶㇏,TjOqIdOe,pú,CJK-A)	䧤
 (阝十田心,TjGlSlNg,huì,CJK-A)	䧥
 (阝爫丿ヿヿヿ灬,TjToCkYv,wéi,CJK-A)	䧦
-(阝⺷丿扌,TjIdCkIe,yǐ,CJK-A)	䧧
+(阝⺷丿扌戈,TjIdCkIe,yǐ,CJK-A)	䧧
 (阝业䒑未,TjOqVyJx,yè,CJK-A)	䧨
 (阝ヿ耳攵,TjPvQgRy,,CJK-A)	䧩
 (阝广大人人女,TjGpXiSm,chè,CJK-A)	䧪
@@ -255800,7 +255803,7 @@ zzzz⇥	𥷹
 (鬼土土土一儿,ByBmBmAh,chāo_cháo_zhào,CJK-A)	䰫
 (鬼予丿冂八口,ByMaCkIq,jú,CJK-A)	䰬
 (而而鬼,UaUaBy,nòu,CJK-A)	䰭
-(鬼⺷丿扌,ByIdCkIe,,CJK-A)	䰮
+(鬼⺷丿扌戈,ByIdCkIe,,CJK-A)	䰮
 (鬼匕矢龴疋,ByHsEuKf,yì,CJK-A)	䰯
 (⻗而鬼,TfUaBy,rú,CJK-A)	䰰
 (⻗口吅工人人鬼,TfIqRuBy,líng_lóng,CJK-A)	䰱
@@ -255899,7 +255902,7 @@ zzzz⇥	𥷹
 (魚ヿ耳攵,XlPvQgRy,něi,CJK-A)	䲎
 (魚火火冖力,XlYvYvAu,láo,CJK-A)	䲏
 (魚虍田力,XlQbSlAu,lǔ,CJK-A)	䲐
-(魚⺷丿扌,XlIdCkIe,yí,CJK-A)	䲑
+(魚⺷丿扌戈,XlIdCkIe,yí,CJK-A)	䲑
 (魚⺈用刀牛,XlRlQlLz,xiè,CJK-A)	䲒
 (魚僉,XlOr,yǎn_yán,CJK-A)	䲓
 (魚一田一田一,XlFhSlFh,qíng,CJK-A)	䲔
@@ -255969,8 +255972,8 @@ zzzz⇥	𥷹
 (臼鳥,WiTl,jú_jiù,CJK-A)	䳔
 (爫子鳥,ToYdTl,fú,CJK-A)	䳕
 (鳥耳㇗,TlQgPv,niè,CJK-A)	䳖
-(鳥丿扌,TlCkPcIe,é,CJK-A)	䳗
-(鳥丿扌,TlCkPcIe,é,CJK-A)	䳘
+(鳥丿扌戈,TlCkPcIe,é,CJK-A)	䳗
+(鳥丿扌戈,TlCkPcIe,é,CJK-A)	䳘
 (由一ㄅ鳥,IsFhPvTl,xǐng,CJK-A)	䳙
 (日干鳥,JeLrTl,kàn_hé,CJK-A)	䳚
 (日女鳥,JeSmTl,yàn,CJK-A)	䳛
@@ -256020,7 +256023,7 @@ zzzz⇥	𥷹
 (⻗亽龴鳥,TfTuNdTl,líng,CJK-A)	䴇
 (丿冂米大鳥,CkZvMgTl,ǎo,CJK-A)	䴈
 (罒一口𧘇鳥,YtFhIqTl,huán_xuán,CJK-A)	䴉
-(⺷丿扌鳥,IdCkPcTl,yí,CJK-A)	䴊
+(⺷丿扌戈鳥,IdCkPcTl,yí,CJK-A)	䴊
 (鳥罒一口𧘇,TlYtFhOr,huán_xuán,CJK-A)	䴋
 (鳥艹冖一豕,TlWhErKt,méng,CJK-A)	䴌
 (貝貝鳥,IcIcTl,yīng,CJK-A)	䴍
@@ -256654,7 +256657,7 @@ zzzz⇥	𥷹
 (亻口㇞大,KjIqPvXi,yǔ,CJK)	俁
 (亻丿糸,KjCkHt,xì,CJK)	係
 (亻足,KjUz,cù_chuò,CJK)	促
-(亻丿扌,KjCkPcIe,é,CJK)	俄
+(亻丿扌戈,KjCkPcIe,é,CJK)	俄
 (亻一氺丶,KjFhHgOe,qiú,CJK)	俅
 (亻人禾,KjSiZp,xú_shū,CJK)	俆
 (亻犭王,KjLeGi,guàng,CJK)	俇
@@ -256970,7 +256973,7 @@ zzzz⇥	𥷹
 (亻禾火心,KjZpYvNg,zhòu_zhōu,CJK)	僽
 (亻爫冖心夂,KjToErJt,ài,CJK)	僾
 (亻宀井土,KjErBzBm,sài,CJK)	僿
-(亻⺷丿扌,KjIdCkIe,yí,CJK)	儀
+(亻⺷丿扌戈,KjIdCkIe,yí,CJK)	儀
 (亻隹,KjVhZv,jùn,CJK)	儁
 (亻曲辰,KjRwQn,nóng,CJK)	儂
 (亻亠囗口日一,KjUeUdFh,chán_shàn_tǎn_dàn_zhǎn,CJK)	儃
@@ -257968,7 +257971,7 @@ zzzz⇥	𥷹
 (口豆,IqEi,pǒu,CJK)	哣
 (口龙,IqJhBl,máng,CJK)	哤
 (可可,ZjZj,gē,CJK)	哥
-(口丿扌,IqCkPcIe,ó_é_ò,CJK)	哦
+(口丿扌戈,IqCkPcIe,ó_é_ò,CJK)	哦
 (口土,IqBmYv,chī_xià_hè,CJK)	哧
 (口⺌⺝,IqOtMd,shào_sāo_xiāo_xiào_sào,CJK)	哨
 (口里,IqDn,lī_li_lì_lǐ_mái_yīng,CJK)	哩
@@ -259311,7 +259314,7 @@ zzzz⇥	𥷹
 (女亽乛口,SmTuPvIq,hán,CJK)	娢
 (女丷𢎨,SmVyUv,dì,CJK)	娣
 (爿士女,NbMfSm,zhuāng,CJK)	娤
-(女丿扌,SmCkPcIe,é,CJK)	娥
+(女丿扌戈,SmCkPcIe,é,CJK)	娥
 (女,SmOzVy,pín,CJK)	娦
 (女丷口儿,SmVyIqAh,tuì,CJK)	娧
 (女日干,SmJeLr,xiàn,CJK)	娨
@@ -259561,7 +259564,7 @@ zzzz⇥	𥷹
 (音欠女,ArFySm,xīn,CJK)	嬜
 (女衣,SmTlOr,niǎo,CJK)	嬝
 (女艹千里,SmWhHcDn,dǒng,CJK)	嬞
-(女⺷丿扌,SmIdCkIe,yì_yǐ,CJK)	嬟
+(女⺷丿扌戈,SmIdCkIe,yì_yǐ,CJK)	嬟
 (女口吅木,SmIqRuAj,cān,CJK)	嬠
 (女爫冖心夂,SmToErJt,ài,CJK)	嬡
 (女六井一𧘇,SmCaBzOr,niáng,CJK)	嬢
@@ -260018,8 +260021,8 @@ zzzz⇥	𥷹
 (山⺈,DsRlUa,zhēng,CJK)	峥
 (亠山,UeYvDs,luán,CJK)	峦
 (山六乂,DsCaOs,jiāo,CJK)	峧
-(山丿扌,DsCkPcIe,é,CJK)	峨
-(山丿扌,DsCkPcIe,é,CJK)	峩
+(山丿扌戈,DsCkPcIe,é,CJK)	峨
+(山丿扌戈,DsCkPcIe,é,CJK)	峩
 (山谷,DsPu,yù,CJK)	峪
 (山牙阝,DsYbTj,xié_yé,CJK)	峫
 (山甫,DsGn,bū,CJK)	峬
@@ -260214,7 +260217,7 @@ zzzz⇥	𥷹
 (山曲辰,DsRwQn,náo,CJK)	嶩
 (山业䒑未,DsOqVyJx,yè,CJK)	嶪
 (山业䒑未,DsOqVyJx,yè,CJK)	嶫
-(山⺷丿扌,DsIdCkIe,yí_yǐ,CJK)	嶬
+(山⺷丿扌戈,DsIdCkIe,yí_yǐ,CJK)	嶬
 (山丿㠯辛,DsCkUsJt,niè,CJK)	嶭
 (山僉,DsOr,xiǎn_yǎn,CJK)	嶮
 (山口耳,DsIqQgIe,jí,CJK)	嶯
@@ -261339,7 +261342,7 @@ zzzz⇥	𥷹
 (戈𠂇,IeGl,róng_rēng,CJK)	戎
 (又戈,WiIe,xì_hū,CJK)	戏
 (戊𠃌,UcPv,chéng,CJK)	成
-(丿扌,CkPcIe,wǒ,CJK)	我
+(丿扌戈,CkPcIe,wǒ,CJK)	我
 (戈廾,IeWh,jiè,CJK)	戒
 (戈口,IeIq,gē,CJK)	戓
 (戈戈,IeIe,jiān_cán,CJK)	戔
@@ -263535,7 +263538,7 @@ zzzz⇥	𥷹
 (木僉,AjOr,jiǎn,CJK)	檢
 (木土人人囗口,AjBmSiIq,qiáng,CJK)	檣
 (木䒑自辶,AjVyCjLt,dào,CJK)	檤
-(木⺷丿扌,AjIdCkIe,yǐ,CJK)	檥
+(木⺷丿扌戈,AjIdCkIe,yǐ,CJK)	檥
 (木覀示刂,AjQpDdKg,biǎo,CJK)	檦
 (木艹勹丶心,AjWhSnNg,sōng,CJK)	檧
 (木⺷冫欠,AjIdLvFy,shē,CJK)	檨
@@ -264282,7 +264285,7 @@ zzzz⇥	𥷹
 (氵耂子,HgRiYd,xiào,CJK)	涍
 (氵丿止廴,HgCkLdVv,xián_yàn_diàn,CJK)	涎
 (氵丿士廴,HgCkMfVv,tǐng,CJK)	涏
-(氵丿扌,HgCkPcIe,é,CJK)	涐
+(氵丿扌戈,HgCkPcIe,é,CJK)	涐
 (氵束,HgUh,sù_sōu_shù,CJK)	涑
 (氵丿口,HgSiCkIq,tūn_yūn,CJK)	涒
 (氵口⺝,HgIqMd,juān_yuàn_xuàn,CJK)	涓
@@ -265394,7 +265397,7 @@ zzzz⇥	𥷹
 (火口吅木,YvIqRuAj,zào_sào,CJK)	燥
 (火歺又米,YvQmWiMg,càn,CJK)	燦
 (火丷豕辶,YvVyKtLt,suì,CJK)	燧
-(火⺷丿扌,YvIdCkIe,xī,CJK)	燨
+(火⺷丿扌戈,YvIdCkIe,xī,CJK)	燨
 (火白方攵,YvDyMxRy,què,CJK)	燩
 (火艹勹丶心,YvWhSnNg,zǒng,CJK)	燪
 (火广䒑,YvGpVyYv,lián,CJK)	燫
@@ -265578,7 +265581,7 @@ zzzz⇥	𥷹
 (牜立里,LzYqDn,tóng,CJK)	犝
 (牜丿大口冂口,LzCkXiIq,qiáo,CJK)	犞
 (弓口虫牛,OdIqJwLz,jiàng,CJK)	犟
-(牜⺷丿扌,LzIdCkIe,xī,CJK)	犠
+(牜⺷丿扌戈,LzIdCkIe,xī,CJK)	犠
 (牜厂艹田⽱,LzOyWhFj,lì,CJK)	犡
 (牜士罒貝,LzMfYtIc,dú,CJK)	犢
 (牜巛,LzJvQk,liè,CJK)	犣
@@ -265918,7 +265921,7 @@ zzzz⇥	𥷹
 (王ツ女,GiHgSm,yīng,CJK)	珱
 (王冖车,GiErYf,huī_hún,CJK)	珲
 (王文彡,GiWmBl,wén,CJK)	珳
-(王丿扌,GiCkPcIe,é,CJK)	珴
+(王丿扌戈,GiCkPcIe,é,CJK)	珴
 (王口王,GiIqGi,chéng_tǐng,CJK)	珵
 (王丷𢎨,GiVyUv,dì_tí,CJK)	珶
 (王一弋止,GiFhNdLd,wǔ_wù,CJK)	珷
@@ -266588,7 +266591,7 @@ zzzz⇥	𥷹
 (白䒑廾,DyVyWh,pěng,CJK)	皏
 (白冫十,DyLvLvGl,gāo,CJK)	皐
 (白山己,DyDsJc,ái,CJK)	皑
-(白丿扌,DyCkPcIe,é,CJK)	皒
+(白丿扌戈,DyCkPcIe,é,CJK)	皒
 (白⺧口,DyLzIq,hào_huī,CJK)	皓
 (白日干,DyJeLr,hàn,CJK)	皔
 (一白一白,FhDyFhDy,bì,CJK)	皕
@@ -266773,7 +266776,7 @@ zzzz⇥	𥷹
 (目口王,GyIqGi,chěng,CJK)	睈
 (目人人土,GySiSiBm,cuó_zhuài,CJK)	睉
 (目口⺝,GyIqMd,juàn,CJK)	睊
-(目丿扌,GyCkPcIe,é,CJK)	睋
+(目丿扌戈,GyCkPcIe,é,CJK)	睋
 (目儿,GyZhAh,mǎn,CJK)	睌
 (目見,GySc,xiàn,CJK)	睍
 (目㐅𠂇巾,GyOsGlUw,xī,CJK)	睎
@@ -267060,7 +267063,7 @@ zzzz⇥	𥷹
 (石龴用,QqNdQl,yǒng_tóng,CJK)	硧
 (石車,QqJl,chē,CJK)	硨
 (扌斤石,PcOzQq,chè,CJK)	硩
-(石丿扌,QqCkPcIe,wò_é_yǐ,CJK)	硪
+(石丿扌戈,QqCkPcIe,wò_é_yǐ,CJK)	硪
 (石,QqPdJv,liú_chù,CJK)	硫
 (石{凬字心},QqTeOs,yìng_gěng,CJK)	硬
 (石艹亡,QqWhXc,máng,CJK)	硭
@@ -267228,7 +267231,7 @@ zzzz⇥	𥷹
 (石业䒑未,QqOqVyJx,yè,CJK)	礏
 (乂乂冖石,WiOsOsQq,què_hú,CJK)	礐
 (石田,QqXySl,dàng,CJK)	礑
-(石⺷丿扌,QqIdCkIe,yǐ,CJK)	礒
+(石⺷丿扌戈,QqIdCkIe,yǐ,CJK)	礒
 (石一田一田一,QqFhSlFh,jiāng,CJK)	礓
 (石辟,QqRk,pī,CJK)	礔
 (辟石,RkQq,pī,CJK)	礕
@@ -268915,7 +268918,7 @@ zzzz⇥	𥷹
 (⺶宀二儿,IdErRlAh,huán,CJK)	羦
 (⺶厶八夂,IdNdVyJt,suō_zuī,CJK)	羧
 (⺷氵欠,IdHgFy,xiàn,CJK)	羨
-(⺷丿扌,IdCkPcIe,yì_yí_xī,CJK)	義
+(⺷丿扌戈,IdCkPcIe,yì_yí_xī,CJK)	義
 (⺶丶艮,IdOeTp,yang,CJK)	羪
 (⺶穴工,IdZiNv,qiāng_kàng,CJK)	羫
 (⺶戊一口,IdUcFhIq,qián_xián_yán,CJK)	羬
@@ -269614,7 +269617,7 @@ zzzz⇥	𥷹
 (舟田,LkXySl,dāng,CJK)	艡
 (舟土人人囗口,LkBmSiIq,qiáng,CJK)	艢
 (舟虍田力,LkQbSlAu,lǔ,CJK)	艣
-(舟⺷丿扌,LkIdCkIe,yǐ,CJK)	艤
+(舟⺷丿扌戈,LkIdCkIe,yǐ,CJK)	艤
 (舟口耳,LkIqQgIe,jí,CJK)	艥
 (舟臣皿,LkDzZiBk,jiàn,CJK)	艦
 (舟艹隹又,LkWhVhWi,huò_wò,CJK)	艧
@@ -269940,7 +269943,7 @@ zzzz⇥	𥷹
 (艹見,WhSc,xiàn_wàn,CJK)	莧
 (艹丶艮,WhOeTp,làng_liáng_láng,CJK)	莨
 (艹爫子,WhToYd,fú_piǎo,CJK)	莩
-(艹丿扌,WhCkPcIe,é,CJK)	莪
+(艹丿扌戈,WhCkPcIe,é,CJK)	莪
 (艹日大,WhJeXi,mò_mù,CJK)	莫
 (艹儿,WhZhAh,wèn_wǎn_miǎn,CJK)	莬
 (艹卩,WhTpWj,jié,CJK)	莭
@@ -270792,7 +270795,7 @@ zzzz⇥	𥷹
 (虫八口儿,JwVyIqAh,tuì,CJK)	蛻
 (虫車,JwJl,chē,CJK)	蛼
 (虫貝,JwIc,bèi,CJK)	蛽
-(虫丿扌,JwCkPcIe,é_yǐ,CJK)	蛾
+(虫丿扌戈,JwCkPcIe,é_yǐ,CJK)	蛾
 (虫亽乛口,JwTuPvIq,hàn,CJK)	蛿
 (罒勹虫,YtSnJw,shǔ,CJK)	蜀
 (虫𠂉疋,JwLdKf,xuán,CJK)	蜁
@@ -271045,7 +271048,7 @@ zzzz⇥	𥷹
 (豕虫虫,KtJwJw,lǐ,CJK)	蟸
 (⺈用刀牛虫,RlQlKgJw,xiè,CJK)	蟹
 (虫亠囗口日一,JwUeUdFh,shàn_dàn_chán_tuó,CJK)	蟺
-(虫⺷丿扌,JwIdCkIe,yǐ_jǐ,CJK)	蟻
+(虫⺷丿扌戈,JwIdCkIe,yǐ_jǐ,CJK)	蟻
 (艹句攵虫,WhTqRyJw,jǐng,CJK)	蟼
 (虫土羊辶,JwBmIdLt,dá,CJK)	蟽
 (虫⺈厂八言,JwRlOyMe,chán,CJK)	蟾
@@ -271706,7 +271709,7 @@ zzzz⇥	𥷹
 (言刀丶心,MeKgOeNg,rèn,CJK)	認
 (言束,MeUh,cù,CJK)	誎
 (言丶艮,MeOeTp,lǎng_làng,CJK)	誏
-(言丿扌,MeCkPcIe,é_ě,CJK)	誐
+(言丿扌戈,MeCkPcIe,é_ě,CJK)	誐
 (言犭王,MeLeGi,kuáng,CJK)	誑
 (言厶矢,MeNdEu,éi_xī_yì_ê̄_ế_ê̌_ěi_ề_èi_ēi,CJK)	誒
 (扌斤言,PcOzMe,shì,CJK)	誓
@@ -271930,7 +271933,7 @@ zzzz⇥	𥷹
 (言臼工殳,MeWiNvQi,huǐ,CJK)	譭
 (言亼囗⺌日,MeTuUdJe,huà_xiè_huì,CJK)	譮
 (言罒土,MeYtBmId,yì,CJK)	譯
-(言⺷丿扌,MeIdCkIe,yì,CJK)	議
+(言⺷丿扌戈,MeIdCkIe,yì,CJK)	議
 (羊言言,IdMeMe,shàn,CJK)	譱
 (言六井一𧘇,MeCaBzOr,ràng,CJK)	譲
 (言⻗而,MeTfUa,nòu,CJK)	譳
@@ -272931,7 +272934,7 @@ zzzz⇥	𥷹
 (車土人人囗口,JlBmSiIq,sè,CJK)	轖
 (車戊一口心,JlUcFhNg,kǎn,CJK)	轗
 (車罒一口𧘇,JlYtFhOr,huán_huàn,CJK)	轘
-(車⺷丿扌,JlIdCkIe,yǐ,CJK)	轙
+(車⺷丿扌戈,JlIdCkIe,yǐ,CJK)	轙
 (車凵殳車,JlZvQiJl,jí,CJK)	轚
 (車业⺷寸,JlOqIdLw,zhuì,CJK)	轛
 (車⻗而,JlTfUa,ér,CJK)	轜
@@ -273842,7 +273845,7 @@ zzzz⇥	𥷹
 (釒口王,TkIqGi,zèng,CJK)	鋥
 (釒尸𠃌口,TkMzPvIq,jū_jú,CJK)	鋦
 (釒見,TkSc,xiàn,CJK)	鋧
-(釒丿扌,TkCkPcIe,tiě_é,CJK)	鋨
+(釒丿扌戈,TkCkPcIe,tiě_é,CJK)	鋨
 (釒艹亡,TkWhXc,máng,CJK)	鋩
 (釒甫,TkGn,pù_pū,CJK)	鋪
 (禾刂金,ZpKgTk,lí,CJK)	鋫
@@ -274385,7 +274388,7 @@ zzzz⇥	𥷹
 (钅且力,CjRhAu,chú,CJK)	锄
 (钅口冂人,CjIqZvSi,guō,CJK)	锅
 (钅⺧口,CjLzIq,gào,CJK)	锆
-(钅丿扌,CjCkPcIe,é,CJK)	锇
+(钅丿扌戈,CjCkPcIe,é,CJK)	锇
 (钅禾乃,CjZpVi,xiù,CJK)	锈
 (钅人人土,CjSiSiBm,cuò,CJK)	锉
 (钅爫寸,CjToLw,lüè,CJK)	锊
@@ -275421,7 +275424,7 @@ zzzz⇥	𥷹
 (歺又食,QmWiOz,cān_sūn,CJK)	餐
 (飠十冖子,OzGlErYd,bō,CJK)	餑
 (飠爫女,OzToSm,něi,CJK)	餒
-(飠丿扌,OzCkPcIe,è,CJK)	餓
+(飠丿扌戈,OzCkPcIe,è,CJK)	餓
 (飠甫,OzGn,bù_bū,CJK)	餔
 (飠厶八夂,OzNdVyJt,jùn,CJK)	餕
 (飠豆,OzEi,dòu,CJK)	餖
@@ -275529,7 +275532,7 @@ zzzz⇥	𥷹
 (饣䒑廾,FnVyWh,bǐng,CJK)	饼
 (饣十冖子,FnGlErYd,bō,CJK)	饽
 (饣豆,FnEi,dòu,CJK)	饾
-(饣丿扌,FnCkPcIe,è,CJK)	饿
+(饣丿扌戈,FnCkPcIe,è,CJK)	饿
 (饣人禾,FnSiZp,yú,CJK)	馀
 (饣爫女,FnToSm,něi,CJK)	馁
 (饣厶八夂,FnNdVyJt,jùn,CJK)	馂
@@ -275658,7 +275661,7 @@ zzzz⇥	𥷹
 (馬口⺝,GbIqMd,xuān,CJK)	駽
 (馬丷口儿,GbVyIqAh,tuì,CJK)	駾
 (馬厶八夂,GbNdVyJt,jùn,CJK)	駿
-(馬丿扌,GbCkPcIe,ě_é,CJK)	騀
+(馬丿扌戈,GbCkPcIe,ě_é,CJK)	騀
 (馬由一ㄅ,GbIsFhPv,chěng,CJK)	騁
 (馬辛,GbJt,xīng,CJK)	騂
 (馬厶矢,GbNdEu,ái_sì_tǎi,CJK)	騃
@@ -276519,8 +276522,8 @@ zzzz⇥	𥷹
 (禾几鳥,ZpPsTl,tū,CJK)	鵚
 (一巛工鳥,FhJvNvTl,jīng,CJK)	鵛
 (丷𢎨鳥,VyUvTl,tí_tī,CJK)	鵜
-(丿扌鳥,CkPcIeTl,é,CJK)	鵝
-(丿扌鳥,CkPcIeTl,é,CJK)	鵞
+(丿扌戈鳥,CkPcIeTl,é,CJK)	鵝
+(丿扌戈鳥,CkPcIeTl,é,CJK)	鵞
 (犭王鳥,LeGiTl,kuáng,CJK)	鵟
 (⺧口鳥,LzIqTl,hú_gǔ_hè,CJK)	鵠
 (一弋止鳥,FhNdLdTl,wǔ,CJK)	鵡
@@ -276685,7 +276688,7 @@ zzzz⇥	𥷹
 (罒勹虫鳥,YtSnJwTl,chǔ_zhú_chù,CJK)	鸀
 ({赢框}鳥,OrTl,luó,CJK)	鸁
 (氵爫幺大鳥,HgToBlTl,xī_qī,CJK)	鸂
-(鳥⺷丿扌,TlIdCkIe,yí,CJK)	鸃
+(鳥⺷丿扌戈,TlIdCkIe,yí,CJK)	鸃
 (白方攵鳥,DyMxRyTl,jī,CJK)	鸄
 (罒土鳥,YtBmIdTl,zé,CJK)	鸅
 (虍口一大鳥,QbIqFhTl,yú,CJK)	鸆
@@ -276751,7 +276754,7 @@ zzzz⇥	𥷹
 (一鸟,FhMdMdWl,lí,CJK)	鹂
 (口⺝鸟,IqMdWl,juān,CJK)	鹃
 (⺧口鸟,LzIqWl,gǔ_hú,CJK)	鹄
-(丿扌鸟,CkPcIeWl,é,CJK)	鹅
+(丿扌戈鸟,CkPcIeWl,é,CJK)	鹅
 (谷鸟,PuWl,yù,CJK)	鹆
 (门木鸟,BoAjWl,xián,CJK)	鹇
 (丷𢎨鸟,VyUvWl,tí,CJK)	鹈
@@ -278022,7 +278025,7 @@ zzzz⇥	𥷹
 (亻火火⺄十,KjYvYvGl,,CJK-B)	𠌻
 (亻吕丨心,KjNfKsNg,,CJK-B)	𠌼
 (亻甫方,KjGnMx,fù,CJK-B)	𠌽
-(亻⺿丿扌,KjWhCkIe,,CJK-B)	𠌾
+(亻⺿丿扌戈,KjWhCkIe,,CJK-B)	𠌾
 (亻广一龰,KjGpFhLd,,CJK-B)	𠌿
 (亻氵木日,KjHgAjJe,,CJK-B)	𠍀
 (亻𠂉母攵,KjLdQtRy,,CJK-B)	𠍁
@@ -278155,7 +278158,7 @@ zzzz⇥	𥷹
 (亻冎口辶,KjFvIqLt,kē,CJK-B)	𠏀
 (亻阝鬼,KjTjBy,,CJK-B)	𠏁
 (亻豕豕土,KjKtKtBm,,CJK-B)	𠏂
-(亻虫丿扌,KjJwCkIe,yuē,CJK-B)	𠏃
+(亻虫丿扌戈,KjJwCkIe,yuē,CJK-B)	𠏃
 (亻耳口丿土,KjQgIqBm,,CJK-B)	𠏄
 (亻穴尸屮凵,KjZiMzZv,,CJK-B)	𠏅
 (亻⺿勹甫,KjWhSnGn,,CJK-B)	𠏆
@@ -279841,7 +279844,7 @@ zzzz⇥	𥷹
 (丷厂肀,VyOyUa,,CJK-B)	𠩖
 (厂氵欠,OyHgFy,yí,CJK-B)	𠩗
 (厂大人人,OyXiSiSi,xiá,CJK-B)	𠩘
-(厂丿扌,OyCkPcIe,,CJK-B)	𠩙
+(厂丿扌戈,OyCkPcIe,,CJK-B)	𠩙
 (厂酉,OyTi,,CJK-B)	𠩚
 (厂囗人人,OyUdSiSi,,CJK-B)	𠩛
 (厂人人土,OySiSiBm,,CJK-B)	𠩜
@@ -280031,7 +280034,7 @@ zzzz⇥	𥷹
 (厶厶厶目,NdNdNdNb,,CJK-B)	𠬔
 (土厶衤甫,BmNdOrGn,,CJK-B)	𠬕
 (土厶衤甫,BmNdOrGn,,CJK-B)	𠬖
-(𠂇厶⺷丿扌,GlNdIdIe,,CJK-B)	𠬗
+(𠂇厶⺷丿扌戈,GlNdIdIe,,CJK-B)	𠬗
 (齐非一,AeDmFh,,CJK-B)	𠬘
 (矢口二ㄅ一巾入入,EuIqRlXj,sā,CJK-B)	𠬙
 (九又,DpWi,,CJK-B)	𠬚
@@ -280895,7 +280898,7 @@ zzzz⇥	𥷹
 (口丿口阝,IqSiCkTj,,CJK-B)	𠹴
 (口日宀女,IqJeErSm,,CJK-B)	𠹵
 (口石干丷,IqQqLrVy,,CJK-B)	𠹶
-(口女丿扌,IqSmCkIe,,CJK-B)	𠹷
+(口女丿扌戈,IqSmCkIe,,CJK-B)	𠹷
 (口亼乛衣,IqTuPvOr,,CJK-B)	𠹸
 (口亻侖,IqKjSy,,CJK-B)	𠹹
 (口土里,IqBmDn,,CJK-B)	𠹺
@@ -281287,7 +281290,7 @@ zzzz⇥	𥷹
 (口⺈攵灬,IqRlSiYv,,CJK-B)	𠿼
 (口甫,IqJzGn,,CJK-B)	𠿽
 (口广大丷日乚,IqGpXiPv,,CJK-B)	𠿾
-(口⺷丿扌,IqIdCkIe,,CJK-B)	𠿿
+(口⺷丿扌戈,IqIdCkIe,,CJK-B)	𠿿
 (口亠囗口示,IqUeUdDd,,CJK-B)	𡀀
 (口土人人囗口,IqBmSiIq,,CJK-B)	𡀁
 (口田,IqTfSl,,CJK-B)	𡀂
@@ -281663,7 +281666,7 @@ zzzz⇥	𥷹
 (口吅厂丿丷古攵,IqRuOyRy,,CJK-B)	𡅴
 (口丿米罒土,IqCkMgId,shì,CJK-B)	𡅵
 (口宀井馬,IqErBzGb,jiǎn,CJK-B)	𡅶
-(口言⺷丿扌,IqMeIdIe,,CJK-B)	𡅷
+(口言⺷丿扌戈,IqMeIdIe,,CJK-B)	𡅷
 (壴口廿口龶,HsIqXkZh,,CJK-B)	𡅸
 (口小亠囗口日一,IqWnOtFh,zhān,CJK-B)	𡅹
 (口⻗口耳,IqTfIqIe,jí,CJK-B)	𡅺
@@ -283326,7 +283329,7 @@ zzzz⇥	𥷹
 (女,SmWu,dòu,CJK-B)	𡟳
 (女丿㠯辶,SmCkUsLt,,CJK-B)	𡟴
 (女可可,SmZjZj,,CJK-B)	𡟵
-(女山丿扌,SmDsCkIe,,CJK-B)	𡟶
+(女山丿扌戈,SmDsCkIe,,CJK-B)	𡟶
 (女白大十,SmDyXiGl,,CJK-B)	𡟷
 (女厶羽,SmVyNdEh,,CJK-B)	𡟸
 (女至攵,SmCyRy,,CJK-B)	𡟹
@@ -283621,7 +283624,7 @@ zzzz⇥	𥷹
 (女丿龱一火,SmWiCkYv,,CJK-B)	𡤚
 (女車十田寸,SmJlGlLw,zhuǎn,CJK-B)	𡤛
 (士冖豆冫欠女,MfErEiSm,,CJK-B)	𡤜
-(女丿扌鳥,SmCkPcTl,,CJK-B)	𡤝
+(女丿扌戈鳥,SmCkPcTl,,CJK-B)	𡤝
 (女⿔,SmSi,kuī,CJK-B)	𡤞
 (女子石石石,SmYdQqQq,,CJK-B)	𡤟
 (女礻曲豆,SmDdRwEi,,CJK-B)	𡤠
@@ -283747,7 +283750,7 @@ zzzz⇥	𥷹
 (子而而,YdUaUa,,CJK-B)	𡦘
 (山山山宀子,DsDsDsYd,,CJK-B)	𡦙
 (子束,WnYdUh,,CJK-B)	𡦚
-(丿扌子,CkPcIeYd,shú,CJK-B)	𡦛
+(丿扌戈子,CkPcIeYd,shú,CJK-B)	𡦛
 (子立里,YdYqDn,tóng,CJK-B)	𡦜
 (⺆土口耂子,ZvBmIqYd,xiāo_xiáo,CJK-B)	𡦝
 (子歺又米,YdQmWiMg,,CJK-B)	𡦞
@@ -284467,7 +284470,7 @@ zzzz⇥	𥷹
 (丷尸古,VyMzQm,,CJK-B)	𡱨
 (扌丿七尸丶,PcCkLnOe,,CJK-B)	𡱩
 (尸忄支,MzNgBh,,CJK-B)	𡱪
-(尸丿扌,MzCkPcIe,,CJK-B)	𡱫
+(尸丿扌戈,MzCkPcIe,,CJK-B)	𡱫
 (尸毛子,MzOuYd,,CJK-B)	𡱬
 (尸毛干,MzOuLr,,CJK-B)	𡱭
 (尸丶田一,MzOeSlFh,,CJK-B)	𡱮
@@ -285077,7 +285080,7 @@ zzzz⇥	𥷹
 (山土厶皿,DsBmNdBk,,CJK-B)	𡻊
 (山,DsFv,,CJK-B)	𡻋
 (山山辰,DsDsQn,zhū,CJK-B)	𡻌
-(山山丿扌,DsDsCkIe,,CJK-B)	𡻍
+(山山丿扌戈,DsDsCkIe,,CJK-B)	𡻍
 (山隹乃,DsVhVi,xī,CJK-B)	𡻎
 (山人人十厶儿,DsSiSiAh,,CJK-B)	𡻏
 (山八厶羽,DsVyNdEh,wēng,CJK-B)	𡻐
@@ -285229,7 +285232,7 @@ zzzz⇥	𥷹
 (山羽隹,DsEhVh,dí,CJK-B)	𡽢
 (山厂日⺼犬,DsOyJeLe,yè,CJK-B)	𡽣
 (山火火夕㐄,DsYvYvGj,,CJK-B)	𡽤
-(山人人土丿扌,DsSiSiIe,,CJK-B)	𡽥
+(山人人土丿扌戈,DsSiSiIe,,CJK-B)	𡽥
 (山广羽人彡,DsGpEhBl,,CJK-B)	𡽦
 (山厂土土土一儿,DsOyBmAh,náo,CJK-B)	𡽧
 (山耳又丿,DsQgWiHg,,CJK-B)	𡽨
@@ -286455,9 +286458,9 @@ zzzz⇥	𥷹
 (弓言弓,OdMdMeOd,,CJK-B)	𢐬
 (宀王王弓弓,ErGiGiOd,,CJK-B)	𢐭
 (弓米田弓,OdMgSlOd,,CJK-B)	𢐮
-(⺷丿扌弓,IdCkPcOd,,CJK-B)	𢐯
+(⺷丿扌戈弓,IdCkPcOd,,CJK-B)	𢐯
 (弓而,OdTfUa,,CJK-B)	𢐰
-(⺷丿扌弓,IdCkPcOd,,CJK-B)	𢐱
+(⺷丿扌戈弓,IdCkPcOd,,CJK-B)	𢐱
 (弓丿米田弓,OdCkMgOd,fán,CJK-B)	𢐲
 (弓⺿巾乂乂乂乂,OdWhUwOs,biē,CJK-B)	𢐳
 (弓人人丨人人丨人人丨,OdSiSiKs,,CJK-B)	𢐴
@@ -287626,7 +287629,7 @@ zzzz⇥	𥷹
 ({彀字框无一}一子心,VsFhYdNg,,CJK-B)	𢢿
 (忄石日一寸,NgQqJeLw,,CJK-B)	𢣀
 (忄工貝心,NgNvIcNg,,CJK-B)	𢣁
-(忄⺷丿扌,NgIdCkIe,,CJK-B)	𢣂
+(忄⺷丿扌戈,NgIdCkIe,,CJK-B)	𢣂
 (忄石亠人人十,NgQqUeGl,,CJK-B)	𢣃
 (忄冎口辶,NgFvIqLt,,CJK-B)	𢣄
 (忄艹氵各,NgWhHgQy,,CJK-B)	𢣅
@@ -287930,7 +287933,7 @@ zzzz⇥	𥷹
 (戊丗心,UcFhNg,,CJK-B)	𢧯
 (冖車㇗戈,ErJlPvIe,guó,CJK-B)	𢧰
 (又又又木戈,WiWiWiIe,jiāo,CJK-B)	𢧱
-(丿扌止匕二,CkPcIeRl,,CJK-B)	𢧲
+(丿扌戈止匕二,CkPcIeRl,,CJK-B)	𢧲
 (广肀用戈,GpUaQlIe,yōng,CJK-B)	𢧳
 (士方攵戈,MfMxRyIe,áo,CJK-B)	𢧴
 (小隹戈,OtVhIe,,CJK-B)	𢧵
@@ -289949,7 +289952,7 @@ zzzz⇥	𥷹
 (日口丿土,JeIqCkBm,,CJK-B)	𣇒
 (目,GyNbNb,,CJK-B)	𣇓
 (日夂丰,JeJtZh,,CJK-B)	𣇔
-(日丿扌,JeCkPcIe,,CJK-B)	𣇕
+(日丿扌戈,JeCkPcIe,,CJK-B)	𣇕
 (日工日,JeNvJe,diǎn,CJK-B)	𣇖
 (日厂彐又,JeOySiWi,shēn,CJK-B)	𣇗
 (禾刂日,ZpKgJe,,CJK-B)	𣇘
@@ -291493,7 +291496,7 @@ zzzz⇥	𥷹
 (木厂䒑,AjYqOyYv,,CJK-B)	𣟚
 (木廿口匕灬,AjXkIqYv,,CJK-B)	𣟛
 (木木广丶寸,AjAjGpLw,,CJK-B)	𣟜
-(木卝罒丿扌,AjWhYtIe,,CJK-B)	𣟝
+(木卝罒丿扌戈,AjWhYtIe,,CJK-B)	𣟝
 (木⺿旡旡日,AjWhUeJe,,CJK-B)	𣟞
 (木艹日大目,AjWhJeGy,,CJK-B)	𣟟
 (木目㇗小丿糸,AjGyPvHt,,CJK-B)	𣟠
@@ -293557,7 +293560,7 @@ zzzz⇥	𥷹
 (氵䒑自辶,HgVyCjLt,,CJK-B)	𣿪
 (氵又又又冖且,HgWiWiRh,,CJK-B)	𣿫
 (氵匚氵隹,HgEhHgVh,,CJK-B)	𣿬
-(氵⺷丿扌,HgIdCkIe,,CJK-B)	𣿭
+(氵⺷丿扌戈,HgIdCkIe,,CJK-B)	𣿭
 (氵⺿癶一大,HgWhVyXi,,CJK-B)	𣿮
 (氵⺿冖支,HgWhSiBh,,CJK-B)	𣿯
 (氵⺊冖目,HgDhErGy,,CJK-B)	𣿰
@@ -293867,7 +293870,7 @@ zzzz⇥	𥷹
 (氵艹宀一貝,HgWhErIc,,CJK-B)	𤄠
 (氵門⺈黾,HgAcRlAy,,CJK-B)	𤄡
 (氵罒土羊辶,HgYtBmLt,,CJK-B)	𤄢
-(氵魚丿扌,HgXlCkIe,,CJK-B)	𤄣
+(氵魚丿扌戈,HgXlCkIe,,CJK-B)	𤄣
 (氵丿米田龷八,HgCkMgVy,,CJK-B)	𤄤
 (水曰日幺幺灬,HgRlJeYv,tà,CJK-B)	𤄥
 (氵虍口田心,HgQbIqNg,,CJK-B)	𤄦
@@ -295123,7 +295126,7 @@ zzzz⇥	𥷹
 (牙臼,YbWi,,CJK-B)	𤘈
 (牙囗一,YbUdVyFh,,CJK-B)	𤘉
 (牙八刀阝,YbVyKgTj,yí,CJK-B)	𤘊
-(牙丿扌,YbCkPcIe,,CJK-B)	𤘋
+(牙丿扌戈,YbCkPcIe,,CJK-B)	𤘋
 (牙大可,YbXiZj,qī,CJK-B)	𤘌
 (牙臼,YbWi,,CJK-B)	𤘍
 (牙㠯,YbGjUs,,CJK-B)	𤘎
@@ -296258,7 +296261,7 @@ zzzz⇥	𥷹
 (王宀一目,GiErFhGy,,CJK-B)	𤩷
 (王⺿癶一大,GiWhVyXi,,CJK-B)	𤩸
 (辟王,RkGi,,CJK-B)	𤩹
-(王丶⺷丿扌,GiOeIdIe,,CJK-B)	𤩺
+(王丶⺷丿扌戈,GiOeIdIe,,CJK-B)	𤩺
 (王广𠂉辶,GiGpLdLt,,CJK-B)	𤩻
 (王𠂇工⺼辶,GiGlNvLt,,CJK-B)	𤩼
 (王十冂犬,GiGlZvLe,huán,CJK-B)	𤩽
@@ -296627,7 +296630,7 @@ zzzz⇥	𥷹
 (生王廾,DhGiWh,,CJK-B)	𤯨
 (王廾生,GiWhDh,,CJK-B)	𤯩
 (生禾乃,DhZpVi,,CJK-B)	𤯪
-(生丿扌,DhCkPcIe,,CJK-B)	𤯫
+(生丿扌戈,DhCkPcIe,,CJK-B)	𤯫
 (生囗八口,DhUdVyIq,,CJK-B)	𤯬
 (䒑业生,VyOqDh,,CJK-B)	𤯭
 (生虎,DhQb,,CJK-B)	𤯮
@@ -298407,7 +298410,7 @@ zzzz⇥	𥷹
 (目穴丿之,MzGyZiDo,zōu,CJK-B)	𥋜
 (目黾,GyAy,měng,CJK-B)	𥋝
 (目⻗亽龴,GyTfTuNd,,CJK-B)	𥋞
-(目⺷丿扌,GyIdCkIe,xī,CJK-B)	𥋟
+(目⺷丿扌戈,GyIdCkIe,xī,CJK-B)	𥋟
 (目覀示刂,GyQpDdKg,,CJK-B)	𥋠
 (目目冖弓弓,GyGyErOd,táng,CJK-B)	𥋡
 (目大目目,GyXiGyGy,,CJK-B)	𥋢
@@ -300418,7 +300421,7 @@ zzzz⇥	𥷹
 (弓米弓立,OdMgOdYq,,CJK-B)	𥪷
 (立⺮土寸,YqZiBmLw,,CJK-B)	𥪸
 (立阝𠂇工⺝,YqTjGlMd,,CJK-B)	𥪹
-(立⺷丿扌,YqIdCkIe,,CJK-B)	𥪺
+(立⺷丿扌戈,YqIdCkIe,,CJK-B)	𥪺
 (耳尢彡立,QgGhBlYq,lóng,CJK-B)	𥪻
 (可可,YqZjYqZj,jǐ,CJK-B)	𥪼
 (立廿一里,YqXkFhDn,,CJK-B)	𥪽
@@ -300427,7 +300430,7 @@ zzzz⇥	𥷹
 (立鬲,YqPw,,CJK-B)	𥫀
 (立亼囗⺌日,YqTuUdJe,,CJK-B)	𥫁
 (勹日立里,SnJeYqDn,tóng,CJK-B)	𥫂
-(立⺷丿扌,YqIdCkIe,yí,CJK-B)	𥫃
+(立⺷丿扌戈,YqIdCkIe,yí,CJK-B)	𥫃
 (立⺝己衣,YqMdJcOr,,CJK-B)	𥫄
 (糹日曰立,HtJeRlYq,chāng,CJK-B)	𥫅
 (立冂米龷八,YqZvMgVy,,CJK-B)	𥫆
@@ -302761,7 +302764,7 @@ zzzz⇥	𥷹
 (亡口月羊,XcIqMdId,,CJK-B)	𦏞
 (⺷士乛工一口寸,IdMfPvLw,,CJK-B)	𦏟
 (⺷灬⺷火,IdYvIdYv,,CJK-B)	𦏠
-(⺷丿扌一ㄅ,IdCkPcPv,,CJK-B)	𦏡
+(⺷丿扌戈一ㄅ,IdCkPcPv,,CJK-B)	𦏡
 (⺶士罒貝,IdMfYtIc,mài,CJK-B)	𦏢
 (⺶⺮戊一口,IdZiUcIq,,CJK-B)	𦏣
 (⺶可可可,IdZjZjZj,zhī,CJK-B)	𦏤
@@ -303923,7 +303926,7 @@ zzzz⇥	𥷹
 (木木⺼皮,AjAjMdEm,sàn,CJK-B)	𦡨
 (月木人氺卩,MdAjSiWj,,CJK-B)	𦡩
 (月豆,MdVyEi,tēng,CJK-B)	𦡪
-(月⺷丿扌,MdIdCkIe,yí,CJK-B)	𦡫
+(月⺷丿扌戈,MdIdCkIe,yí,CJK-B)	𦡫
 (月人亠㐅凵禸,MdSiUeFj,,CJK-B)	𦡬
 (一ㄅ丨冖冂人人,WiFhPvSi,yù,CJK-B)	𦡭
 (月䒑业日,MdVyOqJe,,CJK-B)	𦡮
@@ -304398,7 +304401,7 @@ zzzz⇥	𥷹
 (舟丷口儿,LkVyIqAh,,CJK-B)	𦩃
 (舟乚土土,LkPvBmBm,tiāo,CJK-B)	𦩄
 (舟日干,LkJeLr,,CJK-B)	𦩅
-(舟丿扌,LkCkPcIe,,CJK-B)	𦩆
+(舟丿扌戈,LkCkPcIe,,CJK-B)	𦩆
 (舟厶小又,LkNdOtWi,,CJK-B)	𦩇
 (舟厶矢,LkNdEu,zhōu,CJK-B)	𦩈
 (厶矢舟,NdEuLk,,CJK-B)	𦩉
@@ -305261,7 +305264,7 @@ zzzz⇥	𥷹
 (⺿舟亠几,WhLkUePs,,CJK-B)	𦶢
 (⺿歹刂灬,WhQmKgYv,,CJK-B)	𦶣
 (⺿阝宀二儿,WhTjErAh,,CJK-B)	𦶤
-(⺿女丿扌,WhSmCkIe,,CJK-B)	𦶥
+(⺿女丿扌戈,WhSmCkIe,,CJK-B)	𦶥
 (⺿女𠃌阝,WhSmPvTj,,CJK-B)	𦶦
 (⺿六衣,WhCaOr,,CJK-B)	𦶧
 (⺿穴入夕,WhZiXjXu,,CJK-B)	𦶨
@@ -305754,7 +305757,7 @@ zzzz⇥	𥷹
 (艹艹甲,WhPcWhSt,xiá,CJK-B)	𦾏
 (⺿臣人皿,WhDzSiBk,,CJK-B)	𦾐
 (艹覀示刂,WhQpDdKg,biāo,CJK-B)	𦾑
-(⺿罒一丿扌,WhYtFhIe,,CJK-B)	𦾒
+(⺿罒一丿扌戈,WhYtFhIe,,CJK-B)	𦾒
 (艹亻人人人人二ㄅ,WhKjSiPv,,CJK-B)	𦾓
 (⺿隹丨日,WhVhKsJe,,CJK-B)	𦾔
 (艹月一口田,WhMdFhSl,pò,CJK-B)	𦾕
@@ -307030,7 +307033,7 @@ zzzz⇥	𥷹
 (虫〢見,JwKgZiSc,,CJK-B)	𧒋
 (虫⻊各,JwUzQy,,CJK-B)	𧒌
 (⻊各虫,UzQyJw,,CJK-B)	𧒍
-(丿扌虫虫,CkPcIeJw,é,CJK-B)	𧒎
+(丿扌戈虫虫,CkPcIeJw,é,CJK-B)	𧒎
 (辰虫虫,QnJwJw,,CJK-B)	𧒏
 (虫广大人人土,JwGpXiBm,yē,CJK-B)	𧒐
 (虫鼠,JwQk,shǔ,CJK-B)	𧒑
@@ -307262,7 +307265,7 @@ zzzz⇥	𥷹
 (虫{赢框}羊,JwOrId,,CJK-B)	𧕳
 (廿口夫隹虫,XkIqSvJw,nán,CJK-B)	𧕴
 (黾虫虫,AyJwJw,mì,CJK-B)	𧕵
-(⺷丿扌虫虫,IdCkPcJw,,CJK-B)	𧕶
+(⺷丿扌戈虫虫,IdCkPcJw,,CJK-B)	𧕶
 (⺿㇏日虫虫,WhZhOeJw,,CJK-B)	𧕷
 (馬白王虫,GbDyGiJw,huáng,CJK-B)	𧕸
 (戈㇏日虫虫,IeZhOeJw,,CJK-B)	𧕹
@@ -307532,7 +307535,7 @@ zzzz⇥	𥷹
 (衤宀二儿,OrErRlAh,huàn,CJK-B)	𧚁
 (衤王廾,OrGiWh,lòng,CJK-B)	𧚂
 (衤丿糸,OrCkHt,xì,CJK-B)	𧚃
-(衤丿扌,OrCkPcIe,é,CJK-B)	𧚄
+(衤丿扌戈,OrCkPcIe,é,CJK-B)	𧚄
 (衤丶艮,OrOeTp,lǎng,CJK-B)	𧚅
 (衤十冖子,OrGlErYd,fèi,CJK-B)	𧚆
 (衤儿,OrZhAh,wǎn_wèn,CJK-B)	𧚇
@@ -308608,14 +308611,14 @@ zzzz⇥	𥷹
 (鬼言,ByMe,,CJK-B)	𧪵
 (言忄十冖子,MeNgGlYd,,CJK-B)	𧪶
 (甘言斤,MzMeOz,,CJK-B)	𧪷
-(言井王冂,MeBzGiZv,,CJK-B)	𧪸
+(言廿一冂土,MeXkFhBm,,CJK-B)	𧪸
 (言宀辛,MeErJt,xià,CJK-B)	𧪹
 (言亼〣井,MeTuJvBz,,CJK-B)	𧪺
 (言立立,MeYqYq,,CJK-B)	𧪻
 (言口貝,MeIqIc,,CJK-B)	𧪼
 (言一业日,MeFhOqJe,,CJK-B)	𧪽
 (言子丿糸,MeYdCkHt,,CJK-B)	𧪾
-(言井王冂,MeBzGiZv,,CJK-B)	𧪿
+(言井龶冂,MeBzZhZv,,CJK-B)	𧪿
 (言六人𧘇,MeCaSiOr,,CJK-B)	𧫀
 (言土口𧘇,MeBmIqOr,,CJK-B)	𧫁
 (言車子,MeJlYd,,CJK-B)	𧫂
@@ -308766,7 +308769,7 @@ zzzz⇥	𥷹
 (言火火冖火,MeYvYvYv,yíng,CJK-B)	𧭓
 (舟羽入言,LkEhXjMe,téng,CJK-B)	𧭔
 (言爫一ㄅ𠂉巾巾,MeToFhUw,guó,CJK-B)	𧭕
-(言⺷丿扌,MeIdCkIe,,CJK-B)	𧭖
+(言⺷丿扌戈,MeIdCkIe,,CJK-B)	𧭖
 (言臣皿,MeDzZiBk,,CJK-B)	𧭗
 (言立立日,MeYqYqJe,,CJK-B)	𧭘
 (言冖一豕,MeYvErKt,,CJK-B)	𧭙
@@ -309341,7 +309344,7 @@ zzzz⇥	𥷹
 (口弋貝,IqNdIc,,CJK-B)	𧶒
 (丿大工貝,CkXiNvIc,,CJK-B)	𧶓
 (貝口王,IcIqGi,chéng,CJK-B)	𧶔
-(貝丿扌,IcCkPcIe,wǒ,CJK-B)	𧶕
+(貝丿扌戈,IcCkPcIe,wǒ,CJK-B)	𧶕
 (貝㐅𠂇巾,IcOsGlUw,xī,CJK-B)	𧶖
 (貝亼乛口,IcTuPvIq,,CJK-B)	𧶗
 (大人人貝,XiSiSiIc,,CJK-B)	𧶘
@@ -309481,7 +309484,7 @@ zzzz⇥	𥷹
 (屮凵方攵貝,IaZvMxIc,,CJK-B)	𧸞
 (屮凵方攵貝,IaZvMxIc,,CJK-B)	𧸟
 (文戈心丿貝,WmIeNgIc,,CJK-B)	𧸠
-(貝⺷丿扌,IcIdCkIe,,CJK-B)	𧸡
+(貝⺷丿扌戈,IcIdCkIe,,CJK-B)	𧸡
 (貝业䒑未,IcOqVyJx,,CJK-B)	𧸢
 (貝小丿日⽱,IcOtCkFj,,CJK-B)	𧸣
 (貝亼囗⺌日,IcTuUdJe,,CJK-B)	𧸤
@@ -310055,7 +310058,7 @@ zzzz⇥	𥷹
 (⻊扌夫,UzPcSv,,CJK-B)	𨁜
 (⻊十冖子,UzGlErYd,,CJK-B)	𨁝
 (⻊目,UzGyHs,,CJK-B)	𨁞
-(⻊丿扌,UzCkPcIe,wǒ,CJK-B)	𨁟
+(⻊丿扌戈,UzCkPcIe,wǒ,CJK-B)	𨁟
 (⻊丿廾土,UzCkWhBm,shēng,CJK-B)	𨁠
 (⻊爫女,UzToSm,tuǒ,CJK-B)	𨁡
 (丿米足,CkMgUz,,CJK-B)	𨁢
@@ -310355,7 +310358,7 @@ zzzz⇥	𥷹
 (⻊罒一口𧘇,UzYtFhOr,juàn,CJK-B)	𨆈
 (⻊田,UzXySl,táng,CJK-B)	𨆉
 (壴支足,HsBhUz,bèng,CJK-B)	𨆊
-(⻊⺷丿扌,UzIdCkIe,,CJK-B)	𨆋
+(⻊⺷丿扌戈,UzIdCkIe,,CJK-B)	𨆋
 (⻊火頁,UzYvWv,fán,CJK-B)	𨆌
 (⻊⺿日勹亾,UzWhJeXc,liè,CJK-B)	𨆍
 (⻊貝戈𠂇,UzIcIeGl,zéi,CJK-B)	𨆎
@@ -310552,7 +310555,7 @@ zzzz⇥	𥷹
 (身白八,LcDyVy,,CJK-B)	𨉍
 (身辰,LcQn,,CJK-B)	𨉎
 (身儿,LcZhAh,,CJK-B)	𨉏
-(身丿扌,LcCkPcIe,,CJK-B)	𨉐
+(身丿扌戈,LcCkPcIe,,CJK-B)	𨉐
 (身口王,LcIqGi,,CJK-B)	𨉑
 (身巛火,LcJvYv,,CJK-B)	𨉒
 (身亼冂人,LcTuZvSi,,CJK-B)	𨉓
@@ -312230,7 +312233,7 @@ zzzz⇥	𥷹
 (酉甘,TiXyMz,cháng,CJK-B)	𨣛
 (酉木冂貝,TiAjZvIc,,CJK-B)	𨣜
 (酉戊一口心,TiUcFhNg,gǎn_jiǎn,CJK-B)	𨣝
-(酉⺷丿扌,TiIdCkIe,,CJK-B)	𨣞
+(酉⺷丿扌戈,TiIdCkIe,,CJK-B)	𨣞
 (酉{微框}几,TiYaPs,,CJK-B)	𨣟
 (酉罒大,TiYtXiId,yì,CJK-B)	𨣠
 (丷酉宀亻一白,VyTiErDy,,CJK-B)	𨣡
@@ -314005,7 +314008,7 @@ zzzz⇥	𥷹
 (龴ヿ土隹,NdPvBmVh,,CJK-B)	𨿊
 (一巛工隹,FhJvNvVh,,CJK-B)	𨿋
 (甫隹,GnVh,,CJK-B)	𨿌
-(丿扌隹,CkPcIeVh,,CJK-B)	𨿍
+(丿扌戈隹,CkPcIeVh,,CJK-B)	𨿍
 (貝隹,IcVh,,CJK-B)	𨿎
 (工人人隹,NvSiSiVh,wú,CJK-B)	𨿏
 (爫寸隹,ToLwVh,cuǐ,CJK-B)	𨿐
@@ -315256,7 +315259,7 @@ zzzz⇥	𥷹
 (一女頁,VyFhSmWv,,CJK-B)	𩒭
 (一氺丶頁,FhHgOeWv,qiú,CJK-B)	𩒮
 (广亼乛頁,GpTuPvWv,,CJK-B)	𩒯
-(丿扌頁,CkPcIeWv,ě,CJK-B)	𩒰
+(丿扌戈頁,CkPcIeWv,ě,CJK-B)	𩒰
 (囗木頁,UdAjWv,,CJK-B)	𩒱
 (氏口頁,QuIqWv,,CJK-B)	𩒲
 (曰巛頁,RlJvWv,huì,CJK-B)	𩒳
@@ -316331,12 +316334,12 @@ zzzz⇥	𥷹
 (氵小丿馬,HgOtCkGb,,CJK-B)	𩣠
 (馬十冖子,GbGlErYd,bó,CJK-B)	𩣡
 (馬丿,GbCkLw,,CJK-B)	𩣢
-(丿扌馬,CkPcIeGb,é_ě,CJK-B)	𩣣
+(丿扌戈馬,CkPcIeGb,é_ě,CJK-B)	𩣣
 (馬彡冖几,GbBlErPs,,CJK-B)	𩣤
 (馬谷,GbPu,,CJK-B)	𩣥
 (馬儿,GbZhAh,,CJK-B)	𩣦
 (馬爫女,GbToSm,,CJK-B)	𩣧
-(丿扌馬,CkPcIeGb,,CJK-B)	𩣨
+(丿扌戈馬,CkPcIeGb,,CJK-B)	𩣨
 (馬扌斤,GbPcOz,zhé,CJK-B)	𩣩
 (馬一巛工,GbFhJvNv,,CJK-B)	𩣪
 (馬禾刂,GbZpKg,lì,CJK-B)	𩣫
@@ -316965,7 +316968,7 @@ zzzz⇥	𥷹
 (髟口木,BeIqAj,,CJK-B)	𩭚
 (髟⺈用,BeRlQl,,CJK-B)	𩭛
 (髟口欠,BeIqFy,,CJK-B)	𩭜
-(髟丿扌,BeCkPcIe,wǒ,CJK-B)	𩭝
+(髟丿扌戈,BeCkPcIe,wǒ,CJK-B)	𩭝
 (髟氺,BeSiHg,,CJK-B)	𩭞
 (髟⺊日十,BeDhJeGl,dào,CJK-B)	𩭟
 (髟户⺝,BeFkMd,,CJK-B)	𩭠
@@ -317614,7 +317617,7 @@ zzzz⇥	𥷹
 (魚口丿土,XlIqCkBm,,CJK-B)	𩷣
 (魚口刀刂,XlIqKgKg,,CJK-B)	𩷤
 (魚日寸,XlJeLw,,CJK-B)	𩷥
-(魚丿扌,XlCkPcIe,,CJK-B)	𩷦
+(魚丿扌戈,XlCkPcIe,,CJK-B)	𩷦
 (魚土,XlBmYv,chì,CJK-B)	𩷧
 (魚耂子,XlRiYd,,CJK-B)	𩷨
 (魚辰,XlQn,,CJK-B)	𩷩
@@ -319704,7 +319707,7 @@ zzzz⇥	𥷹
 (齒冂一口,YbZvFhIq,,CJK-B)	𪘍
 (齒言,YbMe,yín_niè,CJK-B)	𪘎
 (⻊齒,UzYb,,CJK-B)	𪘏
-(齒丿扌,YbCkPcIe,è,CJK-B)	𪘐
+(齒丿扌戈,YbCkPcIe,è,CJK-B)	𪘐
 (齒厶八夂,YbNdVyJt,suān,CJK-B)	𪘑
 (齒亼乛口,YbTuPvIq,ān,CJK-B)	𪘒
 (亻𠂇工齒,KjGlNvYb,cuó,CJK-B)	𪘓
@@ -319804,7 +319807,7 @@ zzzz⇥	𥷹
 (广禾禾齒,GpZpZpYb,,CJK-B)	𪙱
 (豕艮齒,KtTpYb,,CJK-B)	𪙲
 (齒罒十目一,YbYtGlFh,zū,CJK-B)	𪙳
-(齒⺷丿扌,YbIdCkIe,yǐ,CJK-B)	𪙴
+(齒⺷丿扌戈,YbIdCkIe,yǐ,CJK-B)	𪙴
 (齒亠囗口日一,YbUeUdFh,,CJK-B)	𪙵
 (日勹舌齒,JeSnBlYb,,CJK-B)	𪙶
 (齒巛,YbJvQk,,CJK-B)	𪙷
@@ -320577,7 +320580,7 @@ zzzz⇥	𥷹
 (女冖木,SmYqErAj,,CJK-C)	𪦖
 (女女页,SmSmKw,,CJK-C)	𪦗
 (女耂一ㄅ禾,SmRiFhZp,,CJK-C)	𪦘
-(女艹丿扌,SmWhCkIe,,CJK-C)	𪦙
+(女艹丿扌戈,SmWhCkIe,,CJK-C)	𪦙
 (女貝攵,SmIcRy,,CJK-C)	𪦚
 (女一大穴人,SmFhXiSi,,CJK-C)	𪦛
 (女氵耂日,SmHgRiJe,,CJK-C)	𪦜
@@ -321023,7 +321026,7 @@ zzzz⇥	𥷹
 (页戈戈,KwIeIe,,CJK-C)	𪭔
 (氵㇗戈,HgMzVyIe,,CJK-C)	𪭕
 (毌貝戈,SfIcIe,,CJK-C)	𪭖
-(言糹糹丿扌,MeHtHtIe,,CJK-C)	𪭗
+(言糹糹丿扌戈,MeHtHtIe,,CJK-C)	𪭗
 (户匚コ,FkEhEh,,CJK-C)	𪭘
 (户冂人口,FkZvSiIq,,CJK-C)	𪭙
 (户〢,FkKgPcPc,,CJK-C)	𪭚
@@ -321292,7 +321295,7 @@ zzzz⇥	𥷹
 (月人示,MdSiDd,,CJK-C)	𪱡
 (月乍刂,MdElKg,,CJK-C)	𪱢
 (月冂䒑亡,MdZvVyXc,,CJK-C)	𪱣
-(𠂇⺝丿扌,GlMdCkIe,,CJK-C)	𪱤
+(𠂇⺝丿扌戈,GlMdCkIe,,CJK-C)	𪱤
 (月十艹贝,MdGlWhDj,,CJK-C)	𪱥
 (月白王,MdDyGi,,CJK-C)	𪱦
 (月几,MdWnPs,,CJK-C)	𪱧
@@ -321344,7 +321347,7 @@ zzzz⇥	𥷹
 (木冂亽龴,AjZvTuNd,,CJK-C)	𪲕
 (束木,UhAj,,CJK-C)	𪲖
 (木囗火,AjUdYv,,CJK-C)	𪲗
-(木丿扌,AjCkPcIe,,CJK-C)	𪲘
+(木丿扌戈,AjCkPcIe,,CJK-C)	𪲘
 (木丿廾土,AjCkWhBm,,CJK-C)	𪲙
 (木氵月,AjHgMd,,CJK-C)	𪲚
 (木米乛,AjMgPv,,CJK-C)	𪲛
@@ -322671,7 +322674,7 @@ zzzz⇥	𥷹
 (⺝十口冖吅井一𧘇,PdMdGlOr,,CJK-C)	𫇄
 (臣勹,DzSnBl,,CJK-C)	𫇅
 (臣臣,DzDz,,CJK-C)	𫇆
-(臣丿扌,DzCkPcIe,,CJK-C)	𫇇
+(臣丿扌戈,DzCkPcIe,,CJK-C)	𫇇
 (臣亠人人十,DzUeSiGl,,CJK-C)	𫇈
 (臣人匚虎,DzSiEhQb,,CJK-C)	𫇉
 (自宀子,CjErYd,,CJK-C)	𫇊
@@ -323452,7 +323455,7 @@ zzzz⇥	𥷹
 (金⺿勹丶心,TkWhSnNg,,CJK-C)	𫓑
 (金曲辰,TkRwQn,,CJK-C)	𫓒
 (冖攵金,ErWiRyTk,,CJK-C)	𫓓
-(金⺷丿扌,TkIdCkIe,,CJK-C)	𫓔
+(金⺷丿扌戈,TkIdCkIe,,CJK-C)	𫓔
 (金日皿,TkWnJeBk,,CJK-C)	𫓕
 (壴皮金,HsEmTk,,CJK-C)	𫓖
 (金虍土,TkQbBmId,,CJK-C)	𫓗
@@ -324304,7 +324307,7 @@ zzzz⇥	𥷹
 (不不,CiCi,,CJK-E)	𫠭
 (至一卜,CyFhDh,,CJK-E)	𫠮
 (王廾一卜,GiWhFhDh,,CJK-E)	𫠯
-(一卜丿扌,FhDhCkIe,,CJK-E)	𫠰
+(一卜丿扌戈,FhDhCkIe,,CJK-E)	𫠰
 ({凬字心}一止,TeFhLd,,CJK-E)	𫠱
 (不曲,CiRw,,CJK-E)	𫠲
 (一卜侖,FhDhSy,,CJK-E)	𫠳
@@ -324782,7 +324785,7 @@ zzzz⇥	𥷹
 (厂尚,OyXy,,CJK-E)	𫨋
 (厂頁,OyWv,,CJK-E)	𫨌
 (厂田斤,OySlOz,,CJK-E)	𫨍
-(厂人丿扌,OySiCkIe,,CJK-E)	𫨎
+(厂人丿扌戈,OySiCkIe,,CJK-E)	𫨎
 (厂音,OyAr,,CJK-E)	𫨏
 (厂厶口火,OyNdIqYv,,CJK-E)	𫨐
 (厂馬,OyGb,,CJK-E)	𫨑
@@ -324907,7 +324910,7 @@ zzzz⇥	𥷹
 (口丿糸,IqCkHt,,CJK-E)	𫪈
 (口八口八,IqVyIqVy,,CJK-E)	𫪉
 (口口,IqOsIqOs,,CJK-E)	𫪊
-(丿扌口,CkPcIeIq,,CJK-E)	𫪋
+(丿扌戈口,CkPcIeIq,,CJK-E)	𫪋
 (口氵冖几,IqHgErPs,,CJK-E)	𫪌
 (口氵心,IqHgNg,,CJK-E)	𫪍
 (口忄人,IqNgEhSi,,CJK-E)	𫪎
@@ -325548,7 +325551,7 @@ zzzz⇥	𥷹
 (宀爫頁,ErToWv,,CJK-E)	𫴉
 (宀亻宀龶火,ErKjErYv,,CJK-E)	𫴊
 (宀竜一卜,ErJhFhDh,,CJK-E)	𫴋
-(宀⺷丿扌,ErIdCkIe,,CJK-E)	𫴌
+(宀⺷丿扌戈,ErIdCkIe,,CJK-E)	𫴌
 (宀火覀土,ErYvQpBm,,CJK-E)	𫴍
 (宀辟,ErRk,,CJK-E)	𫴎
 (宀乛水一見,ErPvHgSc,,CJK-E)	𫴏
@@ -325679,7 +325682,7 @@ zzzz⇥	𥷹
 (山卯田,DsFmSl,,CJK-E)	𫶌
 (山冖日六,DsErJeCa,,CJK-E)	𫶍
 (山宀谷,DsErPu,,CJK-E)	𫶎
-(山女丿扌,DsSmCkIe,,CJK-E)	𫶏
+(山女丿扌戈,DsSmCkIe,,CJK-E)	𫶏
 (山又又又木,DsWiWiAj,,CJK-E)	𫶐
 (山王貝,DsGiIc,,CJK-E)	𫶑
 (山氵木木,DsHgAjAj,,CJK-E)	𫶒
@@ -327096,7 +327099,7 @@ zzzz⇥	𥷹
 (片亻木一,NbKjAjFh,,CJK-E)	𬌕
 (艹白冫木片,WhDyLvNb,,CJK-E)	𬌖
 (牙亼口,YbTuIq,hé,CJK-E)	𬌗
-(牙山丿扌,YbDsCkIe,,CJK-E)	𬌘
+(牙山丿扌戈,YbDsCkIe,,CJK-E)	𬌘
 (牛八,LzVy,,CJK-E)	𬌙
 (牛大,LzXi,,CJK-E)	𬌚
 (〢又牛,KgWiLz,,CJK-E)	𬌛
@@ -327361,7 +327364,7 @@ zzzz⇥	𥷹
 (宀一𬺰皿,ErFhGlBk,,CJK-E)	𬐞
 (一𬺰皿八厶,FhGlBkNd,,CJK-E)	𬐟
 (木ㄋ皿,AjPvBlBk,,CJK-E)	𬐠
-(丿扌皿,CkPcIeBk,,CJK-E)	𬐡
+(丿扌戈皿,CkPcIeBk,,CJK-E)	𬐡
 (一肀女皿,FhUaSmBk,,CJK-E)	𬐢
 (大可皿,XiZjBk,,CJK-E)	𬐣
 (非皿,DmBk,,CJK-E)	𬐤
@@ -327564,7 +327567,7 @@ zzzz⇥	𥷹
 (禾巛夕,ZpJvXu,,CJK-E)	𬓩
 (禾刂人彡,ZpKgSiBl,,CJK-E)	𬓪
 (禾龟,ZpSi,,CJK-E)	𬓫
-(禾丿扌,ZpCkPcIe,,CJK-E)	𬓬
+(禾丿扌戈,ZpCkPcIe,,CJK-E)	𬓬
 (禾一人冂土,ZpFhSiBm,,CJK-E)	𬓭
 (禾尚,ZpXy,,CJK-E)	𬓮
 (禾冫欠力,ZpLvFyAu,,CJK-E)	𬓯
@@ -327654,7 +327657,7 @@ zzzz⇥	𥷹
 (⺮不口,ZiCiIq,,CJK-E)	𬕃
 (⺮一,ZiFhMdMd,,CJK-E)	𬕄
 (⺮亻立,ZiKjYq,,CJK-E)	𬕅
-(⺮丿扌,ZiCkPcIe,,CJK-E)	𬕆
+(⺮丿扌戈,ZiCkPcIe,,CJK-E)	𬕆
 (⺮勹目,ZiSnGy,,CJK-E)	𬕇
 (⺮人疋,ZiSiKf,,CJK-E)	𬕈
 (⺮册又,ZiJzWi,,CJK-E)	𬕉
@@ -327994,7 +327997,7 @@ zzzz⇥	𥷹
 (耳大二ㄅ,QgXiRlPv,,CJK-E)	𬚗
 (耳至,QgCy,,CJK-E)	𬚘
 (耳小大,QgOtXi,,CJK-E)	𬚙
-(耳丿扌,QgCkPcIe,,CJK-E)	𬚚
+(耳丿扌戈,QgCkPcIe,,CJK-E)	𬚚
 (耳䒑夫,QgVySv,,CJK-E)	𬚛
 (耳丷口儿,QgVyIqAh,,CJK-E)	𬚜
 (耳言,QgMe,,CJK-E)	𬚝
@@ -328030,7 +328033,7 @@ zzzz⇥	𥷹
 (月一大口,MdFhXiIq,,CJK-E)	𬚻
 (月王廾,MdGiWh,,CJK-E)	𬚼
 (冂八口月,ZvVyIqMd,,CJK-E)	𬚽
-(月丿扌,MdCkPcIe,,CJK-E)	𬚾
+(月丿扌戈,MdCkPcIe,,CJK-E)	𬚾
 (冂人人门木,ZvSiSiAj,,CJK-E)	𬚿
 (户⺝工,FkMdNv,,CJK-E)	𬛀
 (月𠃌阝,MdPvPcTj,,CJK-E)	𬛁
@@ -328994,7 +328997,7 @@ zzzz⇥	𥷹
 (止土阝,LdBmTj,,CJK-E)	𬩿
 (日女阝,JeSmTj,,CJK-E)	𬪀
 (卵口巴,TlIqEw,,CJK-E)	𬪁
-(丿扌阝,CkPcIeTj,,CJK-E)	𬪂
+(丿扌戈阝,CkPcIeTj,,CJK-E)	𬪂
 (爫寸阝,ToLwTj,,CJK-E)	𬪃
 (𠃌阝⺈亅,PvPcTjKs,,CJK-E)	𬪄
 (㇏阝,ZhOePcTj,,CJK-E)	𬪅
@@ -329869,7 +329872,7 @@ zzzz⇥	𥷹
 (鳥二臼,TlKgRlWi,,CJK-E)	𬷪
 (礻日丨鳥,DdJeKsTl,,CJK-E)	𬷫
 (宀豕鳥,ErKtTl,,CJK-E)	𬷬
-(女丿扌鳥,SmCkPcTl,,CJK-E)	𬷭
+(女丿扌戈鳥,SmCkPcTl,,CJK-E)	𬷭
 (土八土丸鳥,BmVyBmTl,,CJK-E)	𬷮
 (氵隹鳥,HgVhTl,,CJK-E)	𬷯
 (鳥巛田木,TlJvSlAj,,CJK-E)	𬷰
@@ -330108,7 +330111,7 @@ zzzz⇥	𥷹
 (十口冖且,GlIqErRh,,CJK-F)	𬻧
 (犭虫一卜,LeJwFhDh,,CJK-F)	𬻨
 (木艮一卜,AjTpFhDh,,CJK-F)	𬻩
-(二止丿扌,RlLdCkIe,,CJK-F)	𬻪
+(二止丿扌戈,RlLdCkIe,,CJK-F)	𬻪
 (十口冖业,GlIqErOq,,CJK-F)	𬻫
 (虫,XyJw,,CJK-F)	𬻬
 (丿土厶廾,CkBmNdWh,,CJK-F)	𬻭
@@ -331684,7 +331687,7 @@ zzzz⇥	𥷹
 (宀爿⺧口,ErNbLzIq,,CJK-F)	𭔏
 (宀巛田木,ErJvSlAj,,CJK-F)	𭔐
 (宀匕兔,ErNbHsZh,,CJK-F)	𭔑
-(宀且丿扌,ErRhCkIe,,CJK-F)	𭔒
+(宀且丿扌戈,ErRhCkIe,,CJK-F)	𭔒
 (宀隹灬,ErVhYv,,CJK-F)	𭔓
 (宀衤衣,ErOrOr,,CJK-F)	𭔔
 (宀丷酉大,ErVyTiXi,,CJK-F)	𭔕
@@ -332920,7 +332923,7 @@ zzzz⇥	𥷹
 (一大一大火日,FhXiFhJe,,CJK-F)	𭧣
 (日大耂日,JeXiRiJe,,CJK-F)	𭧤
 (日十艹貝,JeGlWhIc,,CJK-F)	𭧥
-(日疋丿扌,JeKfCkIe,,CJK-F)	𭧦
+(日疋丿扌戈,JeKfCkIe,,CJK-F)	𭧦
 (日十甫寸,JeGlGnLw,,CJK-F)	𭧧
 (日尚攵,JeXyRy,,CJK-F)	𭧨
 (日艹亠人人十,JeWhUeGl,,CJK-F)	𭧩
@@ -333313,7 +333316,7 @@ zzzz⇥	𥷹
 (止石又土,LdQqWiBm,,CJK-F)	𭭬
 (止𠃌一口亽龴,LdPvFhNd,,CJK-F)	𭭭
 (一弋止户巾,FhNdLdUw,,CJK-F)	𭭮
-(一弋止丿扌,FhNdLdIe,,CJK-F)	𭭯
+(一弋止丿扌戈,FhNdLdIe,,CJK-F)	𭭯
 (止氵小丿攵,LdHgOtRy,,CJK-F)	𭭰
 (火火冖一止,YvYvErLd,,CJK-F)	𭭱
 (止石谷,LdQqPu,,CJK-F)	𭭲
@@ -334213,7 +334216,7 @@ zzzz⇥	𥷹
 (田人人宀且,SlSiSiRh,,CJK-F)	𭻰
 (田丿米田,SlCkMgSl,,CJK-F)	𭻱
 (田匕耳阝,SlHsHsTj,,CJK-F)	𭻲
-(田⺷丿扌,SlIdCkIe,,CJK-F)	𭻳
+(田⺷丿扌戈,SlIdCkIe,,CJK-F)	𭻳
 (一田灬田灬,FhSlYvYv,,CJK-F)	𭻴
 (田吅宀且,SlRuErRh,,CJK-F)	𭻵
 (田日龷八氺,SlJeXkHg,,CJK-F)	𭻶
@@ -337733,7 +337736,7 @@ zzzz⇥	𥷹
 (一止一止一止,FhLdFhLd,,CJK-I)	𮲿
 (殳攵,QiRy,,CJK-I)	𮳀
 (毛人王,OuSiGi,,CJK-I)	𮳁
-(毛丿扌,OuCkPcIe,,CJK-I)	𮳂
+(毛丿扌戈,OuCkPcIe,,CJK-I)	𮳂
 (氵丶乂,HgOeOs,,CJK-I)	𮳃
 (氵又又,HgWiWi,,CJK-I)	𮳄
 (氵一业,HgFhOq,,CJK-I)	𮳅
@@ -341583,7 +341586,7 @@ zzzz⇥	𥷹
 (讠豆,VxEi,,CJK-G)	𰵫
 (讠口力刂,VxIqAuKg,,CJK-G)	𰵬
 (讠禾刂,VxZpKg,,CJK-G)	𰵭
-(讠丿扌,VxCkPcIe,,CJK-G)	𰵮
+(讠丿扌戈,VxCkPcIe,,CJK-G)	𰵮
 (讠厶八夂,VxNdVyJt,,CJK-G)	𰵯
 (讠土,VxBmId,,CJK-G)	𰵰
 (讠木木,VxAjAj,,CJK-G)	𰵱
@@ -342584,7 +342587,7 @@ zzzz⇥	𥷹
 (马束,XhUh,,CJK-G)	𱅔
 (马未丷,XhJxVy,,CJK-G)	𱅕
 (马口⺝,XhIqMd,,CJK-G)	𱅖
-(马丿扌,XhCkPcIe,,CJK-G)	𱅗
+(马丿扌戈,XhCkPcIe,,CJK-G)	𱅗
 (马门木,XhBoAj,,CJK-G)	𱅘
 (马丷口儿,XhVyIqAh,,CJK-G)	𱅙
 (马人,XhSiVl,,CJK-G)	𱅚
@@ -343617,7 +343620,7 @@ zzzz⇥	𥷹
 (口禾禾,IqZpSiSi,,CJK-H)	𱕢
 (口言耂日,IqMeRiJe,,CJK-H)	𱕣
 (口阝僉,IqTjOr,,CJK-H)	𱕤
-(口馬丿扌,IqGbCkIe,,CJK-H)	𱕥
+(口馬丿扌戈,IqGbCkIe,,CJK-H)	𱕥
 (口革隹,IqGoVh,,CJK-H)	𱕦
 (口匚矢殳糸,IqEhEuHt,,CJK-H)	𱕧
 (口艹句攵手,IqWhTqPc,,CJK-H)	𱕨
@@ -344183,7 +344186,7 @@ zzzz⇥	𥷹
 (忄二八子,NgRlVyYd,,CJK-H)	𱞘
 (忄酉,NgTi,,CJK-H)	𱞙
 (忄丿糸,NgCkHt,,CJK-H)	𱞚
-(忄丿扌,NgCkPcIe,,CJK-H)	𱞛
+(忄丿扌戈,NgCkPcIe,,CJK-H)	𱞛
 (丿𡆪心,CkRwNg,,CJK-H)	𱞜
 (匚夫丷心,EhSvVyNg,,CJK-H)	𱞝
 (忄日卩,NgJeNgWj,,CJK-H)	𱞞
@@ -345434,7 +345437,7 @@ zzzz⇥	𥷹
 (白又丶,DyWiOe,,CJK-H)	𱱻
 (白冖方,DyYqErMx,,CJK-H)	𱱼
 (白丶月,DyOeTpMd,,CJK-H)	𱱽
-(白亻⺷丿扌,DyKjIdIe,,CJK-H)	𱱾
+(白亻⺷丿扌戈,DyKjIdIe,,CJK-H)	𱱾
 (皮卜,EmDh,,CJK-H)	𱱿
 (皮丷丨,EmVyKs,,CJK-H)	𱲀
 (皮冂大,EmZvXi,,CJK-H)	𱲁
@@ -346198,7 +346201,7 @@ zzzz⇥	𥷹
 (艹〢又皿,WhKgWiBk,,CJK-H)	𱽷
 (艹勹日子,WhSnJeYd,,CJK-H)	𱽸
 (艹彳八厶儿,WhJbVyAh,,CJK-H)	𱽹
-(艹亻丿扌,WhKjCkIe,,CJK-H)	𱽺
+(艹亻丿扌戈,WhKjCkIe,,CJK-H)	𱽺
 (艹爫田,WhToSl,,CJK-H)	𱽻
 (艹氵厂,WhHgYqOy,,CJK-H)	𱽼
 (艹氵⺧儿,WhHgLzAh,,CJK-H)	𱽽
@@ -346635,7 +346638,7 @@ zzzz⇥	𥷹
 (身止匕糸,LcLdHsHt,,CJK-H)	𲄬
 (身𠂇工⺝辶,LcGlNvLt,,CJK-H)	𲄭
 (身宀尸貝,LcErMzIc,,CJK-H)	𲄮
-(身⺷丿扌,LcIdCkIe,,CJK-H)	𲄯
+(身⺷丿扌戈,LcIdCkIe,,CJK-H)	𲄯
 (身⺮,LcZiMzVy,,CJK-H)	𲄰
 (身臣𠂉口吅,LcDzLdRu,,CJK-H)	𲄱
 (身黑,LcXyUc,,CJK-H)	𲄲
@@ -347103,7 +347106,7 @@ zzzz⇥	𥷹
 (馬糹夂゛,GbHtJtLv,,CJK-H)	𲌀
 (馬斤,GbMzVyOz,,CJK-H)	𲌁
 (馬厶厶厶人⺗,GbNdNdNg,,CJK-H)	𲌂
-(馬⺷丿扌,GbIdCkIe,,CJK-H)	𲌃
+(馬⺷丿扌戈,GbIdCkIe,,CJK-H)	𲌃
 (马卜,XhDh,,CJK-H)	𲌄
 (马亽龴,XhTuNd,,CJK-H)	𲌅
 (马古儿,XhQmAh,,CJK-H)	𲌆
