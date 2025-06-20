@@ -9607,7 +9607,7 @@
 田木夕夕,SlAjXuXu	夥
 ㇗夕夕,MzVyPvXu	夦
 大,Xi	大
-ㄥ大,PvXi	夨
+一ㄣ㇏,FhPvOe	夨
 一大,FhXi	天
 大丶,XiOe	太
 夫,Sv	夫
@@ -11206,7 +11206,7 @@
 ⺆亠彡,ZvUeBl	彤
 文厂彡,WmOyBl	彥
 厂彡,YqOyBl	彦
-戈口一彡,IeIqFhBl	彧
+戈口一,IeIqFhBl	彧
 一彡,FhMdMdBl	彨
 爫木彡,ToAjBl	彩
 虎彡,QbBl	彪
@@ -45342,7 +45342,7 @@
 火⺿羽隹,YvWhEhVh	𤒽
 火丿龱一火,YvWiCkYv	𤒾
 廿口土隹灬,XkIqBmYv	𤒿
-火龠,YvSy	𤓀
+火亼口吅,YvTuIqJz	𤓀
 火門爫臼,YvAcToWi	𤓁
 火⺿千黑,YvWhHcUc	𤓂
 火⺮門日,YvZiAcJe	𤓃

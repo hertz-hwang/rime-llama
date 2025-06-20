@@ -129103,6 +129103,7 @@ fpf	饲
 fpf	欤
 fpf	戽
 fpf	与
+fpo	夨
 fpo	骪
 fpr	攷
 fps	饥
@@ -138794,7 +138795,6 @@ pxd	捺
 pxg	捹
 pxg	搩
 pxi	攤
-pxi	夨
 pxi	擹
 pxj	掩
 pxj	扖
@@ -164546,8 +164546,9 @@ fpli⇥	𣂋
 fplv⇥	𭚒
 fpmd⇥	𩩣
 fpmr⇥	𦔞
-fpoe⇥	𤬨
 fpoe⇥	骪
+fpoe⇥	𤬨
+fpoe⇥	夨
 fpov⇥	𠀺
 fppa⇥	𠑸
 fpps⇥	𠘲
@@ -207773,7 +207774,6 @@ pxia⇥	𰔭
 pxic⇥	𭣁
 pxid⇥	𢹛
 pxif⇥	擹
-pxio⇥	夨
 pxio⇥	𢪂
 pxiq⇥	𭠬
 pxis⇥	𢴁
@@ -239057,7 +239057,6 @@ ysxv⇥	熼
 ysyd⇥	𫲨
 ysyk⇥	㷍
 ysyk⇥	𤐯
-ysyk⇥	𤓀
 ysyk⇥	𭓌
 ysyk⇥	爚
 ysys⇥	𰩫
@@ -239084,6 +239083,7 @@ ythr⇥	𬋃
 ytie⇥	熻
 ytif⇥	𨟽
 ytij⇥	𤍼
+ytij⇥	𤓀
 ytiq⇥	𬌗
 ytiq⇥	烚
 ytiq⇥	𥩻
@@ -249594,8 +249594,8 @@ zzzz⇥	𥷹
 (丶,Oe,,筆畫)	㇔
 (ヿ,Pv,,筆畫)	㇕
 (乛,Pv,,筆畫)	㇖
-(㇗,Pv,,筆畫)	㇗
 (㇗,Pv,yǐn,CJK-B)	㇗
+(㇗,Pv,,筆畫)	㇗
 (丨一,KsFh,,筆畫)	㇘
 (レ,Pv,,筆畫)	㇙
 (丨,Ks,,筆畫)	㇚
@@ -259063,7 +259063,7 @@ zzzz⇥	𥷹
 (田木夕夕,SlAjXuXu,huǒ,CJK)	夥
 (㇗夕夕,MzVyPvXu,chěn,CJK)	夦
 (大,Xi,dà_dài_tài,CJK)	大
-(ㄥ大,PvXi,zè,CJK)	夨
+(一ㄣ㇏,FhPvOe,zè,CJK)	夨
 (一大,FhXi,tiān,CJK)	天
 (大丶,XiOe,tài_tā,CJK)	太
 (夫,Sv,fū_fú,CJK)	夫
@@ -260662,7 +260662,7 @@ zzzz⇥	𥷹
 (⺆亠彡,ZvUeBl,tóng,CJK)	彤
 (文厂彡,WmOyBl,yàn,CJK)	彥
 (厂彡,YqOyBl,yàn_pán,CJK)	彦
-(戈口一彡,IeIqFhBl,yù,CJK)	彧
+(戈口一,IeIqFhBl,yù,CJK)	彧
 (一彡,FhMdMdBl,chī,CJK)	彨
 (爫木彡,ToAjBl,cǎi,CJK)	彩
 (虎彡,QbBl,biāo,CJK)	彪
@@ -294798,7 +294798,7 @@ zzzz⇥	𥷹
 (火⺿羽隹,YvWhEhVh,,CJK-B)	𤒽
 (火丿龱一火,YvWiCkYv,,CJK-B)	𤒾
 (廿口土隹灬,XkIqBmYv,,CJK-B)	𤒿
-(火龠,YvSy,,CJK-B)	𤓀
+(火亼口吅,YvTuIqJz,,CJK-B)	𤓀
 (火門爫臼,YvAcToWi,,CJK-B)	𤓁
 (火⺿千黑,YvWhHcUc,,CJK-B)	𤓂
 (火⺮門日,YvZiAcJe,,CJK-B)	𤓃

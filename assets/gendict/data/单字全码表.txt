@@ -17464,8 +17464,9 @@
 𭚒	fplv
 𩩣	fpmd
 𦔞	fpmr
-𤬨	fpoe
 骪	fpoe
+𤬨	fpoe
+夨	fpoe
 𠀺	fpov
 𠑸	fppa
 𠘲	fpps
@@ -60691,7 +60692,6 @@
 𭣁	pxic
 𢹛	pxid
 擹	pxif
-夨	pxio
 𢪂	pxio
 𭠬	pxiq
 𢴁	pxis
@@ -91975,7 +91975,6 @@
 𫲨	ysyd
 㷍	ysyk
 𤐯	ysyk
-𤓀	ysyk
 𭓌	ysyk
 爚	ysyk
 𰩫	ysys
@@ -92002,6 +92001,7 @@
 熻	ytie
 𨟽	ytif
 𤍼	ytij
+𤓀	ytij
 𬌗	ytiq
 烚	ytiq
 𥩻	ytiq

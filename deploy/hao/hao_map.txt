@@ -346,6 +346,7 @@ Pv	乁
 Pv	乚
 Pv	乛
 Pv	𠃌
+Pv	ㄣ
 Pw	鬲
 Qb	虎
 Qb	虍
