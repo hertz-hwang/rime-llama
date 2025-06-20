@@ -163211,7 +163211,9 @@ fbil⇥	𬇓
 fbkf⇥	𥁚
 fbkf⇥	𥁶
 fbkg⇥	𠞐
+fbld⇥	𰳭
 fblo⇥	𢆰
+fblo⇥	𲀜
 fblt⇥	𨑼
 fbmd⇥	䯚
 fbmf⇥	𡊎
@@ -163223,6 +163225,7 @@ fbnb⇥	𢩘
 fbnb⇥	𦔏
 fbnb⇥	馌
 fbnd⇥	㧁
+fbnd⇥	𲀡
 fbng⇥	𢙂
 fbnm⇥	𩩼
 fbnw⇥	𢖡
@@ -163631,6 +163634,7 @@ fgno⇥	䯙
 fgno⇥	𫗦
 fgns⇥	𩪏
 fgok⇥	𩩸
+fgpx⇥	𲀟
 fgry⇥	㪀
 fgry⇥	𢾥
 fgsh⇥	𲌑
@@ -163736,6 +163740,7 @@ fhsp⇥	𰚻
 fhtk⇥	㔿
 fhto⇥	䋀
 fhto⇥	𤔚
+fhto⇥	𰳪
 fhuc⇥	𩪱
 fhvl⇥	𲅴
 fhvw⇥	𱍗
@@ -163746,6 +163751,7 @@ fibk⇥	盏
 fibm⇥	㦱
 fibm⇥	𡉫
 fico⇥	𧶝
+fico⇥	𰳫
 fico⇥	𲂩
 fico⇥	貿
 fidg⇥	𠧅
@@ -163755,6 +163761,7 @@ fids⇥	𡵭
 fieo⇥	戋
 fieo⇥	𢦌
 fieo⇥	𫼉
+fieo⇥	𬠾
 fieo⇥	𭈰
 fiew⇥	扈
 fifa⇥	𱅮
@@ -164154,9 +164161,11 @@ flah⇥	𢔬
 flan⇥	𰀐
 flau⇥	饬
 flba⇥	𣦥
+flbi⇥	𰳯
 flbj⇥	𪤶
 flcj⇥	𣥵
 fldf⇥	𣥄
+fldf⇥	𬠿
 fldf⇥	正
 fldi⇥	𣦓
 fleo⇥	𤝀
@@ -164191,11 +164200,13 @@ flki⇥	𭭣
 flko⇥	𢩀
 flkw⇥	𲊺
 flkx⇥	𬆈
+flld⇥	𰳬
 fllr⇥	𩩄
 fllt⇥	𨒌
 fllt⇥	𬲸
 flmd⇥	𱅲
 flml⇥	𨕆
+flmx⇥	𰳮
 flng⇥	𢘫
 flng⇥	𢝐
 flny⇥	𱫆
@@ -164414,6 +164425,7 @@ fodm⇥	𦔭
 fodn⇥	甅
 fodo⇥	𬇒
 fodp⇥	𩨙
+foeo⇥	𬠽
 foeo⇥	𬼷
 foeo⇥	孓
 fofh⇥	𠄡
@@ -164534,6 +164546,7 @@ fpfz⇥	𱶟
 fpgl⇥	𤬫
 fpgl⇥	𩠇
 fpgl⇥	𩨖
+fpgl⇥	𲀞
 fphz⇥	𠚚
 fpie⇥	𫻦
 fpiq⇥	𭠂
@@ -164598,6 +164611,7 @@ fqlk⇥	𠝈
 fqlw⇥	耨
 fqmd⇥	衚
 fqmd⇥	𫗫
+fqme⇥	𬣀
 fqmf⇥	𫗡
 fqmf⇥	𭠄
 fqmf⇥	骷
@@ -164670,6 +164684,7 @@ frql⇥	𨕶
 frqn⇥	𮞀
 frqx⇥	𧗾
 frsg⇥	㲷
+frsi⇥	𬡁
 frso⇥	𱃻
 frte⇥	𣈆
 frti⇥	𨠷
@@ -164700,6 +164715,7 @@ fsay⇥	𪓸
 fsbk⇥	𠛖
 fsbl⇥	𤬱
 fsbl⇥	𰚽
+fsbn⇥	𲀠
 fsbo⇥	𦓭
 fsbw⇥	𠭿
 fscg⇥	𩩙
@@ -164781,6 +164797,7 @@ fsst⇥	𪂐
 fsst⇥	𫞄
 fssw⇥	𢍦
 fssx⇥	𠁊
+fsti⇥	𬡀
 fstj⇥	𨚎
 fstk⇥	𩨹
 fstl⇥	𩿍
@@ -164848,6 +164865,7 @@ ftnd⇥	𬻴
 ftnd⇥	𭠉
 ftnd⇥	衑
 ftnn⇥	𱄉
+ftnw⇥	𲀢
 ftog⇥	𤔕
 ftoo⇥	𩨢
 ftos⇥	骾
@@ -164973,6 +164991,7 @@ futl⇥	鳾
 fuuf⇥	𫗴
 fuuf⇥	𲌒
 fuuw⇥	𪩵
+fuuw⇥	𱜫
 fuuz⇥	𣱭
 fuvk⇥	氟
 fuvv⇥	𫘳
@@ -164982,6 +165001,7 @@ fuvy⇥	𮦄
 fuwf⇥	䪟
 fuwk⇥	帀
 fuwk⇥	帍
+fuwk⇥	𲀛
 fuwk⇥	巿
 fuwl⇥	䴓
 fuxa⇥	㔝
@@ -165008,6 +165028,7 @@ fvbp⇥	𡐜
 fvbw⇥	𩒤
 fvcj⇥	𪼼
 fvcj⇥	衜
+fvcl⇥	𲀣
 fvei⇥	𬳒
 fveu⇥	𢂇
 fvfp⇥	𩨦
@@ -165309,6 +165330,7 @@ fyei⇥	𩪩
 fyem⇥	髈
 fyem⇥	耪
 fyfk⇥	𮝉
+fyfk⇥	𲀝
 fyfo⇥	𢩠
 fygl⇥	𠦓
 fygo⇥	氦
@@ -181708,7 +181730,6 @@ jbio⇥	轅
 jbit⇥	𣊎
 jbix⇥	𧏜
 jbiz⇥	𡕜
-jbjb⇥	𲀜
 jbje⇥	𱿧
 jbjj⇥	𧔵
 jbjk⇥	𬀾
@@ -181727,7 +181748,6 @@ jblc⇥	𨊨
 jblc⇥	𭐝
 jblc⇥	𮱹
 jblc⇥	𱢥
-jblj⇥	𰳭
 jblk⇥	𪰰
 jbll⇥	𲅪
 jblt⇥	𪃝
@@ -181754,7 +181774,6 @@ jbnd⇥	㫢
 jbnd⇥	𧉧
 jbnd⇥	𭛟
 jbnj⇥	𭛰
-jbnj⇥	𲀡
 jbnk⇥	𧋤
 jbnr⇥	𢕿
 jbnw⇥	䖼
@@ -182760,7 +182779,6 @@ jgpb⇥	𰖀
 jgpc⇥	𧈴
 jgpc⇥	𭡣
 jgpc⇥	旷
-jgpj⇥	𲀟
 jgpk⇥	𭅸
 jgpp⇥	𠃉
 jgqo⇥	𧍉
@@ -182886,7 +182904,6 @@ jhhw⇥	鹍
 jhiq⇥	蟢
 jhiq⇥	暿
 jhiy⇥	𣊳
-jhjb⇥	𰳪
 jhje⇥	𧊙
 jhje⇥	𨌁
 jhje⇥	𭥲
@@ -183030,8 +183047,6 @@ jiin⇥	𢤙
 jiis⇥	蠳
 jiis⇥	𢖠
 jiiw⇥	𭮼
-jijb⇥	𬠾
-jijb⇥	𰳫
 jijg⇥	㐚
 jiji⇥	𨐼
 jiji⇥	𨑂
@@ -183642,7 +183657,6 @@ jlai⇥	䡽
 jlai⇥	𰖽
 jlau⇥	𱝮
 jlau⇥	𰕹
-jlbj⇥	𰳯
 jlbm⇥	𫏷
 jlcc⇥	𨌈
 jlcc⇥	𫊾
@@ -183702,7 +183716,6 @@ jliq⇥	𫹔
 jliq⇥	晧
 jliw⇥	𭜊
 jljb⇥	𧐀
-jljb⇥	𬠿
 jljb⇥	𰊯
 jljc⇥	𢕱
 jlje⇥	𭥷
@@ -183731,7 +183744,6 @@ jlld⇥	徏
 jlld⇥	𧌂
 jlld⇥	𪌷
 jlld⇥	徙
-jllj⇥	𰳬
 jllq⇥	𫆎
 jlls⇥	𱪺
 jllt⇥	𨒟
@@ -183742,7 +183754,6 @@ jllv⇥	𮓼
 jllz⇥	𨌽
 jlmd⇥	𨌳
 jlmd⇥	𰳅
-jlmj⇥	𰳮
 jlng⇥	㦁
 jlng⇥	𢙶
 jlng⇥	𫺄
@@ -184248,7 +184259,6 @@ joio⇥	轐
 joiq⇥	𠼃
 jojb⇥	𧎞
 jojb⇥	𪱑
-jojb⇥	𬠽
 joje⇥	暫
 jojo⇥	𧎾
 jojt⇥	𢔭
@@ -184555,7 +184565,6 @@ jqjg⇥	曋
 jqjg⇥	𢕯
 jqjg⇥	𪍵
 jqjj⇥	𧕡
-jqjm⇥	𬣀
 jqjo⇥	蛌
 jqjo⇥	軱
 jqjp⇥	𮝤
@@ -184822,7 +184831,6 @@ jrrp⇥	𧍞
 jrsg⇥	蟬
 jrsg⇥	䡲
 jrsg⇥	暺
-jrsj⇥	𬡁
 jrsm⇥	𡟋
 jrsm⇥	𢔚
 jrsn⇥	𮔤
@@ -184891,7 +184899,6 @@ jsbd⇥	𪱁
 jsbe⇥	𰭤
 jsbg⇥	𣉝
 jsbh⇥	𣇠
-jsbj⇥	𲀠
 jsbk⇥	剔
 jsbl⇥	昒
 jsbl⇥	昣
@@ -185139,7 +185146,6 @@ jssv⇥	𤱽
 jssv⇥	𩀰
 jssy⇥	熧
 jstj⇥	䣎
-jstj⇥	𬡀
 jstj⇥	𬪀
 jstk⇥	䖬
 jstk⇥	𣅼
@@ -185323,7 +185329,6 @@ jtnd⇥	𱘣
 jtnd⇥	蛉
 jtng⇥	𭝮
 jtni⇥	𬠑
-jtnj⇥	𲀢
 jtnn⇥	𨏈
 jtnn⇥	𭨄
 jtns⇥	𨐄
@@ -185477,7 +185482,6 @@ juir⇥	蠐
 juir⇥	𣋠
 juiv⇥	𧍚
 jujb⇥	𪫉
-jujb⇥	𲀛
 juje⇥	𰹑
 jujo⇥	㬌
 jujo⇥	𨍡
@@ -185499,7 +185503,6 @@ junf⇥	𧑛
 junf⇥	𰹧
 junf⇥	蟰
 jung⇥	𭝖
-junj⇥	𲀞
 junk⇥	𢖀
 juno⇥	𨏛
 juoe⇥	𣆒
@@ -185560,7 +185563,6 @@ juud⇥	𨏸
 juuf⇥	㣶
 juuf⇥	𣋊
 juuf⇥	蟺
-juuj⇥	𱜫
 juuw⇥	𧉽
 juuw⇥	𬠄
 juuz⇥	𨎹
@@ -185626,7 +185628,6 @@ jvcj⇥	𠃺
 jvcj⇥	𨍣
 jvcj⇥	𫋎
 jvcj⇥	𭛼
-jvcj⇥	𲀣
 jvck⇥	川
 jvcl⇥	𧒴
 jvcp⇥	𫶧
@@ -186280,7 +186281,6 @@ jyig⇥	𢕎
 jyiq⇥	䴺
 jyiq⇥	𬠗
 jyit⇥	𧐾
-jyjb⇥	𲀝
 jyjf⇥	𨎅
 jykd⇥	㣸
 jykg⇥	𪰝
@@ -286722,8 +286722,8 @@ zzzz⇥	𥷹
 (彳田,JbFmSl,liù,CJK-B)	𢔲
 (彳又丶丶虫,JbWiOeJw,sāo,CJK-B)	𢔳
 (彳五口阝,JbJiIqTj,yù,CJK-B)	𢔴
-(彳井王冂,JbBzGiZv,,CJK-B)	𢔵
 (彳井龶冂,JbBzZhZv,,CJK-B)	𢔵
+(彳井王冂,JbBzGiZv,,CJK-B)	𢔵
 (彳見寸,JbScLw,,CJK-B)	𢔶
 (彳犭屮王,JbLeIaGi,,CJK-B)	𢔷
 (彳鬲,JbPw,,CJK-B)	𢔸
@@ -328421,11 +328421,11 @@ zzzz⇥	𥷹
 (虫羊䒑口宀匕,JwIdVyHs,,CJK-E)	𬠺
 (虫罒糹隹,JwYtHtVh,,CJK-E)	𬠻
 (歹刂丿皿,QmKgCkBk,,CJK-E)	𬠼
-(彳丶亍,JbOeJb,,CJK-E)	𬠽
-(彳戈亍,JbIeJb,,CJK-E)	𬠾
-(彳止亍,JbLdJb,,CJK-E)	𬠿
-(彳人爫口亍,JbSiToJb,,CJK-E)	𬡀
-(彳吅田一口亍,JbRuSlJb,,CJK-E)	𬡁
+(行丶,FjOe,,CJK-E)	𬠽
+(行戈,FjIe,,CJK-E)	𬠾
+(行止,FjLd,,CJK-E)	𬠿
+(行人爫口,FjSiToIq,,CJK-E)	𬡀
+(行吅田一口,FjRuSlIq,,CJK-E)	𬡁
 (衤入,OrXj,,CJK-E)	𬡂
 (衤土,OrBm,,CJK-E)	𬡃
 (六,CaHtOr,,CJK-E)	𬡄
@@ -328552,7 +328552,7 @@ zzzz⇥	𥷹
 (言而火,MeUaYv,,CJK-E)	𬢽
 (言辰寸,MeQnLw,,CJK-E)	𬢾
 (言艹亼口,MeWhTuIq,,CJK-E)	𬢿
-(彳韦亍言,JbQhJbMe,,CJK-E)	𬣀
+(行韦言,FjQhMe,,CJK-E)	𬣀
 (言宀丰口,MeErZhIq,,CJK-E)	𬣁
 (言羊牛,MeIdLz,,CJK-E)	𬣂
 (方𠂉斤言,MxLdOzMe,,CJK-E)	𬣃
@@ -341459,12 +341459,12 @@ zzzz⇥	𥷹
 (戊丿皿,UcCkBk,,CJK-G)	𰳧
 (丿皿歹刂,CkBkQmKg,,CJK-G)	𰳨
 (丿皿⿆,CkBkJf,,CJK-G)	𰳩
-(彳糸亍,JbHtJb,,CJK-G)	𰳪
-(彳貝亍,JbIcJb,,CJK-G)	𰳫
-(彳止亍,JbLdLdJb,,CJK-G)	𰳬
-(彳幺止亍,JbBlLdJb,,CJK-G)	𰳭
-(彳止方亍,JbLdMxJb,,CJK-G)	𰳮
-(彳止土亍,JbLdBmJb,,CJK-G)	𰳯
+(行糸,FjHt,,CJK-G)	𰳪
+(行貝,FjIc,,CJK-G)	𰳫
+(行止,FjLdLd,,CJK-G)	𰳬
+(行幺止,FjBlLd,,CJK-G)	𰳭
+(行止方,FjLdMx,,CJK-G)	𰳮
+(行止土,FjLdBmId,,CJK-G)	𰳯
 (衤匕,OrHs,,CJK-G)	𰳰
 (衤六,OrCa,,CJK-G)	𰳱
 (衤龙,OrJh,,CJK-G)	𰳲
@@ -344079,7 +344079,7 @@ zzzz⇥	𥷹
 (小𠂇巾,NgOtGlUw,,CJK-H)	𱜨
 (巾丷刂,UwVyPcKg,,CJK-H)	𱜩
 (巾白巾,UwDyUw,,CJK-H)	𱜪
-(彳亠巾亍,JbUeUwJb,,CJK-H)	𱜫
+(行亠巾,FjUeUw,,CJK-H)	𱜫
 (巾小,UwWnOt,,CJK-H)	𱜬
 (巾尸屮凵,UwMzIaZv,,CJK-H)	𱜭
 (𠂇巾甫,GlUwGn,,CJK-H)	𱜮
@@ -346367,15 +346367,15 @@ zzzz⇥	𥷹
 (丿皿夕,CkBkXuOr,,CJK-H)	𲀘
 (丿皿甘木,CkBkMzAj,,CJK-H)	𲀙
 (丿皿乃見,CkBkViSc,,CJK-H)	𲀚
-(彳巾亍,JbUwJb,,CJK-H)	𲀛
-(彳幺亍,JbBlJb,,CJK-H)	𲀜
-(彳车亍,JbYfJb,,CJK-H)	𲀝
-(彳亠厶十亍,JbUeNdJb,,CJK-H)	𲀞
-(彳十乛゛大亍,JbGlPvJb,,CJK-H)	𲀟
-(彳勹心亍,JbSnBlJb,,CJK-H)	𲀠
-(彳土厶示亍,JbBmNdJb,,CJK-H)	𲀡
-(彳爫龴冂厶又亍,JbToNdJb,,CJK-H)	𲀢
-(彳䒑自寸亍,JbVyCjJb,,CJK-H)	𲀣
+(行巾,FjUw,,CJK-H)	𲀛
+(行幺,FjBl,,CJK-H)	𲀜
+(行车,FjYf,,CJK-H)	𲀝
+(行十,FjPdGl,,CJK-H)	𲀞
+(行十乛゛大,FjGlPvXi,,CJK-H)	𲀟
+(行勹心,FjSnBlNg,,CJK-H)	𲀠
+(行土厶示,FjBmNdDd,,CJK-H)	𲀡
+(行爫龴冂厶又,FjToNdWi,,CJK-H)	𲀢
+(行䒑自寸,FjVyCjLw,,CJK-H)	𲀣
 (衤丁,OrUe,,CJK-H)	𲀤
 (人衣,SiOr,,CJK-H)	𲀥
 (衤𬺰丿,OrGlCk,,CJK-H)	𲀦

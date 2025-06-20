@@ -16129,7 +16129,9 @@
 𥁚	fbkf
 𥁶	fbkf
 𠞐	fbkg
+𰳭	fbld
 𢆰	fblo
+𲀜	fblo
 𨑼	fblt
 䯚	fbmd
 𡊎	fbmf
@@ -16141,6 +16143,7 @@
 𦔏	fbnb
 馌	fbnb
 㧁	fbnd
+𲀡	fbnd
 𢙂	fbng
 𩩼	fbnm
 𢖡	fbnw
@@ -16549,6 +16552,7 @@
 𫗦	fgno
 𩪏	fgns
 𩩸	fgok
+𲀟	fgpx
 㪀	fgry
 𢾥	fgry
 𲌑	fgsh
@@ -16654,6 +16658,7 @@
 㔿	fhtk
 䋀	fhto
 𤔚	fhto
+𰳪	fhto
 𩪱	fhuc
 𲅴	fhvl
 𱍗	fhvw
@@ -16664,6 +16669,7 @@
 㦱	fibm
 𡉫	fibm
 𧶝	fico
+𰳫	fico
 𲂩	fico
 貿	fico
 𠧅	fidg
@@ -16673,6 +16679,7 @@
 戋	fieo
 𢦌	fieo
 𫼉	fieo
+𬠾	fieo
 𭈰	fieo
 扈	fiew
 𱅮	fifa
@@ -17072,9 +17079,11 @@
 𰀐	flan
 饬	flau
 𣦥	flba
+𰳯	flbi
 𪤶	flbj
 𣥵	flcj
 𣥄	fldf
+𬠿	fldf
 正	fldf
 𣦓	fldi
 𤝀	fleo
@@ -17109,11 +17118,13 @@
 𢩀	flko
 𲊺	flkw
 𬆈	flkx
+𰳬	flld
 𩩄	fllr
 𨒌	fllt
 𬲸	fllt
 𱅲	flmd
 𨕆	flml
+𰳮	flmx
 𢘫	flng
 𢝐	flng
 𱫆	flny
@@ -17332,6 +17343,7 @@
 甅	fodn
 𬇒	fodo
 𩨙	fodp
+𬠽	foeo
 𬼷	foeo
 孓	foeo
 𠄡	fofh
@@ -17452,6 +17464,7 @@
 𤬫	fpgl
 𩠇	fpgl
 𩨖	fpgl
+𲀞	fpgl
 𠚚	fphz
 𫻦	fpie
 𭠂	fpiq
@@ -17516,6 +17529,7 @@
 耨	fqlw
 衚	fqmd
 𫗫	fqmd
+𬣀	fqme
 𫗡	fqmf
 𭠄	fqmf
 骷	fqmf
@@ -17588,6 +17602,7 @@
 𮞀	frqn
 𧗾	frqx
 㲷	frsg
+𬡁	frsi
 𱃻	frso
 𣈆	frte
 𨠷	frti
@@ -17618,6 +17633,7 @@
 𠛖	fsbk
 𤬱	fsbl
 𰚽	fsbl
+𲀠	fsbn
 𦓭	fsbo
 𠭿	fsbw
 𩩙	fscg
@@ -17699,6 +17715,7 @@
 𫞄	fsst
 𢍦	fssw
 𠁊	fssx
+𬡀	fsti
 𨚎	fstj
 𩨹	fstk
 𩿍	fstl
@@ -17766,6 +17783,7 @@
 𭠉	ftnd
 衑	ftnd
 𱄉	ftnn
+𲀢	ftnw
 𤔕	ftog
 𩨢	ftoo
 骾	ftos
@@ -17891,6 +17909,7 @@
 𫗴	fuuf
 𲌒	fuuf
 𪩵	fuuw
+𱜫	fuuw
 𣱭	fuuz
 氟	fuvk
 𫘳	fuvv
@@ -17900,6 +17919,7 @@
 䪟	fuwf
 帀	fuwk
 帍	fuwk
+𲀛	fuwk
 巿	fuwk
 䴓	fuwl
 㔝	fuxa
@@ -17926,6 +17946,7 @@
 𩒤	fvbw
 𪼼	fvcj
 衜	fvcj
+𲀣	fvcl
 𬳒	fvei
 𢂇	fveu
 𩨦	fvfp
@@ -18227,6 +18248,7 @@
 髈	fyem
 耪	fyem
 𮝉	fyfk
+𲀝	fyfk
 𢩠	fyfo
 𠦓	fygl
 氦	fygo
@@ -34626,7 +34648,6 @@
 𣊎	jbit
 𧏜	jbix
 𡕜	jbiz
-𲀜	jbjb
 𱿧	jbje
 𧔵	jbjj
 𬀾	jbjk
@@ -34645,7 +34666,6 @@
 𭐝	jblc
 𮱹	jblc
 𱢥	jblc
-𰳭	jblj
 𪰰	jblk
 𲅪	jbll
 𪃝	jblt
@@ -34672,7 +34692,6 @@
 𧉧	jbnd
 𭛟	jbnd
 𭛰	jbnj
-𲀡	jbnj
 𧋤	jbnk
 𢕿	jbnr
 䖼	jbnw
@@ -35678,7 +35697,6 @@
 𧈴	jgpc
 𭡣	jgpc
 旷	jgpc
-𲀟	jgpj
 𭅸	jgpk
 𠃉	jgpp
 𧍉	jgqo
@@ -35804,7 +35822,6 @@
 蟢	jhiq
 暿	jhiq
 𣊳	jhiy
-𰳪	jhjb
 𧊙	jhje
 𨌁	jhje
 𭥲	jhje
@@ -35948,8 +35965,6 @@
 蠳	jiis
 𢖠	jiis
 𭮼	jiiw
-𬠾	jijb
-𰳫	jijb
 㐚	jijg
 𨐼	jiji
 𨑂	jiji
@@ -36560,7 +36575,6 @@
 𰖽	jlai
 𱝮	jlau
 𰕹	jlau
-𰳯	jlbj
 𫏷	jlbm
 𨌈	jlcc
 𫊾	jlcc
@@ -36620,7 +36634,6 @@
 晧	jliq
 𭜊	jliw
 𧐀	jljb
-𬠿	jljb
 𰊯	jljb
 𢕱	jljc
 𭥷	jlje
@@ -36649,7 +36662,6 @@
 𧌂	jlld
 𪌷	jlld
 徙	jlld
-𰳬	jllj
 𫆎	jllq
 𱪺	jlls
 𨒟	jllt
@@ -36660,7 +36672,6 @@
 𨌽	jllz
 𨌳	jlmd
 𰳅	jlmd
-𰳮	jlmj
 㦁	jlng
 𢙶	jlng
 𫺄	jlng
@@ -37166,7 +37177,6 @@
 𠼃	joiq
 𧎞	jojb
 𪱑	jojb
-𬠽	jojb
 暫	joje
 𧎾	jojo
 𢔭	jojt
@@ -37473,7 +37483,6 @@
 𢕯	jqjg
 𪍵	jqjg
 𧕡	jqjj
-𬣀	jqjm
 蛌	jqjo
 軱	jqjo
 𮝤	jqjp
@@ -37740,7 +37749,6 @@
 蟬	jrsg
 䡲	jrsg
 暺	jrsg
-𬡁	jrsj
 𡟋	jrsm
 𢔚	jrsm
 𮔤	jrsn
@@ -37809,7 +37817,6 @@
 𰭤	jsbe
 𣉝	jsbg
 𣇠	jsbh
-𲀠	jsbj
 剔	jsbk
 昒	jsbl
 昣	jsbl
@@ -38057,7 +38064,6 @@
 𩀰	jssv
 熧	jssy
 䣎	jstj
-𬡀	jstj
 𬪀	jstj
 䖬	jstk
 𣅼	jstk
@@ -38241,7 +38247,6 @@
 蛉	jtnd
 𭝮	jtng
 𬠑	jtni
-𲀢	jtnj
 𨏈	jtnn
 𭨄	jtnn
 𨐄	jtns
@@ -38395,7 +38400,6 @@
 𣋠	juir
 𧍚	juiv
 𪫉	jujb
-𲀛	jujb
 𰹑	juje
 㬌	jujo
 𨍡	jujo
@@ -38417,7 +38421,6 @@
 𰹧	junf
 蟰	junf
 𭝖	jung
-𲀞	junj
 𢖀	junk
 𨏛	juno
 𣆒	juoe
@@ -38478,7 +38481,6 @@
 㣶	juuf
 𣋊	juuf
 蟺	juuf
-𱜫	juuj
 𧉽	juuw
 𬠄	juuw
 𨎹	juuz
@@ -38544,7 +38546,6 @@
 𨍣	jvcj
 𫋎	jvcj
 𭛼	jvcj
-𲀣	jvcj
 川	jvck
 𧒴	jvcl
 𫶧	jvcp
@@ -39198,7 +39199,6 @@
 䴺	jyiq
 𬠗	jyiq
 𧐾	jyit
-𲀝	jyjb
 𨎅	jyjf
 㣸	jykd
 𪰝	jykg
