@@ -2733,6 +2733,7 @@
 㮆	asid
 櫷	asif
 𣏃	asif
+𨷟	asif
 𨷺	asif
 㮲	asii
 䪮	asii
@@ -2743,8 +2744,6 @@
 閄	asio
 䦰	asip
 𣖹	asip
-𨷍	asip
-𨷟	asip
 𪳥	asip
 櫢	asir
 樓	asis
@@ -3999,6 +3998,7 @@
 榛	azoz
 𬰻	azpo
 柇	azpo
+𨷍	azpw
 𣠓	azqd
 𤫷	azqj
 𣕬	azqt

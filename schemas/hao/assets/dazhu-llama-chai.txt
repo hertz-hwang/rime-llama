@@ -51373,8 +51373,8 @@
 ⺮亻丨矢,ZiKjKsEu	𥱌
 ⺮車几丶,ZiJlPsOe	𥱍
 ⺮廿㇗冂土,ZiXkPvBm	𥱎
-⺮井龶冂,ZiBzZhZv	𥱏
 ⺮井王冂,ZiBzGiZv	𥱏
+⺮井龶冂,ZiBzZhZv	𥱏
 ⺮口里,ZiIqDn	𥱐
 ⺮⺷儿厶,ZiIdAhNd	𥱑
 ⺮氵工人人,ZiHgNvSi	𥱒
@@ -64045,7 +64045,7 @@
 門弓冫弓冫大,AcOdLvXi	𨷊
 門{微框}几,AcYaPs	𨷋
 門⺈用虫,AcRlQlJw	𨷌
-門亀,AcSi	𨷍
+門乚臼,AcZhPvWi	𨷍
 大夕夕門王,XiXuXuGi	𨷎
 門⻗田,AcTfSl	𨷏
 門火日皿,AcYvJeBk	𨷐
@@ -64063,7 +64063,7 @@
 門馬文,AcGbWm	𨷜
 門耳日二儿,AcQgJeAh	𨷝
 門匕矢龴疋,AcHsEuKf	𨷞
-門龟,AcSi	𨷟
+門𬹝,AcSi	𨷟
 門广里八土,AcGpDnBm	𨷠
 門十戈非一,AcGlIeFh	𨷡
 門豕火火,AcKtYvYv	𨷢

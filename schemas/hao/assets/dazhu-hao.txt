@@ -149815,6 +149815,7 @@ asic⇥	樌
 asid⇥	㮆
 asif⇥	櫷
 asif⇥	𣏃
+asif⇥	𨷟
 asif⇥	𨷺
 asii⇥	㮲
 asii⇥	䪮
@@ -149825,8 +149826,6 @@ asio⇥	棖
 asio⇥	閄
 asip⇥	䦰
 asip⇥	𣖹
-asip⇥	𨷍
-asip⇥	𨷟
 asip⇥	𪳥
 asir⇥	櫢
 asis⇥	樓
@@ -151081,6 +151080,7 @@ azox⇥	楱
 azoz⇥	榛
 azpo⇥	𬰻
 azpo⇥	柇
+azpw⇥	𨷍
 azqd⇥	𣠓
 azqj⇥	𤫷
 azqt⇥	𣕬
@@ -249492,8 +249492,8 @@ zzzz⇥	𥷹
 (爫,To,,部首補充)	⺤
 (⺥,To,,部首補充)	⺥
 (丬,Nb,,部首補充)	⺦
-(⺧,Lz,,部首補充)	⺧
 (⺧,Lz,,CJK-B)	⺧
+(⺧,Lz,,部首補充)	⺧
 (犭,Le,,部首補充)	⺨
 (王,Gi,,部首補充)	⺩
 (⺪,Kf,,部首補充)	⺪
@@ -249594,8 +249594,8 @@ zzzz⇥	𥷹
 (丶,Oe,,筆畫)	㇔
 (ヿ,Pv,,筆畫)	㇕
 (乛,Pv,,筆畫)	㇖
-(㇗,Pv,yǐn,CJK-B)	㇗
 (㇗,Pv,,筆畫)	㇗
+(㇗,Pv,yǐn,CJK-B)	㇗
 (丨一,KsFh,,筆畫)	㇘
 (レ,Pv,,筆畫)	㇙
 (丨,Ks,,筆畫)	㇚
@@ -300829,8 +300829,8 @@ zzzz⇥	𥷹
 (⺮亻丨矢,ZiKjKsEu,,CJK-B)	𥱌
 (⺮車几丶,ZiJlPsOe,,CJK-B)	𥱍
 (⺮廿㇗冂土,ZiXkPvBm,,CJK-B)	𥱎
-(⺮井龶冂,ZiBzZhZv,,CJK-B)	𥱏
 (⺮井王冂,ZiBzGiZv,,CJK-B)	𥱏
+(⺮井龶冂,ZiBzZhZv,,CJK-B)	𥱏
 (⺮口里,ZiIqDn,,CJK-B)	𥱐
 (⺮⺷儿厶,ZiIdAhNd,,CJK-B)	𥱑
 (⺮氵工人人,ZiHgNvSi,,CJK-B)	𥱒
@@ -313501,7 +313501,7 @@ zzzz⇥	𥷹
 (門弓冫弓冫大,AcOdLvXi,,CJK-B)	𨷊
 (門{微框}几,AcYaPs,,CJK-B)	𨷋
 (門⺈用虫,AcRlQlJw,,CJK-B)	𨷌
-(門亀,AcSi,,CJK-B)	𨷍
+(門乚臼,AcZhPvWi,,CJK-B)	𨷍
 (大夕夕門王,XiXuXuGi,rùn,CJK-B)	𨷎
 (門⻗田,AcTfSl,,CJK-B)	𨷏
 (門火日皿,AcYvJeBk,yūn,CJK-B)	𨷐
@@ -313519,7 +313519,7 @@ zzzz⇥	𥷹
 (門馬文,AcGbWm,,CJK-B)	𨷜
 (門耳日二儿,AcQgJeAh,,CJK-B)	𨷝
 (門匕矢龴疋,AcHsEuKf,,CJK-B)	𨷞
-(門龟,AcSi,,CJK-B)	𨷟
+(門𬹝,AcSi,,CJK-B)	𨷟
 (門广里八土,AcGpDnBm,,CJK-B)	𨷠
 (門十戈非一,AcGlIeFh,,CJK-B)	𨷡
 (門豕火火,AcKtYvYv,,CJK-B)	𨷢
