@@ -182,12 +182,11 @@ func main() {
 			return sortedList[i].Char < sortedList[j].Char
 		})
 		for _, charMeta := range sortedList {
-			divs := divTable[charMeta.Char]
-			if !charMeta.MDiv || len(divs) == 0 {
+			if charMeta.Division == nil {
 				continue
 			}
-			div := strings.Join(divs[0].Divs, "")
-			buffer.WriteString(fmt.Sprintf("%s\t(%s,%s,%s,%s)\n", charMeta.Char, div, charMeta.Full, divs[0].Pin, divs[0].Set))
+			div := strings.Join(charMeta.Division.Divs, "")
+			buffer.WriteString(fmt.Sprintf("%s\t(%s,%s,%s,%s)\n", charMeta.Char, div, charMeta.Full, charMeta.Division.Pin, charMeta.Division.Set))
 		}
 		err := os.WriteFile(args.Opencc, buffer.Bytes(), 0o644)
 		if err != nil {

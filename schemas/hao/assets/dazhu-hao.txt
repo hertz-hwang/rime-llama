@@ -249493,6 +249493,7 @@ zzzz⇥	𥷹
 (⺥,To,,部首補充)	⺥
 (丬,Nb,,部首補充)	⺦
 (⺧,Lz,,部首補充)	⺧
+(⺧,Lz,,CJK-B)	⺧
 (犭,Le,,部首補充)	⺨
 (王,Gi,,部首補充)	⺩
 (⺪,Kf,,部首補充)	⺪
@@ -249594,6 +249595,7 @@ zzzz⇥	𥷹
 (ヿ,Pv,,筆畫)	㇕
 (乛,Pv,,筆畫)	㇖
 (㇗,Pv,,筆畫)	㇗
+(㇗,Pv,yǐn,CJK-B)	㇗
 (丨一,KsFh,,筆畫)	㇘
 (レ,Pv,,筆畫)	㇙
 (丨,Ks,,筆畫)	㇚
@@ -286721,6 +286723,7 @@ zzzz⇥	𥷹
 (彳又丶丶虫,JbWiOeJw,sāo,CJK-B)	𢔳
 (彳五口阝,JbJiIqTj,yù,CJK-B)	𢔴
 (彳井王冂,JbBzGiZv,,CJK-B)	𢔵
+(彳井龶冂,JbBzZhZv,,CJK-B)	𢔵
 (彳見寸,JbScLw,,CJK-B)	𢔶
 (彳犭屮王,JbLeIaGi,,CJK-B)	𢔷
 (彳鬲,JbPw,,CJK-B)	𢔸
@@ -300826,6 +300829,7 @@ zzzz⇥	𥷹
 (⺮亻丨矢,ZiKjKsEu,,CJK-B)	𥱌
 (⺮車几丶,ZiJlPsOe,,CJK-B)	𥱍
 (⺮廿㇗冂土,ZiXkPvBm,,CJK-B)	𥱎
+(⺮井龶冂,ZiBzZhZv,,CJK-B)	𥱏
 (⺮井王冂,ZiBzGiZv,,CJK-B)	𥱏
 (⺮口里,ZiIqDn,,CJK-B)	𥱐
 (⺮⺷儿厶,ZiIdAhNd,,CJK-B)	𥱑
@@ -308613,6 +308617,7 @@ zzzz⇥	𥷹
 (甘言斤,MzMeOz,,CJK-B)	𧪷
 (言廿一冂土,MeXkFhBm,,CJK-B)	𧪸
 (言宀辛,MeErJt,xià,CJK-B)	𧪹
+(言亼冂卅,MeTuZvFh,,CJK-B)	𧪺
 (言亼〣井,MeTuJvBz,,CJK-B)	𧪺
 (言立立,MeYqYq,,CJK-B)	𧪻
 (言口貝,MeIqIc,,CJK-B)	𧪼

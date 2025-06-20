@@ -37,6 +37,7 @@
 ⺥,To	⺥
 丬,Nb	⺦
 ⺧,Lz	⺧
+⺧,Lz	⺧
 犭,Le	⺨
 王,Gi	⺩
 ⺪,Kf	⺪
@@ -137,6 +138,7 @@
 丶,Oe	㇔
 ヿ,Pv	㇕
 乛,Pv	㇖
+㇗,Pv	㇗
 ㇗,Pv	㇗
 丨一,KsFh	㇘
 レ,Pv	㇙
@@ -37265,6 +37267,7 @@
 彳又丶丶虫,JbWiOeJw	𢔳
 彳五口阝,JbJiIqTj	𢔴
 彳井王冂,JbBzGiZv	𢔵
+彳井龶冂,JbBzZhZv	𢔵
 彳見寸,JbScLw	𢔶
 彳犭屮王,JbLeIaGi	𢔷
 彳鬲,JbPw	𢔸
@@ -51370,6 +51373,7 @@
 ⺮亻丨矢,ZiKjKsEu	𥱌
 ⺮車几丶,ZiJlPsOe	𥱍
 ⺮廿㇗冂土,ZiXkPvBm	𥱎
+⺮井龶冂,ZiBzZhZv	𥱏
 ⺮井王冂,ZiBzGiZv	𥱏
 ⺮口里,ZiIqDn	𥱐
 ⺮⺷儿厶,ZiIdAhNd	𥱑
@@ -59157,6 +59161,7 @@
 甘言斤,MzMeOz	𧪷
 言廿一冂土,MeXkFhBm	𧪸
 言宀辛,MeErJt	𧪹
+言亼冂卅,MeTuZvFh	𧪺
 言亼〣井,MeTuJvBz	𧪺
 言立立,MeYqYq	𧪻
 言口貝,MeIqIc	𧪼

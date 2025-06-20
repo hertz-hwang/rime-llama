@@ -209,12 +209,13 @@ func BuildFullCodeMetaList(table map[string][]*types.Division, mappings map[stri
 				for i, div := range divs {
 					full, code := calcFullCodeByDiv(div.Divs, mappings, strokeTable)
 					charMeta := types.CharMeta{
-						Char: char,
-						Full: full,
-						Code: code,
-						Freq: freqSet[char],
-						MDiv: i == 0,
-						Sel:  getSel(char),
+						Char:     char,
+						Full:     full,
+						Code:     code,
+						Freq:     freqSet[char],
+						MDiv:     i == 0,
+						Sel:      getSel(char),
+						Division: div, // 绑定对应的拆分信息
 					}
 					
 					// 如果选重编号为0，调整频率
