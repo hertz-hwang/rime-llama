@@ -475,6 +475,7 @@ Us	缶
 Us	𦈢
 Us	㠯
 Us	
+Us	𮍌
 Uv	弗
 Uv	𠂔
 Uv	𢎨
@@ -515,6 +516,7 @@ Wi	ス
 Wi	ㄡ
 Wi	臼
 Wi	{臼变}
+Wi	{臼框}
 Wi	⺽
 Wi	
 Wj	卩
