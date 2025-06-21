@@ -28796,7 +28796,7 @@ kufs	𠋘
 kxsk	𠋙
 kxvm	𠋚
 kkrm	𠋛
-kyr	𠋜
+koqi	𠋜
 kgoc	𠋝
 kjhe	𠋞
 kwsi	𠋟
@@ -29073,7 +29073,7 @@ koil	𠏮
 kebp	𠏯
 kcfy	𠏰
 kbsi	𠏱
-kyrj	𠏲
+kyr	𠏲
 hdks	𠏳
 kgek	𠏴
 kpft	𠏵
@@ -30954,7 +30954,7 @@ dfiw	𠭏
 mwc	𠭐
 wxzj	𠭑
 jrwi	𠭒
-lyw	𠭓
+lofw	𠭓
 cuow	𠭔
 lssw	𠭕
 tqwi	𠭖
@@ -33153,7 +33153,7 @@ bdhu	𡏲
 xisb	𡏳
 urbm	𡏴
 ufbm	𡏵
-byic	𡏶
+bofi	𡏶
 bsnl	𡏷
 ybfb	𡏸
 tbvb	𡏹
@@ -48951,7 +48951,7 @@ gxdd	𥇧
 qygy	𥇨
 gwfp	𥇩
 gdmf	𥇪
-gyhg	𥇫
+gofh	𥇫
 gsaj	𥇬
 geiq	𥇭
 sskg	𥇮
@@ -55170,7 +55170,7 @@ lwah	𦩊
 ldmf	𦩋
 lfsl	𦩌
 lzbi	𦩍
-lywh	𦩎
+lyw	𦩎
 lvhf	𦩏
 llew	𦩐
 lass	𦩑
@@ -55501,7 +55501,7 @@ wlro	𦮖
 wusm	𦮗
 wvwh	𦮘
 wwwh	𦮙
-wynd	𦮚
+wopd	𦮚
 whro	𦮛
 wepf	𦮜
 wnxc	𦮝
@@ -126627,7 +126627,7 @@ kufs	𠋘
 kxsk	𠋙
 kxvm	𠋚
 kkrm	𠋛
-kyri	𠋜
+koqi	𠋜
 kgoc	𠋝
 kjhe	𠋞
 kwsi	𠋟
@@ -128785,7 +128785,7 @@ dfiw	𠭏
 mwcl	𠭐
 wxzj	𠭑
 jrwi	𠭒
-lywi	𠭓
+lofw	𠭓
 cuow	𠭔
 lssw	𠭕
 tqwi	𠭖
@@ -130984,7 +130984,7 @@ bdhu	𡏲
 xisb	𡏳
 urbm	𡏴
 ufbm	𡏵
-byic	𡏶
+bofi	𡏶
 bsnl	𡏷
 ybfb	𡏸
 tbvb	𡏹
@@ -146782,7 +146782,7 @@ gxdd	𥇧
 qygy	𥇨
 gwfp	𥇩
 gdmf	𥇪
-gyhg	𥇫
+gofh	𥇫
 gsaj	𥇬
 geiq	𥇭
 sskg	𥇮
@@ -153332,7 +153332,7 @@ wlro	𦮖
 wusm	𦮗
 wvwh	𦮘
 wwwh	𦮙
-wynd	𦮚
+wopd	𦮚
 whro	𦮛
 wepf	𦮜
 wnxc	𦮝
@@ -200260,8 +200260,8 @@ xfld	㍽
 (爫,To,,部首補充)	⺤
 (⺥,To,,部首補充)	⺥
 (丬,Nb,,部首補充)	⺦
-(⺧,Lz,,部首補充)	⺧
 (⺧,Lz,,CJK-B)	⺧
+(⺧,Lz,,部首補充)	⺧
 (犭,Le,,部首補充)	⺨
 (王,Gi,,部首補充)	⺩
 (⺪,Kf,,部首補充)	⺪
@@ -228697,7 +228697,7 @@ xfld	㍽
 (亻大人人刂,KjXiSiKg,,CJK-B)	𠋙
 (亻大丷⺝,KjXiVyMd,,CJK-B)	𠋚
 (亻丨攴⺼,KjKsRyMd,,CJK-B)	𠋛
-(亻二口,KjYvRlIq,guò,CJK-B)	𠋜
+(亻⺌三口,KjOtQnIq,guò,CJK-B)	𠋜
 (亻目小丿,KjGyOtCk,miǎo,CJK-B)	𠋝
 (亻虫也,KjJwHe,shé,CJK-B)	𠋞
 (亻臼人,KjWiSi,yǔ,CJK-B)	𠋟
@@ -230864,7 +230864,7 @@ xfld	㍽
 (士又丿止,MfWiCkLd,,CJK-B)	𠭐
 (又大可,WiXiZj,,CJK-B)	𠭑
 (日曰又,JeRlWi,,CJK-B)	𠭒
-(止又,LdYvWi,,CJK-B)	𠭓
+(止⺌㇀又,LdOtFhWi,,CJK-B)	𠭓
 (丿㠯⺁又,CkUsOyWi,,CJK-B)	𠭔
 (干人人𠂉又,LrSiSiWi,,CJK-B)	𠭕
 (爫古又,ToQmWi,,CJK-B)	𠭖
@@ -233075,7 +233075,7 @@ xfld	㍽
 (廿口人丷土,XkIqSiBm,,CJK-B)	𡏳
 (束攵土,UhRyBm,,CJK-B)	𡏴
 (而瓦土,UaFnBm,liè,CJK-B)	𡏵
-(土貝,BmYvIc,,CJK-B)	𡏶
+(土⺌一貝,BmOtFhIc,,CJK-B)	𡏶
 (土工几寸,BmSiNvLw,,CJK-B)	𡏷
 (子幺一㐅凵土,YdBlFhBm,,CJK-B)	𡏸
 (阝土八夂土,TjBmVyBm,,CJK-B)	𡏹
@@ -237490,8 +237490,8 @@ xfld	㍽
 (彳田,JbFmSl,liù,CJK-B)	𢔲
 (彳又丶丶虫,JbWiOeJw,sāo,CJK-B)	𢔳
 (彳五口阝,JbJiIqTj,yù,CJK-B)	𢔴
-(彳井王冂,JbBzGiZv,,CJK-B)	𢔵
 (彳井龶冂,JbBzZhZv,,CJK-B)	𢔵
+(彳井王冂,JbBzGiZv,,CJK-B)	𢔵
 (彳見寸,JbScLw,,CJK-B)	𢔶
 (彳犭屮王,JbLeIaGi,,CJK-B)	𢔷
 (彳鬲,JbPw,,CJK-B)	𢔸
@@ -248937,7 +248937,7 @@ xfld	㍽
 (火目,QbYvGy,,CJK-B)	𥇨
 (目臼一ㄅ,GyWiFhPv,,CJK-B)	𥇩
 (目,GyDm,,CJK-B)	𥇪
-(目水,GyYvHg,,CJK-B)	𥇫
+(目⺌一水,GyOtFhHg,,CJK-B)	𥇫
 (目田木,GySlAj,,CJK-B)	𥇬
 (目矢口,GyEuIq,zhī,CJK-B)	𥇭
 (人人刂厂目,SiSiKgGy,,CJK-B)	𥇮
@@ -255513,7 +255513,7 @@ xfld	㍽
 (⺿囗女,WhUdSm,,CJK-B)	𦮗
 (⺿乃,WhViWh,,CJK-B)	𦮘
 (艹艸艸,WhWhWh,,CJK-B)	𦮙
-(⺿厶,WhYvNd,,CJK-B)	𦮚
+(⺿⺌{云变},WhOtPd,,CJK-B)	𦮚
 (⺿氵㇏,WhHgRlOe,,CJK-B)	𦮛
 (⺿冖斗,WhErPf,,CJK-B)	𦮜
 (⺿忄亡,WhNgXc,,CJK-B)	𦮝
@@ -259385,8 +259385,8 @@ xfld	㍽
 (甘言斤,MzMeOz,,CJK-B)	𧪷
 (言廿一冂土,MeXkFhBm,,CJK-B)	𧪸
 (言宀辛,MeErJt,xià,CJK-B)	𧪹
-(言亼冂卅,MeTuZvFh,,CJK-B)	𧪺
 (言亼〣井,MeTuJvBz,,CJK-B)	𧪺
+(言亼冂卅,MeTuZvFh,,CJK-B)	𧪺
 (言立立,MeYqYq,,CJK-B)	𧪻
 (言口貝,MeIqIc,,CJK-B)	𧪼
 (言一业日,MeFhOqJe,,CJK-B)	𧪽

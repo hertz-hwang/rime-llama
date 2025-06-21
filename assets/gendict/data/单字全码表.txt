@@ -5857,6 +5857,7 @@
 坵	bofh
 𡉶	bofh
 𩬡	bofh
+𡏶	bofi
 垢	bofi
 𡐯	bofj
 𭎅	bofk
@@ -7037,7 +7038,6 @@
 𫎰	byhs
 𭐈	byht
 𩵇	byhv
-𡏶	byic
 𮷑	byid
 䯽	byiq
 𮸦	byiq
@@ -21240,6 +21240,7 @@
 𪻬	gofd
 𢇹	gofh
 𥅔	gofh
+𥇫	gofh
 𭙗	gofh
 𭾤	gofh
 駈	gofh
@@ -23409,7 +23410,6 @@
 𮧙	gygo
 駭	gygo
 𥉞	gygy
-𥇫	gyhg
 𥉀	gyhg
 𩌐	gyhg
 㼈	gyhv
@@ -41082,6 +41082,7 @@
 𠍃	kops
 傂	koqb
 𠐀	koqf
+𠋜	koqi
 𧰵	koqi
 儉	koro
 𠇊	koro
@@ -42133,7 +42134,6 @@
 𱎧	kypv
 𰆾	kyqf
 位	kyqf
-𠋜	kyri
 𠏲	kyrj
 㒔	kysj
 𧱙	kysm
@@ -44208,6 +44208,7 @@
 𧲿	lofi
 𮳽	lofi
 獼	lofk
+𠭓	lofw
 𰡚	lofy
 𪻂	logg
 㹥	logi
@@ -45669,7 +45670,6 @@
 𱪬	lyvo
 狄	lyvo
 𦩎	lywh
-𠭓	lywi
 𭑒	lyxi
 𰸿	lyxu
 猡	lyxu
@@ -83675,6 +83675,7 @@
 𱪻	wooy
 學	wooy
 藦	wopc
+𦮚	wopd
 𦰘	woqf
 葞	woqg
 𦯰	woqq
@@ -85631,7 +85632,6 @@
 𧃮	wymg
 蘢	wymi
 藅	wymk
-𦮚	wynd
 藣	wynh
 𱉀	wynt
 𮒭	wynv

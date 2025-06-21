@@ -28473,7 +28473,7 @@
 亻大人人刂,KjXiSiKg	𠋙
 亻大丷⺝,KjXiVyMd	𠋚
 亻丨攴⺼,KjKsRyMd	𠋛
-亻二口,KjYvRlIq	𠋜
+亻⺌三口,KjOtQnIq	𠋜
 亻目小丿,KjGyOtCk	𠋝
 亻虫也,KjJwHe	𠋞
 亻臼人,KjWiSi	𠋟
@@ -30640,7 +30640,7 @@
 士又丿止,MfWiCkLd	𠭐
 又大可,WiXiZj	𠭑
 日曰又,JeRlWi	𠭒
-止又,LdYvWi	𠭓
+止⺌㇀又,LdOtFhWi	𠭓
 丿㠯⺁又,CkUsOyWi	𠭔
 干人人𠂉又,LrSiSiWi	𠭕
 爫古又,ToQmWi	𠭖
@@ -32851,7 +32851,7 @@
 廿口人丷土,XkIqSiBm	𡏳
 束攵土,UhRyBm	𡏴
 而瓦土,UaFnBm	𡏵
-土貝,BmYvIc	𡏶
+土⺌一貝,BmOtFhIc	𡏶
 土工几寸,BmSiNvLw	𡏷
 子幺一㐅凵土,YdBlFhBm	𡏸
 阝土八夂土,TjBmVyBm	𡏹
@@ -37266,8 +37266,8 @@
 彳田,JbFmSl	𢔲
 彳又丶丶虫,JbWiOeJw	𢔳
 彳五口阝,JbJiIqTj	𢔴
-彳井王冂,JbBzGiZv	𢔵
 彳井龶冂,JbBzZhZv	𢔵
+彳井王冂,JbBzGiZv	𢔵
 彳見寸,JbScLw	𢔶
 彳犭屮王,JbLeIaGi	𢔷
 彳鬲,JbPw	𢔸
@@ -48713,7 +48713,7 @@
 火目,QbYvGy	𥇨
 目臼一ㄅ,GyWiFhPv	𥇩
 目,GyDm	𥇪
-目水,GyYvHg	𥇫
+目⺌一水,GyOtFhHg	𥇫
 目田木,GySlAj	𥇬
 目矢口,GyEuIq	𥇭
 人人刂厂目,SiSiKgGy	𥇮
@@ -55289,7 +55289,7 @@
 ⺿囗女,WhUdSm	𦮗
 ⺿乃,WhViWh	𦮘
 艹艸艸,WhWhWh	𦮙
-⺿厶,WhYvNd	𦮚
+⺿⺌{云变},WhOtPd	𦮚
 ⺿氵㇏,WhHgRlOe	𦮛
 ⺿冖斗,WhErPf	𦮜
 ⺿忄亡,WhNgXc	𦮝
@@ -59161,8 +59161,8 @@
 甘言斤,MzMeOz	𧪷
 言廿一冂土,MeXkFhBm	𧪸
 言宀辛,MeErJt	𧪹
-言亼冂卅,MeTuZvFh	𧪺
 言亼〣井,MeTuJvBz	𧪺
+言亼冂卅,MeTuZvFh	𧪺
 言立立,MeYqYq	𧪻
 言口貝,MeIqIc	𧪼
 言一业日,MeFhOqJe	𧪽
