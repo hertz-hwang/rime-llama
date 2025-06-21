@@ -32274,7 +32274,7 @@
 囗亡,UdXc	𡆲
 囗巳,UdDu	𡆳
 囗ヿ土,UdPvBm	𡆴
-囗乛𠃌乚,UdPvPvPv	𡆵
+囗丨一𠃊𠃍一丨,UdKsFhKs	𡆵
 囗无,UdUe	𡆶
 囗口一,UdIqFh	𡆷
 囗一⺊ㄅ,UdFhDhPv	𡆸
@@ -32360,8 +32360,8 @@
 囗千里,UdHcDn	𡈈
 囗⺿𠂇口,UdWhGlIq	𡈉
 囗馬,UdGb	𡈊
-一口丨囗乛𠃌乚,FhIqKsPv	𡈋
-囗艹囗八冂,UdWhUdZv	𡈌
+十口囗丨一𠃊𠃍一丨,GlIqUdKs	𡈋
+囗艹冂八冂,UdWhZvZv	𡈌
 田人人人人,SlSiSiSi	𡈍
 囗烏,UdTz	𡈎
 囗气米,UdFqMg	𡈏
@@ -32371,7 +32371,7 @@
 囗十目,UdGlGyVy	𡈓
 囗石石,UdQqQq	𡈔
 囗丷夫目,UdVySvGy	𡈕
-囗止亻人彡,UdLdKjBl	𡈖
+囗止亻亻彡,UdLdKjBl	𡈖
 囗⺿日大,UdWhJeXi	𡈗
 囗䒑一儿冂,UdVyJvZv	𡈘
 囗鳥,UdTl	𡈙
@@ -32391,7 +32391,7 @@
 一口囗一,FhIqUdWu	𡈧
 囗吅吅,UdRuRu	𡈨
 囗立里,UdYqDn	𡈩
-囗日⺈巾,UdJeRlUw	𡈪
+囗白⺈巾彡,UdDyRlBl	𡈪
 囗厶屮凵糸,UdNdIaHt	𡈫
 囗亻十田寸,UdKjGlLw	𡈬
 囗犭言犬,UdLeMeLe	𡈭
@@ -59161,8 +59161,8 @@
 甘言斤,MzMeOz	𧪷
 言廿一冂土,MeXkFhBm	𧪸
 言宀辛,MeErJt	𧪹
-言亼〣井,MeTuJvBz	𧪺
 言亼冂卅,MeTuZvFh	𧪺
+言亼〣井,MeTuJvBz	𧪺
 言立立,MeYqYq	𧪻
 言口貝,MeIqIc	𧪼
 言一业日,MeFhOqJe	𧪽

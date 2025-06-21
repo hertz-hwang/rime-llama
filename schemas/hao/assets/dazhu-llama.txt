@@ -32580,7 +32580,7 @@ ublc	𡆱
 uxc	𡆲
 udup	𡆳
 upbm	𡆴
-upp	𡆵
+ukfk	𡆵
 uuep	𡆶
 uifh	𡆷
 ufdp	𡆸
@@ -32666,8 +32666,8 @@ unu	𡈇
 uhdn	𡈈
 uwgi	𡈉
 ugbo	𡈊
-fikp	𡈋
-uwu	𡈌
+giuk	𡈋
+uwzz	𡈌
 ssss	𡈍
 utz	𡈎
 ufmg	𡈏
@@ -32697,7 +32697,7 @@ ubba	𡈦
 fiuw	𡈧
 urru	𡈨
 uydn	𡈩
-ujru	𡈪
+udr	𡈪
 unih	𡈫
 ukgl	𡈬
 ulm	𡈭
@@ -38788,7 +38788,7 @@ tizi	𢨍
 giii	𢨎
 xpjc	𢨏
 rnm	𢨐
-udr	𢨑
+udrl	𢨑
 ydie	𢨒
 rsri	𢨓
 oieo	𢨔
@@ -60789,7 +60789,7 @@ utos	𨁈
 uuaj	𨁉
 udtp	𨁊
 ueif	𨁋
-uppt	𨁌
+upp	𨁌
 uscp	𨁍
 uicb	𨁎
 ugno	𨁏
@@ -60914,7 +60914,7 @@ uism	𨃇
 uxvd	𨃈
 ujbl	𨃉
 udiy	𨃊
-uwuu	𨃋
+uwu	𨃋
 upbl	𨃌
 uzle	𨃍
 ukwb	𨃎
@@ -130411,7 +130411,7 @@ ublc	𡆱
 uxcp	𡆲
 udup	𡆳
 upbm	𡆴
-uppp	𡆵
+ukfk	𡆵
 uuep	𡆶
 uifh	𡆷
 ufdp	𡆸
@@ -130497,8 +130497,8 @@ unub	𡈇
 uhdn	𡈈
 uwgi	𡈉
 ugbo	𡈊
-fikp	𡈋
-uwuz	𡈌
+giuk	𡈋
+uwzz	𡈌
 ssss	𡈍
 utzo	𡈎
 ufmg	𡈏
@@ -130528,7 +130528,7 @@ ubba	𡈦
 fiuw	𡈧
 urru	𡈨
 uydn	𡈩
-ujru	𡈪
+udrb	𡈪
 unih	𡈫
 ukgl	𡈬
 ulml	𡈭
@@ -200260,8 +200260,8 @@ xfld	㍽
 (爫,To,,部首補充)	⺤
 (⺥,To,,部首補充)	⺥
 (丬,Nb,,部首補充)	⺦
-(⺧,Lz,,部首補充)	⺧
 (⺧,Lz,,CJK-B)	⺧
+(⺧,Lz,,部首補充)	⺧
 (犭,Le,,部首補充)	⺨
 (王,Gi,,部首補充)	⺩
 (⺪,Kf,,部首補充)	⺪
@@ -232498,7 +232498,7 @@ xfld	㍽
 (囗亡,UdXc,nǎn,CJK-B)	𡆲
 (囗巳,UdDu,,CJK-B)	𡆳
 (囗ヿ土,UdPvBm,,CJK-B)	𡆴
-(囗乛𠃌乚,UdPvPvPv,,CJK-B)	𡆵
+(囗丨一𠃊𠃍一丨,UdKsFhKs,,CJK-B)	𡆵
 (囗无,UdUe,,CJK-B)	𡆶
 (囗口一,UdIqFh,,CJK-B)	𡆷
 (囗一⺊ㄅ,UdFhDhPv,rì_guó,CJK-B)	𡆸
@@ -232584,8 +232584,8 @@ xfld	㍽
 (囗千里,UdHcDn,,CJK-B)	𡈈
 (囗⺿𠂇口,UdWhGlIq,quān,CJK-B)	𡈉
 (囗馬,UdGb,zhí,CJK-B)	𡈊
-(一口丨囗乛𠃌乚,FhIqKsPv,,CJK-B)	𡈋
-(囗艹囗八冂,UdWhUdZv,,CJK-B)	𡈌
+(十口囗丨一𠃊𠃍一丨,GlIqUdKs,,CJK-B)	𡈋
+(囗艹冂八冂,UdWhZvZv,,CJK-B)	𡈌
 (田人人人人,SlSiSiSi,líng,CJK-B)	𡈍
 (囗烏,UdTz,wū_rì,CJK-B)	𡈎
 (囗气米,UdFqMg,xìn,CJK-B)	𡈏
@@ -232595,7 +232595,7 @@ xfld	㍽
 (囗十目,UdGlGyVy,yuàn,CJK-B)	𡈓
 (囗石石,UdQqQq,,CJK-B)	𡈔
 (囗丷夫目,UdVySvGy,,CJK-B)	𡈕
-(囗止亻人彡,UdLdKjBl,,CJK-B)	𡈖
+(囗止亻亻彡,UdLdKjBl,,CJK-B)	𡈖
 (囗⺿日大,UdWhJeXi,mò,CJK-B)	𡈗
 (囗䒑一儿冂,UdVyJvZv,,CJK-B)	𡈘
 (囗鳥,UdTl,yóu,CJK-B)	𡈙
@@ -232615,7 +232615,7 @@ xfld	㍽
 (一口囗一,FhIqUdWu,gǔn,CJK-B)	𡈧
 (囗吅吅,UdRuRu,yù,CJK-B)	𡈨
 (囗立里,UdYqDn,,CJK-B)	𡈩
-(囗日⺈巾,UdJeRlUw,,CJK-B)	𡈪
+(囗白⺈巾彡,UdDyRlBl,,CJK-B)	𡈪
 (囗厶屮凵糸,UdNdIaHt,,CJK-B)	𡈫
 (囗亻十田寸,UdKjGlLw,,CJK-B)	𡈬
 (囗犭言犬,UdLeMeLe,,CJK-B)	𡈭
@@ -259385,8 +259385,8 @@ xfld	㍽
 (甘言斤,MzMeOz,,CJK-B)	𧪷
 (言廿一冂土,MeXkFhBm,,CJK-B)	𧪸
 (言宀辛,MeErJt,xià,CJK-B)	𧪹
-(言亼〣井,MeTuJvBz,,CJK-B)	𧪺
 (言亼冂卅,MeTuZvFh,,CJK-B)	𧪺
+(言亼〣井,MeTuJvBz,,CJK-B)	𧪺
 (言立立,MeYqYq,,CJK-B)	𧪻
 (言口貝,MeIqIc,,CJK-B)	𧪼
 (言一业日,MeFhOqJe,,CJK-B)	𧪽

@@ -16720,7 +16720,6 @@
 𪞿	fikg
 𫠾	fiki
 𢘑	fikn
-𡈋	fikp
 㲴	fiks
 𠁨	fiks
 𰀉	fiks
@@ -20126,6 +20125,7 @@
 𥅤	giue
 𪡐	giui
 𩏍	giuj
+𡈋	giuk
 𨔻	giul
 𫻭	giuu
 𮧯	giuw
@@ -75499,6 +75499,7 @@
 𮛂	udpj
 𫜛	udpk
 𲃤	udpv
+𡈪	udrb
 𢨑	udrl
 𭘫	udsb
 㐪	udsi
@@ -76402,7 +76403,6 @@
 𬁫	ujrh
 𢃑	ujrl
 𮛤	ujrl
-𡈪	ujru
 𫏍	ujry
 𣝞	ujsa
 𨄓	ujsa
@@ -76483,6 +76483,7 @@
 帿	ukee
 𨁔	ukel
 𠅁	ukfh
+𡆵	ukfk
 𡇛	ukfn
 𠅚	ukfo
 𤴚	ukfo
@@ -77188,7 +77189,6 @@
 𩗙	upoz
 𫷂	uppc
 𱕸	uppo
-𡆵	uppp
 𨁌	uppt
 𲃔	uppv
 𧜪	upro
@@ -78316,7 +78316,6 @@
 𨇿	uwuj
 𮨘	uwus
 𨃋	uwuu
-𡈌	uwuz
 𪒼	uwvd
 𮜨	uwvd
 幁	uwvo
@@ -78361,6 +78360,7 @@
 𬝱	uwzx
 𠆠	uwzy
 𠆡	uwzy
+𡈌	uwzz
 𨂏	uxaj
 𨅨	uxaj
 𩙆	uxaj

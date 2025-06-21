@@ -163802,7 +163802,6 @@ fikg⇥	剮
 fikg⇥	𪞿
 fiki⇥	𫠾
 fikn⇥	𢘑
-fikp⇥	𡈋
 fiks⇥	㲴
 fiks⇥	𠁨
 fiks⇥	𰀉
@@ -167208,6 +167207,7 @@ giuc⇥	䵧
 giue⇥	𥅤
 giui⇥	𪡐
 giuj⇥	𩏍
+giuk⇥	𡈋
 giul⇥	𨔻
 giuu⇥	𫻭
 giuw⇥	𮧯
@@ -222581,6 +222581,7 @@ udpj⇥	𦓑
 udpj⇥	𮛂
 udpk⇥	𫜛
 udpv⇥	𲃤
+udrb⇥	𡈪
 udrl⇥	𢨑
 udsb⇥	𭘫
 udsi⇥	㐪
@@ -223484,7 +223485,6 @@ ujrg⇥	𠆛
 ujrh⇥	𬁫
 ujrl⇥	𢃑
 ujrl⇥	𮛤
-ujru⇥	𡈪
 ujry⇥	𫏍
 ujsa⇥	𣝞
 ujsa⇥	𨄓
@@ -223565,6 +223565,7 @@ ukee⇥	𪑻
 ukee⇥	帿
 ukel⇥	𨁔
 ukfh⇥	𠅁
+ukfk⇥	𡆵
 ukfn⇥	𡇛
 ukfo⇥	𠅚
 ukfo⇥	𤴚
@@ -224270,7 +224271,6 @@ upoz⇥	䟷
 upoz⇥	𩗙
 uppc⇥	𫷂
 uppo⇥	𱕸
-uppp⇥	𡆵
 uppt⇥	𨁌
 uppv⇥	𲃔
 upro⇥	𧜪
@@ -225398,7 +225398,6 @@ uwui⇥	𪒯
 uwuj⇥	𨇿
 uwus⇥	𮨘
 uwuu⇥	𨃋
-uwuz⇥	𡈌
 uwvd⇥	𪒼
 uwvd⇥	𮜨
 uwvo⇥	幁
@@ -225443,6 +225442,7 @@ uwzx⇥	𩘑
 uwzx⇥	𬝱
 uwzy⇥	𠆠
 uwzy⇥	𠆡
+uwzz⇥	𡈌
 uxaj⇥	𨂏
 uxaj⇥	𨅨
 uxaj⇥	𩙆
@@ -249492,8 +249492,8 @@ zzzz⇥	𥷹
 (爫,To,,部首補充)	⺤
 (⺥,To,,部首補充)	⺥
 (丬,Nb,,部首補充)	⺦
-(⺧,Lz,,部首補充)	⺧
 (⺧,Lz,,CJK-B)	⺧
+(⺧,Lz,,部首補充)	⺧
 (犭,Le,,部首補充)	⺨
 (王,Gi,,部首補充)	⺩
 (⺪,Kf,,部首補充)	⺪
@@ -281730,7 +281730,7 @@ zzzz⇥	𥷹
 (囗亡,UdXc,nǎn,CJK-B)	𡆲
 (囗巳,UdDu,,CJK-B)	𡆳
 (囗ヿ土,UdPvBm,,CJK-B)	𡆴
-(囗乛𠃌乚,UdPvPvPv,,CJK-B)	𡆵
+(囗丨一𠃊𠃍一丨,UdKsFhKs,,CJK-B)	𡆵
 (囗无,UdUe,,CJK-B)	𡆶
 (囗口一,UdIqFh,,CJK-B)	𡆷
 (囗一⺊ㄅ,UdFhDhPv,rì_guó,CJK-B)	𡆸
@@ -281816,8 +281816,8 @@ zzzz⇥	𥷹
 (囗千里,UdHcDn,,CJK-B)	𡈈
 (囗⺿𠂇口,UdWhGlIq,quān,CJK-B)	𡈉
 (囗馬,UdGb,zhí,CJK-B)	𡈊
-(一口丨囗乛𠃌乚,FhIqKsPv,,CJK-B)	𡈋
-(囗艹囗八冂,UdWhUdZv,,CJK-B)	𡈌
+(十口囗丨一𠃊𠃍一丨,GlIqUdKs,,CJK-B)	𡈋
+(囗艹冂八冂,UdWhZvZv,,CJK-B)	𡈌
 (田人人人人,SlSiSiSi,líng,CJK-B)	𡈍
 (囗烏,UdTz,wū_rì,CJK-B)	𡈎
 (囗气米,UdFqMg,xìn,CJK-B)	𡈏
@@ -281827,7 +281827,7 @@ zzzz⇥	𥷹
 (囗十目,UdGlGyVy,yuàn,CJK-B)	𡈓
 (囗石石,UdQqQq,,CJK-B)	𡈔
 (囗丷夫目,UdVySvGy,,CJK-B)	𡈕
-(囗止亻人彡,UdLdKjBl,,CJK-B)	𡈖
+(囗止亻亻彡,UdLdKjBl,,CJK-B)	𡈖
 (囗⺿日大,UdWhJeXi,mò,CJK-B)	𡈗
 (囗䒑一儿冂,UdVyJvZv,,CJK-B)	𡈘
 (囗鳥,UdTl,yóu,CJK-B)	𡈙
@@ -281847,7 +281847,7 @@ zzzz⇥	𥷹
 (一口囗一,FhIqUdWu,gǔn,CJK-B)	𡈧
 (囗吅吅,UdRuRu,yù,CJK-B)	𡈨
 (囗立里,UdYqDn,,CJK-B)	𡈩
-(囗日⺈巾,UdJeRlUw,,CJK-B)	𡈪
+(囗白⺈巾彡,UdDyRlBl,,CJK-B)	𡈪
 (囗厶屮凵糸,UdNdIaHt,,CJK-B)	𡈫
 (囗亻十田寸,UdKjGlLw,,CJK-B)	𡈬
 (囗犭言犬,UdLeMeLe,,CJK-B)	𡈭
@@ -308617,8 +308617,8 @@ zzzz⇥	𥷹
 (甘言斤,MzMeOz,,CJK-B)	𧪷
 (言廿一冂土,MeXkFhBm,,CJK-B)	𧪸
 (言宀辛,MeErJt,xià,CJK-B)	𧪹
-(言亼〣井,MeTuJvBz,,CJK-B)	𧪺
 (言亼冂卅,MeTuZvFh,,CJK-B)	𧪺
+(言亼〣井,MeTuJvBz,,CJK-B)	𧪺
 (言立立,MeYqYq,,CJK-B)	𧪻
 (言口貝,MeIqIc,,CJK-B)	𧪼
 (言一业日,MeFhOqJe,,CJK-B)	𧪽
