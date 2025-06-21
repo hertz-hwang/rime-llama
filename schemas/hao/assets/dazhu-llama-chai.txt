@@ -51,7 +51,7 @@
 罒,Yt	⺲
 冖八,ErVy	⺳
 冖儿,ErAh	⺴
-⺵,Yt	⺵
+冂丨丨,ZvKsKs	⺵
 ⺶,Id	⺶
 ⺷,Id	⺷
 ⺸,Id	⺸
@@ -53551,7 +53551,7 @@
 耂日吅田十亻二,RiJeRuRl	𦓍
 而刂,UaKg	𦓎
 九而,DpUa	𦓏
-丿⺵,CkYt	𦓐
+丿冂丨丨,CkZvKsKs	𦓐
 而九,UaDp	𦓑
 火而,YvUa	𦓒
 瓦而,FnUa	𦓓
@@ -75146,7 +75146,7 @@
 冫木攵,LvAjRy	𫥏
 冫日一寸,LvJeFhLw	𫥐
 冫束刂,LvUhKg	𫥑
-冫⺊⺵大,LvDhYtXi	𫥒
+冫⺊冂丨丨大,LvDhZvXi	𫥒
 冫亼⺝刂,LvTuMdKg	𫥓
 冫立木,LvYqAj	𫥔
 冫亽龴甘,LvTuNdMz	𫥕

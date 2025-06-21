@@ -156322,7 +156322,6 @@ cyry⇥	𫿡
 cysj⇥	镯
 cytj⇥	𨞻
 cytj⇥	铘
-cytk⇥	𦓐
 cytn⇥	𪋚
 cyuy⇥	𩙒
 cyvo⇥	麃
@@ -156384,6 +156383,7 @@ czjt⇥	鿏
 czjy⇥	𤒐
 czkg⇥	𮸊
 czkh⇥	𬭴
+czkk⇥	𦓐
 czkx⇥	锲
 czlw⇥	铸
 czlx⇥	𡘠
@@ -189802,12 +189802,12 @@ ldyf⇥	𪞜
 ldyf⇥	𭷛
 ldyf⇥	𲄜
 ldyf⇥	舶
-ldyx⇥	𫥒
 ldzb⇥	㺝
 ldzb⇥	𨊔
 ldzb⇥	艦
 ldze⇥	𤣖
 ldzs⇥	𤣟
+ldzx⇥	𫥒
 leah⇥	𤘣
 leah⇥	𤘺
 leah⇥	𤜴
@@ -239109,7 +239109,6 @@ ytkf⇥	⺲
 ytkf⇥	四
 ytkf⇥	罒
 ytkj⇥	㷔
-ytkk⇥	⺵
 ytko⇥	𭵶
 ytky⇥	𡦗
 ytlo⇥	鴉
@@ -242008,6 +242007,7 @@ zkkm⇥	𥠿
 zkkm⇥	𮆀
 zkko⇥	𮅄
 zkkr⇥	筱
+zkks⇥	⺵
 zklb⇥	𱭯
 zklt⇥	篴
 zklt⇥	䆳
@@ -249492,8 +249492,8 @@ zzzz⇥	𥷹
 (爫,To,,部首補充)	⺤
 (⺥,To,,部首補充)	⺥
 (丬,Nb,,部首補充)	⺦
-(⺧,Lz,,CJK-B)	⺧
 (⺧,Lz,,部首補充)	⺧
+(⺧,Lz,,CJK-B)	⺧
 (犭,Le,,部首補充)	⺨
 (王,Gi,,部首補充)	⺩
 (⺪,Kf,,部首補充)	⺪
@@ -249507,7 +249507,7 @@ zzzz⇥	𥷹
 (罒,Yt,,部首補充)	⺲
 (冖八,ErVy,,部首補充)	⺳
 (冖儿,ErAh,,部首補充)	⺴
-(⺵,Yt,,部首補充)	⺵
+(冂丨丨,ZvKsKs,,部首補充)	⺵
 (⺶,Id,,部首補充)	⺶
 (⺷,Id,,部首補充)	⺷
 (⺸,Id,,部首補充)	⺸
@@ -249594,8 +249594,8 @@ zzzz⇥	𥷹
 (丶,Oe,,筆畫)	㇔
 (ヿ,Pv,,筆畫)	㇕
 (乛,Pv,,筆畫)	㇖
-(㇗,Pv,,筆畫)	㇗
 (㇗,Pv,yǐn,CJK-B)	㇗
+(㇗,Pv,,筆畫)	㇗
 (丨一,KsFh,,筆畫)	㇘
 (レ,Pv,,筆畫)	㇙
 (丨,Ks,,筆畫)	㇚
@@ -303007,7 +303007,7 @@ zzzz⇥	𥷹
 (耂日吅田十亻二,RiJeRuRl,chě,CJK-B)	𦓍
 (而刂,UaKg,nài,CJK-B)	𦓎
 (九而,DpUa,,CJK-B)	𦓏
-(丿⺵,CkYt,jué,CJK-B)	𦓐
+(丿冂丨丨,CkZvKsKs,jué,CJK-B)	𦓐
 (而九,UaDp,,CJK-B)	𦓑
 (火而,YvUa,,CJK-B)	𦓒
 (瓦而,FnUa,ér_liè,CJK-B)	𦓓
@@ -324602,7 +324602,7 @@ zzzz⇥	𥷹
 (冫木攵,LvAjRy,,CJK-E)	𫥏
 (冫日一寸,LvJeFhLw,,CJK-E)	𫥐
 (冫束刂,LvUhKg,,CJK-E)	𫥑
-(冫⺊⺵大,LvDhYtXi,,CJK-E)	𫥒
+(冫⺊冂丨丨大,LvDhZvXi,,CJK-E)	𫥒
 (冫亼⺝刂,LvTuMdKg,,CJK-E)	𫥓
 (冫立木,LvYqAj,,CJK-E)	𫥔
 (冫亽龴甘,LvTuNdMz,,CJK-E)	𫥕
